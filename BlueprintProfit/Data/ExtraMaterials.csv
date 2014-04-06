@@ -1,0 +1,5005 @@
+380;377;Small Shield Extender I;1;1
+380;3685;Hydrogen Batteries;2;1
+380;11484;R.A.M.- Shield Tech;1;0,05
+380;11558;Sustained Shield Emitter;2;1
+394;11484;R.A.M.- Shield Tech;1;0,1
+394;3685;Hydrogen Batteries;1;1
+394;9838;Superconductors;2;1
+394;393;Shield Recharger I;1;1
+400;399;Small Shield Booster I;1;1
+400;9838;Superconductors;1;1
+400;11484;R.A.M.- Shield Tech;1;0,1
+400;11556;Pulse Shield Emitter;2;1
+438;11549;Antimatter Reactor Unit;5;1
+438;11530;Plasma Thruster;2;1
+438;11531;Ion Thruster;10;1
+438;11475;R.A.M.- Armor/Hull Tech;1;0,05
+438;439;1MN Afterburner I;1;1
+440;434;1MN Microwarpdrive I;1;1
+440;11475;R.A.M.- Armor/Hull Tech;1;0,04
+440;11531;Ion Thruster;10;1
+440;11530;Plasma Thruster;16;1
+440;11549;Antimatter Reactor Unit;5;1
+448;11534;Gravimetric Sensor Cluster;2;1
+448;11540;Quantum Microprocessor;6;1
+448;11483;R.A.M.- Electronics;1;0,25
+448;9840;Transmitter;5;1
+448;9842;Miniature Electronics;10;1
+448;447;Warp Scrambler I;1;1
+482;483;Miner I;1;1
+482;11482;R.A.M.- Energy Tech;1;0,2
+482;3689;Mechanical Parts;5;1
+482;11541;Photon Microprocessor;3;1
+482;11689;Laser Focusing Crystals;2;1
+519;11538;Nanomechanical Microprocessor;5;1
+519;11483;R.A.M.- Electronics;1;0,15
+519;3689;Mechanical Parts;5;1
+519;9842;Miniature Electronics;2;1
+519;11399;Morphite;3;1
+519;520;Gyrostabilizer I;1;1
+527;526;Stasis Webifier I;1;1
+527;9842;Miniature Electronics;5;1
+527;9840;Transmitter;8;1
+527;11483;R.A.M.- Electronics;1;0,25
+527;11538;Nanomechanical Microprocessor;2;1
+582;34;Tritanium;17294;1
+582;35;Pyerite;6475;1
+582;36;Mexallon;2160;1
+582;37;Isogen;404;1
+583;37;Isogen;432;1
+583;38;Nocxium;10;1
+583;36;Mexallon;1754;1
+583;35;Pyerite;2578;1
+583;34;Tritanium;16001;1
+583;39;Zydrine;1;1
+584;39;Zydrine;8;1
+584;40;Megacyte;3;1
+584;34;Tritanium;28;1
+584;35;Pyerite;1129;1
+584;36;Mexallon;1;1
+584;38;Nocxium;48;1
+584;37;Isogen;200;1
+585;36;Mexallon;1282;1
+585;37;Isogen;90;1
+585;38;Nocxium;90;1
+585;35;Pyerite;3582;1
+585;34;Tritanium;17146;1
+585;40;Megacyte;2;1
+586;40;Megacyte;3;1
+586;39;Zydrine;15;1
+586;34;Tritanium;5766;1
+586;35;Pyerite;6752;1
+586;37;Isogen;1;1
+586;38;Nocxium;39;1
+586;36;Mexallon;1128;1
+589;36;Mexallon;1370;1
+589;37;Isogen;298;1
+589;35;Pyerite;1490;1
+589;34;Tritanium;17248;1
+589;38;Nocxium;60;1
+589;39;Zydrine;5;1
+591;39;Zydrine;10;1
+591;38;Nocxium;40;1
+591;34;Tritanium;17771;1
+591;35;Pyerite;1982;1
+591;37;Isogen;198;1
+591;36;Mexallon;3444;1
+592;36;Mexallon;2897;1
+592;37;Isogen;246;1
+592;35;Pyerite;3986;1
+592;34;Tritanium;14270;1
+592;38;Nocxium;28;1
+592;39;Zydrine;3;1
+598;40;Megacyte;1;1
+598;34;Tritanium;562;1
+598;35;Pyerite;23;1
+598;37;Isogen;86;1
+598;38;Nocxium;2;1
+598;36;Mexallon;65;1
+599;36;Mexallon;3538;1
+599;38;Nocxium;20;1
+599;37;Isogen;149;1
+599;35;Pyerite;2717;1
+599;34;Tritanium;13338;1
+599;40;Megacyte;1;1
+599;39;Zydrine;3;1
+602;39;Zydrine;9;1
+602;34;Tritanium;1148;1
+602;35;Pyerite;5000;1
+602;37;Isogen;139;1
+602;38;Nocxium;49;1
+602;36;Mexallon;21;1
+605;36;Mexallon;1259;1
+605;38;Nocxium;44;1
+605;37;Isogen;376;1
+605;35;Pyerite;5847;1
+605;34;Tritanium;4515;1
+605;39;Zydrine;7;1
+605;40;Megacyte;4;1
+607;40;Megacyte;2;1
+607;39;Zydrine;19;1
+607;34;Tritanium;8371;1
+607;35;Pyerite;4078;1
+607;37;Isogen;249;1
+607;38;Nocxium;45;1
+607;36;Mexallon;1005;1
+608;36;Mexallon;1449;1
+608;38;Nocxium;50;1
+608;37;Isogen;242;1
+608;35;Pyerite;2891;1
+608;34;Tritanium;16663;1
+608;39;Zydrine;4;1
+609;34;Tritanium;252;1
+609;35;Pyerite;901;1
+609;37;Isogen;42;1
+609;38;Nocxium;2;1
+609;36;Mexallon;169;1
+620;37;Isogen;4700;1
+620;38;Nocxium;560;1
+620;36;Mexallon;15163;1
+620;35;Pyerite;65394;1
+620;34;Tritanium;285564;1
+620;40;Megacyte;30;1
+620;39;Zydrine;208;1
+621;39;Zydrine;354;1
+621;40;Megacyte;174;1
+621;34;Tritanium;182512;1
+621;35;Pyerite;32796;1
+621;36;Mexallon;7691;1
+621;38;Nocxium;1724;1
+621;37;Isogen;4116;1
+622;36;Mexallon;10168;1
+622;37;Isogen;3950;1
+622;38;Nocxium;1220;1
+622;35;Pyerite;92797;1
+622;34;Tritanium;152516;1
+622;39;Zydrine;291;1
+622;40;Megacyte;49;1
+623;40;Megacyte;15;1
+623;39;Zydrine;29;1
+623;35;Pyerite;1190;1
+623;38;Nocxium;252;1
+623;37;Isogen;182;1
+623;36;Mexallon;84;1
+625;36;Mexallon;15097;1
+625;37;Isogen;4429;1
+625;38;Nocxium;454;1
+625;35;Pyerite;52394;1
+625;34;Tritanium;315154;1
+625;39;Zydrine;159;1
+625;40;Megacyte;17;1
+626;40;Megacyte;107;1
+626;39;Zydrine;329;1
+626;34;Tritanium;252266;1
+626;35;Pyerite;42798;1
+626;38;Nocxium;1324;1
+626;37;Isogen;3751;1
+626;36;Mexallon;10821;1
+627;36;Mexallon;876;1
+627;37;Isogen;1230;1
+627;38;Nocxium;665;1
+628;38;Nocxium;999;1
+628;37;Isogen;3816;1
+628;36;Mexallon;18764;1
+628;35;Pyerite;28156;1
+628;34;Tritanium;154210;1
+628;39;Zydrine;271;1
+628;40;Megacyte;45;1
+629;40;Megacyte;18;1
+629;39;Zydrine;16;1
+629;34;Tritanium;99516;1
+629;35;Pyerite;37226;1
+629;36;Mexallon;5757;1
+629;37;Isogen;2147;1
+629;38;Nocxium;553;1
+630;38;Nocxium;983;1
+630;37;Isogen;3845;1
+630;36;Mexallon;20252;1
+630;35;Pyerite;29157;1
+630;34;Tritanium;144202;1
+630;39;Zydrine;227;1
+630;40;Megacyte;27;1
+631;40;Megacyte;26;1
+631;39;Zydrine;181;1
+631;34;Tritanium;275162;1
+631;35;Pyerite;74394;1
+631;36;Mexallon;16866;1
+631;37;Isogen;4395;1
+631;38;Nocxium;256;1
+632;38;Nocxium;1198;1
+632;37;Isogen;4387;1
+632;36;Mexallon;17766;1
+632;35;Pyerite;24155;1
+632;34;Tritanium;124202;1
+632;39;Zydrine;321;1
+632;40;Megacyte;97;1
+633;40;Megacyte;42;1
+633;39;Zydrine;260;1
+633;34;Tritanium;134202;1
+633;35;Pyerite;25154;1
+633;36;Mexallon;21021;1
+633;37;Isogen;4957;1
+633;38;Nocxium;896;1
+634;38;Nocxium;155;1
+634;37;Isogen;4611;1
+634;36;Mexallon;13842;1
+634;35;Pyerite;69395;1
+634;34;Tritanium;305154;1
+634;39;Zydrine;167;1
+634;40;Megacyte;42;1
+638;40;Megacyte;576;1
+638;39;Zydrine;1830;1
+638;34;Tritanium;1970168;1
+638;36;Mexallon;123325;1
+638;35;Pyerite;492598;1
+638;37;Isogen;30801;1
+638;38;Nocxium;7685;1
+639;37;Isogen;29982;1
+639;38;Nocxium;7472;1
+639;36;Mexallon;120257;1
+639;35;Pyerite;479407;1
+639;34;Tritanium;1916848;1
+639;39;Zydrine;1756;1
+639;40;Megacyte;503;1
+640;40;Megacyte;1333;1
+640;39;Zydrine;3208;1
+640;34;Tritanium;4259868;1
+640;35;Pyerite;905190;1
+640;36;Mexallon;242770;1
+640;38;Nocxium;14397;1
+640;37;Isogen;66480;1
+641;37;Isogen;29974;1
+641;38;Nocxium;7483;1
+641;36;Mexallon;120070;1
+641;35;Pyerite;529406;1
+641;34;Tritanium;1916860;1
+641;39;Zydrine;1770;1
+641;40;Megacyte;537;1
+642;40;Megacyte;197;1
+642;39;Zydrine;1852;1
+642;34;Tritanium;1970164;1
+642;35;Pyerite;492597;1
+642;36;Mexallon;123326;1
+642;37;Isogen;30806;1
+642;38;Nocxium;7698;1
+643;38;Nocxium;25714;1
+643;37;Isogen;103125;1
+643;36;Mexallon;414828;1
+643;35;Pyerite;1646104;1
+643;34;Tritanium;6580260;1
+643;39;Zydrine;6028;1
+643;40;Megacyte;2805;1
+644;40;Megacyte;438;1
+644;39;Zydrine;3532;1
+644;34;Tritanium;4131160;1
+644;35;Pyerite;1232906;1
+644;36;Mexallon;240030;1
+644;37;Isogen;67865;1
+644;38;Nocxium;11195;1
+645;38;Nocxium;23830;1
+645;37;Isogen;95691;1
+645;36;Mexallon;384595;1
+645;35;Pyerite;1527706;1
+645;34;Tritanium;6107160;1
+645;39;Zydrine;5446;1
+645;40;Megacyte;1993;1
+648;40;Megacyte;5;1
+648;39;Zydrine;5;1
+648;34;Tritanium;39389;1
+648;35;Pyerite;4859;1
+648;36;Mexallon;3495;1
+648;38;Nocxium;69;1
+648;37;Isogen;19;1
+649;37;Isogen;408;1
+649;38;Nocxium;4;1
+649;36;Mexallon;38;1
+649;35;Pyerite;8;1
+649;34;Tritanium;138;1
+649;39;Zydrine;3;1
+650;39;Zydrine;9;1
+650;40;Megacyte;6;1
+650;34;Tritanium;27476;1
+650;35;Pyerite;6573;1
+650;36;Mexallon;2765;1
+650;38;Nocxium;103;1
+650;37;Isogen;3;1
+651;37;Isogen;13;1
+651;38;Nocxium;16;1
+651;36;Mexallon;35;1
+651;35;Pyerite;829;1
+651;34;Tritanium;48106;1
+651;40;Megacyte;9;1
+651;39;Zydrine;2;1
+652;34;Tritanium;350;1
+652;35;Pyerite;133;1
+652;36;Mexallon;95;1
+652;38;Nocxium;9;1
+652;37;Isogen;8;1
+653;37;Isogen;282;1
+653;38;Nocxium;1;1
+653;36;Mexallon;1308;1
+653;35;Pyerite;2882;1
+653;34;Tritanium;53478;1
+653;39;Zydrine;8;1
+653;40;Megacyte;5;1
+654;40;Megacyte;8;1
+654;39;Zydrine;14;1
+654;34;Tritanium;39362;1
+654;35;Pyerite;7691;1
+654;36;Mexallon;2077;1
+654;38;Nocxium;42;1
+654;37;Isogen;249;1
+655;37;Isogen;105;1
+655;38;Nocxium;21;1
+655;36;Mexallon;1002;1
+655;35;Pyerite;2866;1
+655;34;Tritanium;33765;1
+655;39;Zydrine;7;1
+656;39;Zydrine;1;1
+656;34;Tritanium;19928;1
+656;35;Pyerite;280;1
+656;36;Mexallon;161;1
+656;38;Nocxium;1;1
+656;37;Isogen;2;1
+657;36;Mexallon;12;1
+1183;523;Small Armor Repairer I;1;1
+1183;9848;Robotics;2;1
+1183;11475;R.A.M.- Armor/Hull Tech;1;0,05
+1183;11539;Nanoelectrical Microprocessor;1;1
+1190;11539;Nanoelectrical Microprocessor;3;1
+1190;11554;Tesseract Capacitor Unit;5;1
+1190;11482;R.A.M.- Energy Tech;1;0,3
+1190;9838;Superconductors;10;1
+1190;529;Small Remote Capacitor Transmitter I;1;1
+1198;1197;EM Plating I;1;1
+1198;11475;R.A.M.- Armor/Hull Tech;1;0,075
+1198;11543;Tungsten Carbide Armor Plate;1;1
+1198;11544;Titanium Diborite Armor Plate;1;1
+1198;11545;Crystalline Carbonide Armor Plate;2;1
+1236;11530;Plasma Thruster;3;1
+1236;11475;R.A.M.- Armor/Hull Tech;1;0,15
+1236;3689;Mechanical Parts;2;1
+1236;1244;Overdrive Injector System I;1;1
+1248;1246;Capacitor Flux Coil I;1;1
+1248;9838;Superconductors;3;1
+1248;11482;R.A.M.- Energy Tech;1;0,1
+1248;11539;Nanoelectrical Microprocessor;1;1
+1248;11554;Tesseract Capacitor Unit;3;1
+1256;11554;Tesseract Capacitor Unit;3;1
+1256;11539;Nanoelectrical Microprocessor;1;1
+1256;11482;R.A.M.- Energy Tech;1;0,1
+1256;9838;Superconductors;3;1
+1256;1254;Shield Flux Coil I;1;1
+1266;1264;Explosive Plating I;1;1
+1266;11475;R.A.M.- Armor/Hull Tech;1;0,075
+1266;11543;Tungsten Carbide Armor Plate;2;1
+1266;11542;Fernite Carbide Composite Armor Plate;2;1
+1276;11543;Tungsten Carbide Armor Plate;2;1
+1276;11544;Titanium Diborite Armor Plate;2;1
+1276;11475;R.A.M.- Armor/Hull Tech;1;0,075
+1276;1274;Layered Plating I;1;1
+1286;1284;Kinetic Plating I;1;1
+1286;11475;R.A.M.- Armor/Hull Tech;1;0,004
+1286;11544;Titanium Diborite Armor Plate;2;1
+1286;11545;Crystalline Carbonide Armor Plate;1;1
+1286;11542;Fernite Carbide Composite Armor Plate;1;1
+1296;11542;Fernite Carbide Composite Armor Plate;2;1
+1296;11545;Crystalline Carbonide Armor Plate;2;1
+1296;11475;R.A.M.- Armor/Hull Tech;1;0,075
+1296;1294;Thermic Plating I;1;1
+1306;1304;Adaptive Nano Plating I;1;1
+1306;11475;R.A.M.- Armor/Hull Tech;1;0,075
+1306;11545;Crystalline Carbonide Armor Plate;1;1
+1306;11544;Titanium Diborite Armor Plate;1;1
+1306;11542;Fernite Carbide Composite Armor Plate;1;1
+1306;11543;Tungsten Carbide Armor Plate;1;1
+1319;11545;Crystalline Carbonide Armor Plate;1;1
+1319;11538;Nanomechanical Microprocessor;1;1
+1319;11475;R.A.M.- Armor/Hull Tech;1;0,2
+1319;3828;Construction Blocks;5;1
+1319;1317;Expanded Cargohold I;1;1
+1335;1333;Reinforced Bulkheads I;1;1
+1335;3828;Construction Blocks;5;1
+1335;11475;R.A.M.- Armor/Hull Tech;1;0,15
+1355;11482;R.A.M.- Energy Tech;1;0,15
+1355;9838;Superconductors;2;1
+1355;1353;Reactor Control Unit I;1;1
+1355;11539;Nanoelectrical Microprocessor;3;1
+1355;11554;Tesseract Capacitor Unit;2;1
+1405;11530;Plasma Thruster;2;1
+1405;1403;Inertia Stabilizers I;1;1
+1405;3689;Mechanical Parts;3;1
+1405;11475;R.A.M.- Armor/Hull Tech;1;0,15
+1422;11482;R.A.M.- Energy Tech;1;0,1
+1422;9838;Superconductors;5;1
+1422;2331;Shield Power Relay I;1;1
+1422;11539;Nanoelectrical Microprocessor;1;1
+1422;11554;Tesseract Capacitor Unit;1;1
+1436;11551;Electrolytic Capacitor Unit;1;1
+1436;11540;Quantum Microprocessor;1;1
+1436;11536;Ladar Sensor Cluster;2;1
+1436;11483;R.A.M.- Electronics;1;0,2
+1436;1182;Auto Targeting System I;1;1
+1436;9840;Transmitter;3;1
+1436;9842;Miniature Electronics;7;1
+1447;9838;Superconductors;5;1
+1447;1445;Capacitor Power Relay I;1;1
+1447;11482;R.A.M.- Energy Tech;1;0,1
+1447;11539;Nanoelectrical Microprocessor;1;1
+1447;11554;Tesseract Capacitor Unit;1;1
+1541;11554;Tesseract Capacitor Unit;1;1
+1541;11539;Nanoelectrical Microprocessor;5;1
+1541;11482;R.A.M.- Energy Tech;1;0,1
+1541;1539;Power Diagnostic System I;1;1
+1541;9838;Superconductors;1;1
+1549;1547;Small Proton Smartbomb I;1;1
+1549;11482;R.A.M.- Energy Tech;1;0,1
+1549;11692;Nuclear Pulse Generator;4;1
+1553;11693;Graviton Pulse Generator;4;1
+1553;11482;R.A.M.- Energy Tech;1;0,1
+1553;1551;Small Graviton Smartbomb I;1;1
+1559;1557;Small Plasma Smartbomb I;1;1
+1559;11482;R.A.M.- Energy Tech;1;0,1
+1559;11695;Plasma Pulse Generator;4;1
+1565;11694;EM Pulse Generator;4;1
+1565;11482;R.A.M.- Energy Tech;1;0,1
+1565;1563;Small EMP Smartbomb I;1;1
+1855;443;Ship Scanner I;1;1
+1855;9840;Transmitter;2;1
+1855;9842;Miniature Electronics;3;1
+1855;11483;R.A.M.- Electronics;1;0,05
+1855;11539;Nanoelectrical Microprocessor;3;1
+1877;11540;Quantum Microprocessor;3;1
+1877;11486;R.A.M.- Weapon Tech;1;0,1
+1877;9848;Robotics;2;1
+1877;1875;Rapid Light Missile Launcher I;1;1
+1944;40;Megacyte;7;1
+1944;39;Zydrine;3;1
+1944;36;Mexallon;1270;1
+1944;38;Nocxium;2;1
+1944;35;Pyerite;7700;1
+1944;34;Tritanium;39689;1
+1952;1973;Sensor Booster I;1;1
+1952;9842;Miniature Electronics;7;1
+1952;9840;Transmitter;3;1
+1952;11483;R.A.M.- Electronics;1;0,2
+1952;11534;Gravimetric Sensor Cluster;4;1
+1952;11540;Quantum Microprocessor;3;1
+1960;11541;Photon Microprocessor;5;1
+1960;11540;Quantum Microprocessor;5;1
+1960;11538;Nanomechanical Microprocessor;5;1
+1960;11483;R.A.M.- Electronics;1;0,55
+1960;9842;Miniature Electronics;10;1
+1960;9840;Transmitter;30;1
+1960;11399;Morphite;5;1
+1960;1959;ECCM Projector I;1;1
+1964;1963;Remote Sensor Booster I;1;1
+1964;9842;Miniature Electronics;6;1
+1964;9840;Transmitter;5;1
+1964;11483;R.A.M.- Electronics;1;0,35
+1964;11534;Gravimetric Sensor Cluster;5;1
+1964;11540;Quantum Microprocessor;3;1
+1969;11540;Quantum Microprocessor;3;1
+1969;11534;Gravimetric Sensor Cluster;6;1
+1969;11483;R.A.M.- Electronics;1;0,35
+1969;9840;Transmitter;5;1
+1969;9842;Miniature Electronics;9;1
+1969;1968;Remote Sensor Dampener I;1;1
+1978;1977;Tracking Computer I;1;1
+1978;9842;Miniature Electronics;6;1
+1978;11399;Morphite;5;1
+1978;3689;Mechanical Parts;1;1
+1978;11483;R.A.M.- Electronics;1;0,3
+1978;11538;Nanomechanical Microprocessor;8;1
+1987;11540;Quantum Microprocessor;3;1
+1987;11534;Gravimetric Sensor Cluster;5;1
+1987;11483;R.A.M.- Electronics;1;0,1
+1987;9842;Miniature Electronics;5;1
+1987;9840;Transmitter;2;1
+1987;1986;Signal Amplifier I;1;1
+1999;1998;Tracking Enhancer I;1;1
+1999;9842;Miniature Electronics;2;1
+1999;11399;Morphite;3;1
+1999;3689;Mechanical Parts;5;1
+1999;11483;R.A.M.- Electronics;1;0,15
+1999;11538;Nanomechanical Microprocessor;5;1
+2006;39;Zydrine;314;1
+2006;40;Megacyte;115;1
+2006;34;Tritanium;202522;1
+2006;35;Pyerite;42796;1
+2006;38;Nocxium;1324;1
+2006;36;Mexallon;8434;1
+2006;37;Isogen;4250;1
+2024;577;Medium Capacitor Booster I;1;1
+2024;9838;Superconductors;8;1
+2024;11482;R.A.M.- Energy Tech;1;0,2
+2024;11539;Nanoelectrical Microprocessor;3;1
+2024;11554;Tesseract Capacitor Unit;4;1
+2032;11554;Tesseract Capacitor Unit;1;1
+2032;11539;Nanoelectrical Microprocessor;1;1
+2032;11482;R.A.M.- Energy Tech;1;0,05
+2032;9838;Superconductors;3;1
+2032;1195;Cap Recharger I;1;1
+2038;442;Cargo Scanner I;1;1
+2038;9840;Transmitter;2;1
+2038;9842;Miniature Electronics;3;1
+2038;11539;Nanoelectrical Microprocessor;3;1
+2038;11483;R.A.M.- Electronics;1;0,05
+2048;11540;Quantum Microprocessor;1;1
+2048;11553;Oscillator Capacitor Unit;1;1
+2048;11542;Fernite Carbide Composite Armor Plate;1;1
+2048;11695;Plasma Pulse Generator;1;1
+2048;11475;R.A.M.- Armor/Hull Tech;1;0,2
+2048;3828;Construction Blocks;2;1
+2048;3689;Mechanical Parts;3;1
+2048;2046;Damage Control I;1;1
+2103;37;Isogen;1;1
+2103;36;Mexallon;1;1
+2103;35;Pyerite;570;1
+2103;34;Tritanium;687;1
+2104;2103;Remote Tracking Computer I;1;1
+2104;9840;Transmitter;5;1
+2104;9842;Miniature Electronics;6;1
+2104;11538;Nanomechanical Microprocessor;3;1
+2104;11536;Ladar Sensor Cluster;5;1
+2104;11483;R.A.M.- Electronics;1;0,3
+2109;11483;R.A.M.- Electronics;1;0,3
+2109;11535;Magnetometric Sensor Cluster;4;1
+2109;11541;Photon Microprocessor;3;1
+2109;9842;Miniature Electronics;9;1
+2109;9840;Transmitter;5;1
+2109;2108;Tracking Disruptor I;1;1
+2117;580;ECM Burst I;1;1
+2117;9840;Transmitter;5;1
+2117;9842;Miniature Electronics;6;1
+2117;11541;Photon Microprocessor;3;1
+2117;11536;Ladar Sensor Cluster;2;1
+2117;11535;Magnetometric Sensor Cluster;2;1
+2117;11537;Radar Sensor Cluster;2;1
+2117;11534;Gravimetric Sensor Cluster;2;1
+2117;11483;R.A.M.- Electronics;1;0,4
+2161;40;Megacyte;2;1
+2161;39;Zydrine;8;1
+2161;34;Tritanium;400;1
+2161;35;Pyerite;1142;1
+2161;36;Mexallon;630;1
+2161;37;Isogen;250;1
+2161;38;Nocxium;73;1
+2175;2173;Infiltrator I;1;1
+2175;9848;Robotics;2;1
+2175;11481;R.A.M.- Robotics;1;0,075
+2175;9834;Guidance Systems;2;1
+2175;11689;Laser Focusing Crystals;1;1
+2185;11688;Particle Accelerator Unit;1;1
+2185;9834;Guidance Systems;2;1
+2185;11481;R.A.M.- Robotics;1;0,075
+2185;9848;Robotics;2;1
+2185;2183;Hammerhead I;1;1
+2195;2193;Praetor I;1;1
+2195;9848;Robotics;4;1
+2195;11481;R.A.M.- Robotics;1;0,1
+2195;9834;Guidance Systems;4;1
+2195;11689;Laser Focusing Crystals;2;1
+2205;11689;Laser Focusing Crystals;1;1
+2205;9834;Guidance Systems;1;1
+2205;11481;R.A.M.- Robotics;1;0,05
+2205;9848;Robotics;1;1
+2205;2203;Acolyte I;1;1
+2258;2005;ECCM - Omni I;1;1
+2258;9842;Miniature Electronics;9;1
+2258;11483;R.A.M.- Electronics;1;0,25
+2258;11534;Gravimetric Sensor Cluster;1;1
+2258;11537;Radar Sensor Cluster;1;1
+2258;11536;Ladar Sensor Cluster;1;1
+2258;11535;Magnetometric Sensor Cluster;1;1
+2258;11541;Photon Microprocessor;3;1
+2259;11540;Quantum Microprocessor;3;1
+2259;11534;Gravimetric Sensor Cluster;4;1
+2259;11483;R.A.M.- Electronics;1;0,3
+2259;9842;Miniature Electronics;6;1
+2259;2004;ECCM - Gravimetric I;1;1
+2260;2002;ECCM - Ladar I;1;1
+2260;9842;Miniature Electronics;6;1
+2260;11483;R.A.M.- Electronics;1;0,25
+2260;11536;Ladar Sensor Cluster;4;1
+2260;11538;Nanomechanical Microprocessor;3;1
+2261;11535;Magnetometric Sensor Cluster;4;1
+2261;11541;Photon Microprocessor;3;1
+2261;11483;R.A.M.- Electronics;1;0,25
+2261;9842;Miniature Electronics;6;1
+2261;2003;ECCM - Magnetometric I;1;1
+2262;1947;ECCM - Radar I;1;1
+2262;9842;Miniature Electronics;6;1
+2262;11483;R.A.M.- Electronics;1;0,25
+2262;11537;Radar Sensor Cluster;4;1
+2262;11539;Nanoelectrical Microprocessor;3;1
+2281;11556;Pulse Shield Emitter;5;1
+2281;11558;Sustained Shield Emitter;5;1
+2281;11557;Linear Shield Emitter;5;1
+2281;11484;R.A.M.- Shield Tech;1;0,6
+2281;11555;Deflection Shield Emitter;5;1
+2281;9838;Superconductors;10;1
+2281;578;Adaptive Invulnerability Field I;1;1
+2297;2289;Explosive Deflection Field I;1;1
+2297;9838;Superconductors;6;1
+2297;11555;Deflection Shield Emitter;16;1
+2297;11484;R.A.M.- Shield Tech;1;0,4
+2299;11484;R.A.M.- Shield Tech;1;0,4
+2299;11558;Sustained Shield Emitter;16;1
+2299;9838;Superconductors;6;1
+2299;2291;Kinetic Deflection Field I;1;1
+2301;2293;EM Ward Field I;1;1
+2301;9838;Superconductors;6;1
+2301;11557;Linear Shield Emitter;16;1
+2301;11484;R.A.M.- Shield Tech;1;0,4
+2303;11484;R.A.M.- Shield Tech;1;0,4
+2303;11556;Pulse Shield Emitter;16;1
+2303;9838;Superconductors;6;1
+2303;2295;Thermic Dissipation Field I;1;1
+2333;444;Survey Scanner I;1;1
+2333;9840;Transmitter;2;1
+2333;9842;Miniature Electronics;3;1
+2333;11539;Nanoelectrical Microprocessor;3;1
+2333;11483;R.A.M.- Electronics;1;0,05
+2341;11483;R.A.M.- Electronics;1;0,05
+2341;11538;Nanomechanical Microprocessor;3;1
+2341;11536;Ladar Sensor Cluster;1;1
+2341;9842;Miniature Electronics;4;1
+2341;9840;Transmitter;5;1
+2341;581;Passive Targeter I;1;1
+2355;524;Small Hull Repairer I;1;1
+2355;9848;Robotics;2;1
+2355;11475;R.A.M.- Armor/Hull Tech;1;0,1
+2355;11538;Nanomechanical Microprocessor;1;1
+2364;11539;Nanoelectrical Microprocessor;5;1
+2364;11483;R.A.M.- Electronics;1;0,15
+2364;11399;Morphite;3;1
+2364;9842;Miniature Electronics;2;1
+2364;3689;Mechanical Parts;5;1
+2364;2363;Heat Sink I;1;1
+2404;499;Light Missile Launcher I;1;1
+2404;9848;Robotics;2;1
+2404;11540;Quantum Microprocessor;4;1
+2404;11486;R.A.M.- Weapon Tech;1;0,15
+2410;11486;R.A.M.- Weapon Tech;1;0,25
+2410;11540;Quantum Microprocessor;2;1
+2410;9848;Robotics;4;1
+2410;501;Heavy Missile Launcher I;1;1
+2420;503;Torpedo Launcher I;1;1
+2420;9848;Robotics;16;1
+2420;11540;Quantum Microprocessor;16;1
+2420;11486;R.A.M.- Weapon Tech;1;0,55
+2436;11690;Superconductor Rails;2;1
+2436;9848;Robotics;4;1
+2436;11481;R.A.M.- Robotics;1;0,1
+2436;9834;Guidance Systems;4;1
+2436;1201;Wasp I;1;1
+2446;2444;Ogre I;1;1
+2446;9834;Guidance Systems;4;1
+2446;11481;R.A.M.- Robotics;1;0,1
+2446;9848;Robotics;4;1
+2446;11688;Particle Accelerator Unit;2;1
+2456;11688;Particle Accelerator Unit;1;1
+2456;9848;Robotics;1;1
+2456;11481;R.A.M.- Robotics;1;0,05
+2456;9834;Guidance Systems;1;1
+2456;2454;Hobgoblin I;1;1
+2466;2464;Hornet I;1;1
+2466;9834;Guidance Systems;1;1
+2466;11481;R.A.M.- Robotics;1;0,05
+2466;9848;Robotics;1;1
+2466;11690;Superconductor Rails;1;1
+2478;11691;Thermonuclear Trigger Unit;2;1
+2478;9848;Robotics;4;1
+2478;11481;R.A.M.- Robotics;1;0,1
+2478;9834;Guidance Systems;4;1
+2478;2476;Berserker I;1;1
+2488;2486;Warrior I;1;1
+2488;9834;Guidance Systems;1;1
+2488;11481;R.A.M.- Robotics;1;0,05
+2488;9848;Robotics;1;1
+2488;11691;Thermonuclear Trigger Unit;1;1
+2531;11555;Deflection Shield Emitter;5;1
+2531;11484;R.A.M.- Shield Tech;1;0,3
+2531;9838;Superconductors;4;1
+2531;2529;Explosive Deflection Amplifier I;1;1
+2539;2537;Thermic Dissipation Amplifier I;1;1
+2539;9838;Superconductors;4;1
+2539;11484;R.A.M.- Shield Tech;1;0,3
+2539;11556;Pulse Shield Emitter;5;1
+2547;11557;Linear Shield Emitter;5;1
+2547;11484;R.A.M.- Shield Tech;1;0,3
+2547;9838;Superconductors;4;1
+2547;2545;Kinetic Deflection Amplifier I;1;1
+2553;1808;EM Ward Amplifier I;1;1
+2553;9838;Superconductors;4;1
+2553;11484;R.A.M.- Shield Tech;1;0,3
+2553;11558;Sustained Shield Emitter;5;1
+2559;11538;Nanomechanical Microprocessor;3;1
+2559;11536;Ladar Sensor Cluster;6;1
+2559;11483;R.A.M.- Electronics;1;0,45
+2559;9840;Transmitter;8;1
+2559;9842;Miniature Electronics;6;1
+2559;1958;ECM - Phase Inverter I;1;1
+2563;1948;ECM - Ion Field Projector I;1;1
+2563;9842;Miniature Electronics;6;1
+2563;9840;Transmitter;8;1
+2563;11483;R.A.M.- Electronics;1;0,45
+2563;11535;Magnetometric Sensor Cluster;6;1
+2563;11541;Photon Microprocessor;3;1
+2567;11541;Photon Microprocessor;3;1
+2567;11535;Magnetometric Sensor Cluster;2;1
+2567;11536;Ladar Sensor Cluster;2;1
+2567;11537;Radar Sensor Cluster;2;1
+2567;11534;Gravimetric Sensor Cluster;2;1
+2567;11483;R.A.M.- Electronics;1;0,45
+2567;9840;Transmitter;8;1
+2567;9842;Miniature Electronics;12;1
+2567;1957;ECM - Multispectral Jammer I;1;1
+2571;1955;ECM - Spatial Destabilizer I;1;1
+2571;9842;Miniature Electronics;6;1
+2571;9840;Transmitter;8;1
+2571;11483;R.A.M.- Electronics;1;0,45
+2571;11534;Gravimetric Sensor Cluster;6;1
+2571;11540;Quantum Microprocessor;3;1
+2575;11539;Nanoelectrical Microprocessor;3;1
+2575;11537;Radar Sensor Cluster;6;1
+2575;11483;R.A.M.- Electronics;1;0,45
+2575;9840;Transmitter;8;1
+2575;9842;Miniature Electronics;6;1
+2575;1956;ECM - White Noise Generator I;1;1
+2580;2579;Gravimetric Backup Array I;1;1
+2580;9842;Miniature Electronics;3;1
+2580;9840;Transmitter;3;1
+2580;11483;R.A.M.- Electronics;1;0,1
+2580;11534;Gravimetric Sensor Cluster;3;1
+2580;11540;Quantum Microprocessor;1;1
+2584;11538;Nanomechanical Microprocessor;1;1
+2584;11536;Ladar Sensor Cluster;3;1
+2584;11483;R.A.M.- Electronics;1;0,1
+2584;9840;Transmitter;3;1
+2584;9842;Miniature Electronics;3;1
+2584;2583;LADAR Backup Array I;1;1
+2588;2587;Magnetometric Backup Array I;1;1
+2588;9842;Miniature Electronics;3;1
+2588;9840;Transmitter;3;1
+2588;11483;R.A.M.- Electronics;1;0,1
+2588;11535;Magnetometric Sensor Cluster;2;1
+2588;11541;Photon Microprocessor;1;1
+2592;11535;Magnetometric Sensor Cluster;1;1
+2592;11536;Ladar Sensor Cluster;1;1
+2592;11537;Radar Sensor Cluster;1;1
+2592;11534;Gravimetric Sensor Cluster;1;1
+2592;11539;Nanoelectrical Microprocessor;1;1
+2592;11483;R.A.M.- Electronics;1;0,1
+2592;9840;Transmitter;3;1
+2592;9842;Miniature Electronics;3;1
+2592;2591;Multi Sensor Backup Array I;1;1
+2605;2603;Nanofiber Internal Structure I;1;1
+2605;11475;R.A.M.- Armor/Hull Tech;1;0,15
+2605;3828;Construction Blocks;5;1
+2613;11476;R.A.M.- Ammunition Tech;1;0,05
+2621;11476;R.A.M.- Ammunition Tech;1;0,1
+2621;9830;Rocket Fuel;6;1
+2629;9830;Rocket Fuel;4;1
+2629;11476;R.A.M.- Ammunition Tech;1;0,075
+2637;11476;R.A.M.- Ammunition Tech;1;0,1
+2637;9830;Rocket Fuel;6;1
+2647;11476;R.A.M.- Ammunition Tech;1;0,05
+2655;11476;R.A.M.- Ammunition Tech;1;0,075
+2655;9830;Rocket Fuel;4;1
+2679;11476;R.A.M.- Ammunition Tech;1;0,05
+2801;11476;R.A.M.- Ammunition Tech;1;0,125
+2801;9830;Rocket Fuel;6;1
+2811;9830;Rocket Fuel;6;1
+2811;11476;R.A.M.- Ammunition Tech;1;0,1
+2817;11476;R.A.M.- Ammunition Tech;1;0,05
+2817;9830;Rocket Fuel;1;1
+2865;9848;Robotics;9;1
+2865;497;1200mm Artillery Cannon I;1;1
+2865;11486;R.A.M.- Weapon Tech;1;0,64
+2865;11691;Thermonuclear Trigger Unit;16;1
+2873;11691;Thermonuclear Trigger Unit;3;1
+2873;11486;R.A.M.- Weapon Tech;1;0,12
+2873;484;125mm Gatling AutoCannon I;1;1
+2873;9848;Robotics;1;1
+2881;9848;Robotics;1;1
+2881;485;150mm Light AutoCannon I;1;1
+2881;11486;R.A.M.- Weapon Tech;1;0,15
+2881;11691;Thermonuclear Trigger Unit;4;1
+2889;11691;Thermonuclear Trigger Unit;5;1
+2889;11486;R.A.M.- Weapon Tech;1;0,2
+2889;486;200mm AutoCannon I;1;1
+2889;9848;Robotics;1;1
+2897;9848;Robotics;3;1
+2897;490;220mm Vulcan AutoCannon I;1;1
+2897;11486;R.A.M.- Weapon Tech;1;0,36
+2897;11691;Thermonuclear Trigger Unit;9;1
+2905;11691;Thermonuclear Trigger Unit;6;1
+2905;11486;R.A.M.- Weapon Tech;1;0,24
+2905;487;250mm Light Artillery Cannon I;1;1
+2905;9848;Robotics;1;1
+2913;9848;Robotics;3;1
+2913;491;425mm AutoCannon I;1;1
+2913;11486;R.A.M.- Weapon Tech;1;0,4
+2913;11691;Thermonuclear Trigger Unit;10;1
+2921;11691;Thermonuclear Trigger Unit;11;1
+2921;11486;R.A.M.- Weapon Tech;1;0,44
+2921;492;650mm Artillery Cannon I;1;1
+2921;9848;Robotics;3;1
+2929;9848;Robotics;3;1
+2929;496;800mm Repeating Cannon I;1;1
+2929;11486;R.A.M.- Weapon Tech;1;0,6
+2929;11691;Thermonuclear Trigger Unit;15;1
+2937;11691;Thermonuclear Trigger Unit;8;1
+2937;11486;R.A.M.- Weapon Tech;1;0,32
+2937;489;Dual 180mm AutoCannon I;1;1
+2937;9848;Robotics;3;1
+2945;9848;Robotics;9;1
+2945;494;Dual 425mm AutoCannon I;1;1
+2945;11486;R.A.M.- Weapon Tech;1;0,52
+2945;11691;Thermonuclear Trigger Unit;13;1
+2953;11691;Thermonuclear Trigger Unit;14;1
+2953;11486;R.A.M.- Weapon Tech;1;0,56
+2953;495;Dual 650mm Repeating Cannon I;1;1
+2953;9848;Robotics;9;1
+2961;9848;Robotics;9;1
+2961;498;1400mm Howitzer Artillery I;1;1
+2961;11486;R.A.M.- Weapon Tech;1;0,68
+2961;11691;Thermonuclear Trigger Unit;17;1
+2969;11691;Thermonuclear Trigger Unit;12;1
+2969;11486;R.A.M.- Weapon Tech;1;0,48
+2969;493;720mm Howitzer Artillery I;1;1
+2969;9848;Robotics;3;1
+2977;9848;Robotics;1;1
+2977;488;280mm Howitzer Artillery I;1;1
+2977;11486;R.A.M.- Weapon Tech;1;0,28
+2977;11691;Thermonuclear Trigger Unit;7;1
+2985;11689;Laser Focusing Crystals;14;1
+2985;11486;R.A.M.- Weapon Tech;1;0,56
+2985;461;Dual Heavy Beam Laser I;1;1
+2985;9848;Robotics;9;1
+2993;9848;Robotics;1;1
+2993;452;Dual Light Beam Laser I;1;1
+2993;11486;R.A.M.- Weapon Tech;1;0,2
+2993;11689;Laser Focusing Crystals;5;1
+3001;11689;Laser Focusing Crystals;4;1
+3001;11486;R.A.M.- Weapon Tech;1;0,16
+3001;451;Dual Light Pulse Laser I;1;1
+3001;9848;Robotics;1;1
+3009;9848;Robotics;3;1
+3009;457;Focused Medium Beam Laser I;1;1
+3009;11486;R.A.M.- Weapon Tech;1;0,4
+3009;11689;Laser Focusing Crystals;10;1
+3017;11689;Laser Focusing Crystals;3;1
+3017;11486;R.A.M.- Weapon Tech;1;0,12
+3017;450;Gatling Pulse Laser I;1;1
+3017;9848;Robotics;3;1
+3025;9848;Robotics;3;1
+3025;459;Heavy Beam Laser I;1;1
+3025;11486;R.A.M.- Weapon Tech;1;0,48
+3025;11689;Laser Focusing Crystals;12;1
+3033;11689;Laser Focusing Crystals;7;1
+3033;11486;R.A.M.- Weapon Tech;1;0,28
+3033;454;Small Focused Beam Laser I;1;1
+3033;9848;Robotics;1;1
+3041;9848;Robotics;1;1
+3041;453;Small Focused Pulse Laser I;1;1
+3041;11486;R.A.M.- Weapon Tech;1;0,24
+3041;11689;Laser Focusing Crystals;6;1
+3049;11689;Laser Focusing Crystals;16;1
+3049;11486;R.A.M.- Weapon Tech;1;0,64
+3049;463;Mega Beam Laser I;1;1
+3049;9848;Robotics;9;1
+3057;9848;Robotics;9;1
+3057;462;Mega Pulse Laser I;1;1
+3057;11486;R.A.M.- Weapon Tech;1;0,6
+3057;11689;Laser Focusing Crystals;15;1
+3065;11689;Laser Focusing Crystals;17;1
+3065;11486;R.A.M.- Weapon Tech;1;0,68
+3065;464;Tachyon Beam Laser I;1;1
+3065;9848;Robotics;9;1
+3074;9848;Robotics;1;1
+3074;565;150mm Railgun I;1;1
+3074;11486;R.A.M.- Weapon Tech;1;0,28
+3074;11690;Superconductor Rails;7;1
+3082;11690;Superconductor Rails;12;1
+3082;11486;R.A.M.- Weapon Tech;1;0,48
+3082;570;250mm Railgun I;1;1
+3082;9848;Robotics;3;1
+3090;9848;Robotics;9;1
+3090;574;425mm Railgun I;1;1
+3090;11486;R.A.M.- Weapon Tech;1;0,68
+3090;11690;Superconductor Rails;17;1
+3098;11690;Superconductor Rails;3;1
+3098;11486;R.A.M.- Weapon Tech;1;0,12
+3098;561;75mm Gatling Rail I;1;1
+3098;9848;Robotics;1;1
+3106;9848;Robotics;3;1
+3106;567;Dual 150mm Railgun I;1;1
+3106;11486;R.A.M.- Weapon Tech;1;0,36
+3106;11690;Superconductor Rails;9;1
+3114;11690;Superconductor Rails;14;1
+3114;11486;R.A.M.- Weapon Tech;1;0,56
+3114;572;Dual 250mm Railgun I;1;1
+3114;9848;Robotics;9;1
+3122;9848;Robotics;9;1
+3122;571;Electron Blaster Cannon I;1;1
+3122;11486;R.A.M.- Weapon Tech;1;0,52
+3122;11688;Particle Accelerator Unit;13;1
+3130;11688;Particle Accelerator Unit;8;1
+3130;11486;R.A.M.- Weapon Tech;1;0,32
+3130;566;Heavy Electron Blaster I;1;1
+3130;9848;Robotics;3;1
+3138;9848;Robotics;3;1
+3138;569;Heavy Ion Blaster I;1;1
+3138;11486;R.A.M.- Weapon Tech;1;0,4
+3138;11688;Particle Accelerator Unit;10;1
+3146;11688;Particle Accelerator Unit;11;1
+3146;11486;R.A.M.- Weapon Tech;1;0,44
+3146;568;Heavy Neutron Blaster I;1;1
+3146;9848;Robotics;3;1
+3154;9848;Robotics;9;1
+3154;575;Ion Blaster Cannon I;1;1
+3154;11486;R.A.M.- Weapon Tech;1;0,6
+3154;11688;Particle Accelerator Unit;15;1
+3162;11688;Particle Accelerator Unit;4;1
+3162;11486;R.A.M.- Weapon Tech;1;0,16
+3162;562;Light Electron Blaster I;1;1
+3162;9848;Robotics;1;1
+3170;9848;Robotics;1;1
+3170;563;Light Ion Blaster I;1;1
+3170;11486;R.A.M.- Weapon Tech;1;0,2
+3170;11688;Particle Accelerator Unit;5;1
+3178;11688;Particle Accelerator Unit;6;1
+3178;11486;R.A.M.- Weapon Tech;1;0,24
+3178;564;Light Neutron Blaster I;1;1
+3178;9848;Robotics;1;1
+3186;9848;Robotics;9;1
+3186;573;Neutron Blaster Cannon I;1;1
+3186;11486;R.A.M.- Weapon Tech;1;0,64
+3186;11688;Particle Accelerator Unit;16;1
+3244;11483;R.A.M.- Electronics;1;0,25
+3244;11534;Gravimetric Sensor Cluster;4;1
+3244;11540;Quantum Microprocessor;3;1
+3244;9842;Miniature Electronics;5;1
+3244;9840;Transmitter;10;1
+3244;3242;Warp Disruptor I;1;1
+3285;9848;Robotics;3;1
+3285;455;Quad Light Beam Laser I;1;1
+3285;11486;R.A.M.- Weapon Tech;1;0,32
+3285;11689;Laser Focusing Crystals;8;1
+3293;35;Pyerite;400;1
+3293;34;Tritanium;1000;1
+3296;34;Tritanium;2000;1
+3296;35;Pyerite;1000;1
+3297;35;Pyerite;200;1
+3297;34;Tritanium;200;1
+3465;34;Tritanium;4000;1
+3465;39;Zydrine;16;1
+3466;39;Zydrine;8;1
+3466;34;Tritanium;2000;1
+3467;34;Tritanium;850;1
+3467;39;Zydrine;2;1
+3488;1185;Small Capacitor Battery I;1;1
+3488;11482;R.A.M.- Energy Tech;1;0,1
+3488;9838;Superconductors;2;1
+3488;11554;Tesseract Capacitor Unit;2;1
+3488;11539;Nanoelectrical Microprocessor;2;1
+3496;11539;Nanoelectrical Microprocessor;3;1
+3496;11554;Tesseract Capacitor Unit;4;1
+3496;9838;Superconductors;3;1
+3496;11482;R.A.M.- Energy Tech;1;0,15
+3496;2018;Medium Capacitor Battery I;1;1
+3504;2020;Large Capacitor Battery I;1;1
+3504;11482;R.A.M.- Energy Tech;1;0,2
+3504;9838;Superconductors;4;1
+3504;11554;Tesseract Capacitor Unit;8;1
+3504;11539;Nanoelectrical Microprocessor;4;1
+3512;11486;R.A.M.- Weapon Tech;1;0,36
+3512;11689;Laser Focusing Crystals;9;1
+3512;9848;Robotics;3;1
+3512;456;Focused Medium Pulse Laser I;1;1
+3520;458;Heavy Pulse Laser I;1;1
+3520;9848;Robotics;3;1
+3520;11689;Laser Focusing Crystals;11;1
+3520;11486;R.A.M.- Weapon Tech;1;0,44
+3530;11539;Nanoelectrical Microprocessor;2;1
+3530;9848;Robotics;4;1
+3530;11475;R.A.M.- Armor/Hull Tech;1;0,1
+3530;3528;Medium Armor Repairer I;1;1
+3534;20701;Capital Armor Repairer I;1;1
+3536;24569;Capital Remote Armor Repairer I;1;1
+3540;11539;Nanoelectrical Microprocessor;4;1
+3540;3538;Large Armor Repairer I;1;1
+3540;11475;R.A.M.- Armor/Hull Tech;1;0,2
+3540;9848;Robotics;8;1
+3542;20703;Capital Shield Booster I;1;1
+3544;3616;Capital Remote Shield Booster I;1;1
+3546;20450;Ion Siege Blaster Cannon I;1;1
+3550;20448;Dual 1000mm Railgun I;1;1
+3559;20444;Dual Giga Pulse Laser I;1;1
+3561;20446;Dual Giga Beam Laser I;1;1
+3563;32444;Citadel Cruise Launcher I;1;1
+3565;20539;Citadel Torpedo Launcher I;1;1
+3568;11539;Nanoelectrical Microprocessor;2;1
+3568;11554;Tesseract Capacitor Unit;2;1
+3568;3566;Small Capacitor Booster I;1;1
+3568;9838;Superconductors;4;1
+3568;11482;R.A.M.- Energy Tech;1;0,1
+3571;20454;Quad 3500mm Siege Artillery I;1;1
+3573;20452;6x2500mm Repeating Cannon I;1;1
+3575;12219;Capital Remote Capacitor Transmitter I;1;1
+3578;11554;Tesseract Capacitor Unit;8;1
+3578;11539;Nanoelectrical Microprocessor;4;1
+3578;11482;R.A.M.- Energy Tech;1;0,25
+3578;9838;Superconductors;16;1
+3578;3576;Heavy Capacitor Booster I;1;1
+3588;3586;Small Remote Shield Booster I;1;1
+3588;9840;Transmitter;2;1
+3588;11557;Linear Shield Emitter;2;1
+3588;11484;R.A.M.- Shield Tech;1;0,05
+3598;11484;R.A.M.- Shield Tech;1;0,2
+3598;11557;Linear Shield Emitter;4;1
+3598;9840;Transmitter;4;1
+3598;3596;Medium Remote Shield Booster I;1;1
+3608;3606;Large Remote Shield Booster I;1;1
+3608;9840;Transmitter;8;1
+3608;11557;Linear Shield Emitter;8;1
+3608;11484;R.A.M.- Shield Tech;1;0,3
+3655;11538;Nanomechanical Microprocessor;2;1
+3655;9848;Robotics;4;1
+3655;11475;R.A.M.- Armor/Hull Tech;1;0,25
+3655;3653;Medium Hull Repairer I;1;1
+3665;3663;Large Hull Repairer I;1;1
+3665;11475;R.A.M.- Armor/Hull Tech;1;0,45
+3665;9848;Robotics;8;1
+3665;11538;Nanomechanical Microprocessor;4;1
+3766;40;Megacyte;4;1
+3766;39;Zydrine;8;1
+3766;34;Tritanium;214;1
+3766;35;Pyerite;994;1
+3766;38;Nocxium;41;1
+3766;37;Isogen;28;1
+3766;36;Mexallon;370;1
+3831;3829;Medium Shield Extender I;1;1
+3831;3685;Hydrogen Batteries;4;1
+3831;11558;Sustained Shield Emitter;4;1
+3831;11484;R.A.M.- Shield Tech;1;0,2
+3841;11484;R.A.M.- Shield Tech;1;0,4
+3841;11558;Sustained Shield Emitter;8;1
+3841;3685;Hydrogen Batteries;8;1
+3841;3839;Large Shield Extender I;1;1
+3888;3887;Co-Processor I;1;1
+3888;9842;Miniature Electronics;16;1
+3888;11541;Photon Microprocessor;3;1
+3888;11553;Oscillator Capacitor Unit;2;1
+3888;11483;R.A.M.- Electronics;1;0,2
+3939;11692;Nuclear Pulse Generator;8;1
+3939;11482;R.A.M.- Energy Tech;1;0,2
+3939;3937;Medium Proton Smartbomb I;1;1
+3943;3941;Medium Graviton Smartbomb I;1;1
+3943;11482;R.A.M.- Energy Tech;1;0,2
+3943;11693;Graviton Pulse Generator;8;1
+3949;11695;Plasma Pulse Generator;8;1
+3949;11482;R.A.M.- Energy Tech;1;0,2
+3949;3947;Medium Plasma Smartbomb I;1;1
+3955;3953;Medium EMP Smartbomb I;1;1
+3955;11482;R.A.M.- Energy Tech;1;0,2
+3955;11694;EM Pulse Generator;8;1
+3962;21037;Capital Construction Parts;1;1
+3962;2875;Sterile Conduits;14;1
+3962;2868;Integrity Response Drones;5;1
+3962;2869;Nano-Factory;10;1
+3962;2870;Organic Mortar Applicators;10;1
+3979;3977;Large Proton Smartbomb I;1;1
+3979;11482;R.A.M.- Energy Tech;1;0,4
+3979;11692;Nuclear Pulse Generator;16;1
+3983;11693;Graviton Pulse Generator;16;1
+3983;11482;R.A.M.- Energy Tech;1;0,4
+3983;3981;Large Graviton Smartbomb I;1;1
+3986;11475;R.A.M.- Armor/Hull Tech;1;0,7
+3986;9848;Robotics;17;1
+3986;11538;Nanomechanical Microprocessor;17;1
+3986;27904;Large Remote Hull Repairer I;1;1
+3989;11695;Plasma Pulse Generator;16;1
+3989;11482;R.A.M.- Energy Tech;1;0,4
+3989;3987;Large Plasma Smartbomb I;1;1
+3995;3993;Large EMP Smartbomb I;1;1
+3995;11482;R.A.M.- Energy Tech;1;0,4
+3995;11694;EM Pulse Generator;16;1
+4014;11539;Nanoelectrical Microprocessor;1;1
+4014;11537;Radar Sensor Cluster;3;1
+4014;11483;R.A.M.- Electronics;1;0,1
+4014;9842;Miniature Electronics;3;1
+4014;9840;Transmitter;3;1
+4014;4013;RADAR Backup Array I;1;1
+4147;9848;Robotics;9;1
+4147;460;Dual Heavy Pulse Laser I;1;1
+4147;11486;R.A.M.- Weapon Tech;1;0,52
+4147;11689;Laser Focusing Crystals;13;1
+4248;11483;R.A.M.- Electronics;1;0,5
+4248;11536;Ladar Sensor Cluster;8;1
+4248;28654;Warp Disruption Field Generator I;1;1
+4248;9840;Transmitter;8;1
+4250;9840;Transmitter;4;1
+4250;11482;R.A.M.- Energy Tech;1;0,25
+4250;24348;Small Tractor Beam I;1;1
+4250;11689;Laser Focusing Crystals;4;1
+4252;11689;Laser Focusing Crystals;35;1
+4252;24644;Capital Tractor Beam I;1;1
+4252;11482;R.A.M.- Energy Tech;1;0,85
+4252;9840;Transmitter;35;1
+4254;11482;R.A.M.- Energy Tech;1;0,25
+4254;9838;Superconductors;4;1
+4254;11563;Micro Auxiliary Power Core I;1;1
+4254;11539;Nanoelectrical Microprocessor;4;1
+4256;11540;Quantum Microprocessor;4;1
+4256;11486;R.A.M.- Weapon Tech;1;0,25
+4256;27914;Bomb Launcher I;1;1
+4256;9848;Robotics;4;1
+4258;9834;Guidance Systems;4;1
+4258;11483;R.A.M.- Electronics;1;0,25
+4258;11540;Quantum Microprocessor;4;1
+4258;17938;Core Probe Launcher I;1;1
+4260;18639;Expanded Probe Launcher I;1;1
+4260;11540;Quantum Microprocessor;4;1
+4260;11483;R.A.M.- Electronics;1;0,25
+4260;9834;Guidance Systems;4;1
+4262;9840;Transmitter;8;1
+4262;11483;R.A.M.- Electronics;1;0,5
+4262;11539;Nanoelectrical Microprocessor;8;1
+4262;20069;Armored Warfare Link - Damage Control I;1;1
+4264;20409;Armored Warfare Link - Passive Defense I;1;1
+4264;11539;Nanoelectrical Microprocessor;8;1
+4264;11483;R.A.M.- Electronics;1;0,5
+4264;9840;Transmitter;8;1
+4266;9840;Transmitter;8;1
+4266;11483;R.A.M.- Electronics;1;0,5
+4266;11539;Nanoelectrical Microprocessor;8;1
+4266;22227;Armored Warfare Link - Rapid Repair I;1;1
+4268;11541;Photon Microprocessor;8;1
+4268;11483;R.A.M.- Electronics;1;0,5
+4268;20406;Information Warfare Link - Electronic Superiority I;1;1
+4268;9840;Transmitter;8;1
+4270;9840;Transmitter;8;1
+4270;20405;Information Warfare Link - Recon Operation I;1;1
+4270;11483;R.A.M.- Electronics;1;0,5
+4270;11541;Photon Microprocessor;8;1
+4272;11541;Photon Microprocessor;8;1
+4272;11483;R.A.M.- Electronics;1;0,5
+4272;9840;Transmitter;8;1
+4272;11052;Information Warfare Link - Sensor Integrity I;1;1
+4274;9840;Transmitter;8;1
+4274;11483;R.A.M.- Electronics;1;0,5
+4274;11541;Photon Microprocessor;8;1
+4274;22553;Mining Foreman Link - Harvester Capacitor Efficiency I;1;1
+4276;22557;Mining Foreman Link - Laser Optimization I;1;1
+4276;11541;Photon Microprocessor;8;1
+4276;11483;R.A.M.- Electronics;1;0,5
+4276;9840;Transmitter;8;1
+4278;9840;Transmitter;8;1
+4278;11483;R.A.M.- Electronics;1;0,5
+4278;11541;Photon Microprocessor;8;1
+4278;22555;Mining Foreman Link - Mining Laser Field Enhancement I;1;1
+4280;11540;Quantum Microprocessor;8;1
+4280;11483;R.A.M.- Electronics;1;0,5
+4280;20124;Siege Warfare Link - Active Shielding I;1;1
+4280;9840;Transmitter;8;1
+4282;9840;Transmitter;8;1
+4282;11483;R.A.M.- Electronics;1;0,5
+4282;11540;Quantum Microprocessor;8;1
+4282;22228;Siege Warfare Link - Shield Efficiency I;1;1
+4284;11540;Quantum Microprocessor;8;1
+4284;11483;R.A.M.- Electronics;1;0,5
+4284;20514;Siege Warfare Link - Shield Harmonizing I;1;1
+4284;9840;Transmitter;8;1
+4286;9840;Transmitter;8;1
+4286;20070;Skirmish Warfare Link - Evasive Maneuvers I;1;1
+4286;11483;R.A.M.- Electronics;1;0,5
+4286;11538;Nanomechanical Microprocessor;8;1
+4288;11538;Nanomechanical Microprocessor;8;1
+4288;11483;R.A.M.- Electronics;1;0,5
+4288;9840;Transmitter;8;1
+4288;11017;Skirmish Warfare Link - Interdiction Maneuvers I;1;1
+4290;9840;Transmitter;8;1
+4290;11483;R.A.M.- Electronics;1;0,5
+4290;11538;Nanomechanical Microprocessor;8;1
+4290;20408;Skirmish Warfare Link - Rapid Deployment I;1;1
+4292;20280;Siege Module I;1;1
+4292;11540;Quantum Microprocessor;35;1
+4292;11483;R.A.M.- Electronics;1;0,85
+4292;9842;Miniature Electronics;35;1
+4294;9842;Miniature Electronics;35;1
+4294;11483;R.A.M.- Electronics;1;0,85
+4294;11540;Quantum Microprocessor;35;1
+4294;27951;Triage Module I;1;1
+4296;27930;Medium Remote Hull Repairer I;1;1
+4296;11538;Nanomechanical Microprocessor;8;1
+4296;9848;Robotics;8;1
+4296;11475;R.A.M.- Armor/Hull Tech;1;0,5
+4299;11475;R.A.M.- Armor/Hull Tech;1;0,25
+4299;9848;Robotics;4;1
+4299;11538;Nanomechanical Microprocessor;4;1
+4299;27932;Small Remote Hull Repairer I;1;1
+4386;3687;Electronic Parts;16;1
+4386;447;Warp Scrambler I;7;1
+4399;11483;R.A.M.- Electronics;1;0,1
+4401;11483;R.A.M.- Electronics;1;0,1
+4405;11483;R.A.M.- Electronics;1;0,15
+4405;11541;Photon Microprocessor;6;1
+4405;4393;Drone Damage Amplifier I;1;1
+4405;11399;Morphite;3;1
+4405;9842;Miniature Electronics;3;1
+4405;9840;Transmitter;3;1
+10190;9842;Miniature Electronics;2;1
+10190;11399;Morphite;3;1
+10190;9944;Magnetic Field Stabilizer I;1;1
+10190;3689;Mechanical Parts;5;1
+10190;11540;Quantum Microprocessor;5;1
+10190;11483;R.A.M.- Electronics;1;0,15
+10250;11541;Photon Microprocessor;1;1
+10250;11689;Laser Focusing Crystals;1;1
+10250;10246;Mining Drone I;1;1
+10250;9848;Robotics;3;1
+10250;11481;R.A.M.- Robotics;1;0,05
+10631;9848;Robotics;1;1
+10631;10629;Rocket Launcher I;1;1
+10631;11540;Quantum Microprocessor;1;1
+10631;11486;R.A.M.- Weapon Tech;1;0,05
+10680;11486;R.A.M.- Weapon Tech;1;0,2
+10680;11690;Superconductor Rails;5;1
+10680;10678;125mm Railgun I;1;1
+10680;9848;Robotics;1;1
+10842;10840;X-Large Shield Booster I;1;1
+10842;9838;Superconductors;8;1
+10842;11484;R.A.M.- Shield Tech;1;0,8
+10842;11558;Sustained Shield Emitter;16;1
+10850;11556;Pulse Shield Emitter;4;1
+10850;11484;R.A.M.- Shield Tech;1;0,2
+10850;9838;Superconductors;2;1
+10850;10836;Medium Shield Booster I;1;1
+10858;10838;Large Shield Booster I;1;1
+10858;9838;Superconductors;4;1
+10858;11484;R.A.M.- Shield Tech;1;0,4
+10858;11556;Pulse Shield Emitter;8;1
+11014;2349;Supercomputers;2;1
+11017;2346;Synthetic Synapses;3;1
+11052;2346;Synthetic Synapses;3;1
+11172;607;Imicus;1;1
+11172;11478;R.A.M.- Starship Tech;2;0,95
+11174;11478;R.A.M.- Starship Tech;4;0,95
+11174;609;Maulus;1;1
+11176;583;Condor;1;1
+11176;11478;R.A.M.- Starship Tech;1;0,95
+11178;11478;R.A.M.- Starship Tech;1;0,95
+11178;583;Condor;1;1
+11182;586;Probe;1;1
+11182;11478;R.A.M.- Starship Tech;2;0,95
+11184;11478;R.A.M.- Starship Tech;1;0,95
+11184;589;Executioner;1;1
+11186;589;Executioner;1;1
+11186;11478;R.A.M.- Starship Tech;1;0,95
+11188;11478;R.A.M.- Starship Tech;2;0,95
+11188;29248;Magnate;1;1
+11190;11478;R.A.M.- Starship Tech;4;0,95
+11190;2161;Crucifier;1;1
+11192;605;Heron;1;1
+11192;11478;R.A.M.- Starship Tech;2;0,95
+11194;11478;R.A.M.- Starship Tech;4;0,95
+11194;584;Griffin;1;1
+11196;585;Slasher;1;1
+11196;11478;R.A.M.- Starship Tech;1;0,95
+11198;11478;R.A.M.- Starship Tech;1;0,95
+11198;585;Slasher;1;1
+11200;608;Atron;1;1
+11200;11478;R.A.M.- Starship Tech;1;0,95
+11202;11478;R.A.M.- Starship Tech;1;0,95
+11202;608;Atron;1;1
+11219;11475;R.A.M.- Armor/Hull Tech;1;0,2
+11219;11217;Energized EM Membrane I;1;1
+11219;11554;Tesseract Capacitor Unit;2;1
+11219;11543;Tungsten Carbide Armor Plate;1;1
+11219;11544;Titanium Diborite Armor Plate;1;1
+11229;11545;Crystalline Carbonide Armor Plate;2;1
+11229;11543;Tungsten Carbide Armor Plate;2;1
+11229;11554;Tesseract Capacitor Unit;2;1
+11229;11227;Energized Explosive Membrane I;1;1
+11229;11475;R.A.M.- Armor/Hull Tech;1;0,2
+11239;11475;R.A.M.- Armor/Hull Tech;1;0,2
+11239;11237;Energized Armor Layering Membrane I;1;1
+11239;11554;Tesseract Capacitor Unit;2;1
+11239;11543;Tungsten Carbide Armor Plate;2;1
+11239;11542;Fernite Carbide Composite Armor Plate;1;1
+11239;11544;Titanium Diborite Armor Plate;2;1
+11249;11544;Titanium Diborite Armor Plate;2;1
+11249;11545;Crystalline Carbonide Armor Plate;1;1
+11249;11542;Fernite Carbide Composite Armor Plate;1;1
+11249;11554;Tesseract Capacitor Unit;2;1
+11249;11247;Energized Kinetic Membrane I;1;1
+11249;11475;R.A.M.- Armor/Hull Tech;1;0,2
+11259;11475;R.A.M.- Armor/Hull Tech;1;0,2
+11259;11257;Energized Thermic Membrane I;1;1
+11259;11554;Tesseract Capacitor Unit;2;1
+11259;11545;Crystalline Carbonide Armor Plate;2;1
+11269;11545;Crystalline Carbonide Armor Plate;1;1
+11269;11544;Titanium Diborite Armor Plate;1;1
+11269;11542;Fernite Carbide Composite Armor Plate;1;1
+11269;11554;Tesseract Capacitor Unit;2;1
+11269;11543;Tungsten Carbide Armor Plate;1;1
+11269;11267;Energized Adaptive Nano Membrane I;1;1
+11269;11475;R.A.M.- Armor/Hull Tech;1;0,2
+11365;11478;R.A.M.- Starship Tech;4;0,95
+11365;597;Punisher;1;1
+11370;2349;Supercomputers;2;1
+11370;2361;Hermetic Membranes;3;1
+11370;9842;Miniature Electronics;5;1
+11370;9840;Transmitter;5;1
+11370;11483;R.A.M.- Electronics;1;0,1
+11371;11478;R.A.M.- Starship Tech;4;0,95
+11371;587;Rifter;1;1
+11377;593;Tristan;1;1
+11377;11478;R.A.M.- Starship Tech;2;0,95
+11379;11478;R.A.M.- Starship Tech;4;0,95
+11379;603;Merlin;1;1
+11381;603;Merlin;1;1
+11381;11478;R.A.M.- Starship Tech;4;0,95
+11387;11478;R.A.M.- Starship Tech;4;0,95
+11387;3766;Vigil;1;1
+11393;11478;R.A.M.- Starship Tech;4;0,95
+11393;597;Punisher;1;1
+11400;587;Rifter;1;1
+11400;11478;R.A.M.- Starship Tech;4;0,95
+11488;39;Zydrine;16;1
+11488;34;Tritanium;16000;1
+11489;34;Tritanium;32000;1
+11489;39;Zydrine;32;1
+11538;33361;Plasmonic Metamaterials;2;1
+11539;33360;Terahertz Metamaterials;2;1
+11540;33362;Nonlinear Metamaterials;2;1
+11541;33359;Photonic Metamaterials;2;1
+11547;17317;Fermionic Condensates;2;1
+11548;17317;Fermionic Condensates;2;1
+11549;17317;Fermionic Condensates;2;1
+11550;17317;Fermionic Condensates;2;1
+11551;33361;Plasmonic Metamaterials;2;1
+11552;33362;Nonlinear Metamaterials;2;1
+11553;33359;Photonic Metamaterials;2;1
+11554;33360;Terahertz Metamaterials;2;1
+11577;11693;Graviton Pulse Generator;10;1
+11577;11483;R.A.M.- Electronics;1;0,15
+11577;11541;Photon Microprocessor;10;1
+11577;9840;Transmitter;10;1
+11577;9842;Miniature Electronics;5;1
+11577;11370;Prototype Cloaking Device I;1;1
+11578;11370;Prototype Cloaking Device I;1;1
+11578;9842;Miniature Electronics;10;1
+11578;9840;Transmitter;20;1
+11578;11541;Photon Microprocessor;20;1
+11578;11483;R.A.M.- Electronics;1;0,25
+11578;11693;Graviton Pulse Generator;15;1
+11640;11483;R.A.M.- Electronics;1;0,25
+11640;11538;Nanomechanical Microprocessor;3;1
+11640;11399;Morphite;2;1
+11640;10998;Warp Core Stabilizer I;1;1
+11642;11301;Armor EM Hardener I;1;1
+11642;11475;R.A.M.- Armor/Hull Tech;1;0,1
+11642;11543;Tungsten Carbide Armor Plate;5;1
+11642;11558;Sustained Shield Emitter;10;1
+11644;11558;Sustained Shield Emitter;10;1
+11644;11544;Titanium Diborite Armor Plate;5;1
+11644;11475;R.A.M.- Armor/Hull Tech;1;0,1
+11644;11305;Armor Kinetic Hardener I;1;1
+11646;11303;Armor Explosive Hardener I;1;1
+11646;11475;R.A.M.- Armor/Hull Tech;1;0,1
+11646;11542;Fernite Carbide Composite Armor Plate;5;1
+11646;11558;Sustained Shield Emitter;10;1
+11648;11558;Sustained Shield Emitter;10;1
+11648;11545;Crystalline Carbonide Armor Plate;5;1
+11648;11475;R.A.M.- Armor/Hull Tech;1;0,1
+11648;11277;Armor Thermic Hardener I;1;1
+11957;11478;R.A.M.- Starship Tech;12;0,95
+11957;632;Blackbird;1;1
+11959;632;Blackbird;1;1
+11959;11478;R.A.M.- Starship Tech;12;0,95
+11961;11478;R.A.M.- Starship Tech;12;0,95
+11961;630;Bellicose;1;1
+11963;630;Bellicose;1;1
+11963;11478;R.A.M.- Starship Tech;12;0,95
+11965;11478;R.A.M.- Starship Tech;12;0,95
+11965;628;Arbitrator;1;1
+11969;633;Celestis;1;1
+11969;11478;R.A.M.- Starship Tech;12;0,95
+11971;11478;R.A.M.- Starship Tech;12;0,95
+11971;633;Celestis;1;1
+11978;631;Scythe;1;1
+11978;11478;R.A.M.- Starship Tech;8;0,95
+11985;11478;R.A.M.- Starship Tech;8;0,95
+11985;620;Osprey;1;1
+11987;625;Augoror;1;1
+11987;11478;R.A.M.- Starship Tech;8;0,95
+11989;11478;R.A.M.- Starship Tech;8;0,95
+11989;634;Exequror;1;1
+11993;621;Caracal;1;1
+11993;11478;R.A.M.- Starship Tech;12;0,95
+11995;11478;R.A.M.- Starship Tech;14;0,95
+11995;623;Moa;1;1
+11999;622;Stabber;1;1
+11999;11478;R.A.M.- Starship Tech;12;0,95
+12003;11478;R.A.M.- Starship Tech;12;0,95
+12003;2006;Omen;1;1
+12005;626;Vexor;1;1
+12005;11478;R.A.M.- Starship Tech;12;0,95
+12011;11478;R.A.M.- Starship Tech;12;0,95
+12011;623;Moa;1;1
+12013;629;Rupture;1;1
+12013;11478;R.A.M.- Starship Tech;14;0,95
+12015;11478;R.A.M.- Starship Tech;12;0,95
+12015;629;Rupture;1;1
+12017;624;Maller;1;1
+12017;11478;R.A.M.- Starship Tech;14;0,95
+12019;11478;R.A.M.- Starship Tech;12;0,95
+12019;624;Maller;1;1
+12021;627;Thorax;1;1
+12021;11478;R.A.M.- Starship Tech;14;0,95
+12023;11478;R.A.M.- Starship Tech;12;0,95
+12023;627;Thorax;1;1
+12032;602;Kestrel;1;1
+12032;11478;R.A.M.- Starship Tech;2;0,95
+12034;11478;R.A.M.- Starship Tech;2;0,95
+12034;598;Breacher;1;1
+12038;590;Inquisitor;1;1
+12038;11478;R.A.M.- Starship Tech;2;0,95
+12042;11478;R.A.M.- Starship Tech;4;0,95
+12042;594;Incursus;1;1
+12044;594;Incursus;1;1
+12044;11478;R.A.M.- Starship Tech;4;0,95
+12058;11475;R.A.M.- Armor/Hull Tech;1;0,01
+12058;11549;Antimatter Reactor Unit;5;1
+12058;11530;Plasma Thruster;4;1
+12058;11531;Ion Thruster;10;1
+12058;12056;10MN Afterburner I;1;1
+12068;12066;100MN Afterburner I;1;1
+12068;11531;Ion Thruster;10;1
+12068;11530;Plasma Thruster;8;1
+12068;11549;Antimatter Reactor Unit;5;1
+12068;11475;R.A.M.- Armor/Hull Tech;1;0,02
+12076;11475;R.A.M.- Armor/Hull Tech;1;0,08
+12076;11549;Antimatter Reactor Unit;5;1
+12076;11530;Plasma Thruster;32;1
+12076;11531;Ion Thruster;10;1
+12076;12052;10MN Microwarpdrive I;1;1
+12084;12054;100MN Microwarpdrive I;1;1
+12084;11531;Ion Thruster;10;1
+12084;11530;Plasma Thruster;64;1
+12084;11549;Antimatter Reactor Unit;5;1
+12084;11475;R.A.M.- Armor/Hull Tech;1;0,16
+12102;11482;R.A.M.- Energy Tech;1;0,55
+12102;9838;Superconductors;30;1
+12102;11554;Tesseract Capacitor Unit;15;1
+12102;11539;Nanoelectrical Microprocessor;9;1
+12102;12225;Large Remote Capacitor Transmitter I;1;1
+12108;3689;Mechanical Parts;2;1
+12108;3687;Electronic Parts;3;1
+12198;3687;Electronic Parts;10;1
+12198;447;Warp Scrambler I;3;1
+12199;447;Warp Scrambler I;6;1
+12199;3687;Electronic Parts;15;1
+12200;3687;Electronic Parts;20;1
+12200;447;Warp Scrambler I;9;1
+12221;9838;Superconductors;15;1
+12221;11482;R.A.M.- Energy Tech;1;0,45
+12221;12217;Medium Remote Capacitor Transmitter I;1;1
+12221;11539;Nanoelectrical Microprocessor;6;1
+12221;11554;Tesseract Capacitor Unit;10;1
+12235;21037;Capital Construction Parts;8;1
+12235;2875;Sterile Conduits;28;1
+12235;2876;Wetware Mainframe;12;1
+12235;2872;Self-Harmonizing Power Core;18;1
+12235;2870;Organic Mortar Applicators;28;1
+12235;2871;Recursive Computing Module;18;1
+12235;2869;Nano-Factory;26;1
+12235;2868;Integrity Response Drones;32;1
+12235;2867;Broadcast Node;18;1
+12236;2867;Broadcast Node;18;1
+12236;2868;Integrity Response Drones;32;1
+12236;2869;Nano-Factory;26;1
+12236;2871;Recursive Computing Module;18;1
+12236;2870;Organic Mortar Applicators;28;1
+12236;2872;Self-Harmonizing Power Core;18;1
+12236;2876;Wetware Mainframe;12;1
+12236;2875;Sterile Conduits;28;1
+12236;21037;Capital Construction Parts;8;1
+12237;21037;Capital Construction Parts;1;1
+12237;2875;Sterile Conduits;2;1
+12237;2872;Self-Harmonizing Power Core;1;1
+12237;2876;Wetware Mainframe;1;1
+12237;2870;Organic Mortar Applicators;4;1
+12237;2867;Broadcast Node;1;1
+12238;2867;Broadcast Node;1;1
+12238;2869;Nano-Factory;3;1
+12238;2870;Organic Mortar Applicators;2;1
+12238;2871;Recursive Computing Module;2;1
+12238;2872;Self-Harmonizing Power Core;2;1
+12238;2875;Sterile Conduits;2;1
+12238;21037;Capital Construction Parts;1;1
+12239;21037;Capital Construction Parts;2;1
+12239;2875;Sterile Conduits;4;1
+12239;2872;Self-Harmonizing Power Core;3;1
+12239;2871;Recursive Computing Module;3;1
+12239;2870;Organic Mortar Applicators;4;1
+12239;2869;Nano-Factory;4;1
+12239;2867;Broadcast Node;3;1
+12259;9838;Superconductors;20;1
+12259;11482;R.A.M.- Energy Tech;1;0,15
+12259;12257;Medium Nosferatu I;1;1
+12259;11554;Tesseract Capacitor Unit;25;1
+12259;11539;Nanoelectrical Microprocessor;10;1
+12263;11539;Nanoelectrical Microprocessor;20;1
+12263;11554;Tesseract Capacitor Unit;35;1
+12263;12261;Heavy Nosferatu I;1;1
+12263;11482;R.A.M.- Energy Tech;1;0,3
+12263;9838;Superconductors;30;1
+12267;9838;Superconductors;15;1
+12267;11482;R.A.M.- Energy Tech;1;0,35
+12267;12265;Medium Energy Neutralizer I;1;1
+12267;11554;Tesseract Capacitor Unit;20;1
+12267;11539;Nanoelectrical Microprocessor;10;1
+12271;11539;Nanoelectrical Microprocessor;15;1
+12271;11554;Tesseract Capacitor Unit;30;1
+12271;12269;Heavy Energy Neutralizer I;1;1
+12271;11482;R.A.M.- Energy Tech;1;0,6
+12271;9838;Superconductors;20;1
+12346;9848;Robotics;3;1
+12346;12344;200mm Railgun I;1;1
+12346;11690;Superconductor Rails;10;1
+12346;11486;R.A.M.- Weapon Tech;1;0,38
+12356;11486;R.A.M.- Weapon Tech;1;0,58
+12356;11690;Superconductor Rails;14;1
+12356;12354;350mm Railgun I;1;1
+12356;9848;Robotics;9;1
+12557;11476;R.A.M.- Ammunition Tech;1;0,1
+12559;11476;R.A.M.- Ammunition Tech;1;0,1
+12563;11476;R.A.M.- Ammunition Tech;1;0,1
+12565;11476;R.A.M.- Ammunition Tech;1;0,1
+12608;11476;R.A.M.- Ammunition Tech;1;0,1
+12612;11476;R.A.M.- Ammunition Tech;1;0,1
+12614;11476;R.A.M.- Ammunition Tech;1;0,1
+12618;11476;R.A.M.- Ammunition Tech;1;0,1
+12620;11476;R.A.M.- Ammunition Tech;1;0,1
+12625;11476;R.A.M.- Ammunition Tech;1;0,1
+12631;11476;R.A.M.- Ammunition Tech;1;0,1
+12633;11476;R.A.M.- Ammunition Tech;1;0,1
+12729;11478;R.A.M.- Starship Tech;7;0,95
+12729;648;Badger;1;1
+12731;649;Tayra;1;1
+12731;11478;R.A.M.- Starship Tech;10;0,95
+12733;11478;R.A.M.- Starship Tech;7;0,95
+12733;19744;Sigil;1;1
+12735;11478;R.A.M.- Starship Tech;7;0,95
+12735;653;Wreathe;1;1
+12743;650;Nereus;1;1
+12743;11478;R.A.M.- Starship Tech;7;0,95
+12745;11478;R.A.M.- Starship Tech;10;0,95
+12745;655;Epithal;1;1
+12747;652;Mammoth;1;1
+12747;11478;R.A.M.- Starship Tech;10;0,95
+12753;11478;R.A.M.- Starship Tech;10;0,95
+12753;1944;Bestower;1;1
+12761;11476;R.A.M.- Ammunition Tech;1;0,65
+12765;11476;R.A.M.- Ammunition Tech;1;0,65
+12767;11476;R.A.M.- Ammunition Tech;1;0,35
+12771;11476;R.A.M.- Ammunition Tech;1;0,35
+12773;11476;R.A.M.- Ammunition Tech;1;0,35
+12775;11476;R.A.M.- Ammunition Tech;1;0,65
+12777;11476;R.A.M.- Ammunition Tech;1;0,35
+12779;11476;R.A.M.- Ammunition Tech;1;0,65
+12785;11476;R.A.M.- Ammunition Tech;1;0,35
+12787;11476;R.A.M.- Ammunition Tech;1;0,65
+12789;11476;R.A.M.- Ammunition Tech;1;0,35
+12791;11476;R.A.M.- Ammunition Tech;1;0,65
+12801;11476;R.A.M.- Ammunition Tech;1;0,35
+12803;11476;R.A.M.- Ammunition Tech;1;0,65
+12805;11476;R.A.M.- Ammunition Tech;1;0,35
+12807;11476;R.A.M.- Ammunition Tech;1;0,65
+12814;11476;R.A.M.- Ammunition Tech;1;0,35
+12816;11476;R.A.M.- Ammunition Tech;1;0,65
+12818;11476;R.A.M.- Ammunition Tech;1;0,35
+12820;11476;R.A.M.- Ammunition Tech;1;0,65
+12822;11476;R.A.M.- Ammunition Tech;1;0,35
+12824;11476;R.A.M.- Ammunition Tech;1;0,65
+12826;11476;R.A.M.- Ammunition Tech;1;0,35
+12828;11476;R.A.M.- Ammunition Tech;1;0,65
+13001;11482;R.A.M.- Energy Tech;1;0,1
+13001;9838;Superconductors;5;1
+13001;530;Small Nosferatu I;1;1
+13001;11554;Tesseract Capacitor Unit;10;1
+13001;11539;Nanoelectrical Microprocessor;5;1
+13003;11539;Nanoelectrical Microprocessor;5;1
+13003;11554;Tesseract Capacitor Unit;10;1
+13003;533;Small Energy Neutralizer I;1;1
+13003;9838;Superconductors;5;1
+13119;11476;R.A.M.- Ammunition Tech;1;0,05
+13780;2876;Wetware Mainframe;4;1
+13780;2872;Self-Harmonizing Power Core;3;1
+13780;2875;Sterile Conduits;5;1
+13780;2867;Broadcast Node;3;1
+13780;2869;Nano-Factory;5;1
+13780;2870;Organic Mortar Applicators;5;1
+13780;2871;Recursive Computing Module;3;1
+13780;21037;Capital Construction Parts;1;1
+13856;11476;R.A.M.- Ammunition Tech;1;0,05
+14343;2871;Recursive Computing Module;2;1
+14343;2875;Sterile Conduits;2;1
+14343;40;Megacyte;50;1
+14343;34;Tritanium;50000;1
+14343;38;Nocxium;200;1
+16213;2872;Self-Harmonizing Power Core;18;1
+16213;2875;Sterile Conduits;28;1
+16213;2876;Wetware Mainframe;12;1
+16213;2871;Recursive Computing Module;18;1
+16213;2870;Organic Mortar Applicators;28;1
+16213;2869;Nano-Factory;26;1
+16213;2868;Integrity Response Drones;32;1
+16213;2867;Broadcast Node;18;1
+16213;21037;Capital Construction Parts;8;1
+16214;21037;Capital Construction Parts;8;1
+16214;2867;Broadcast Node;18;1
+16214;2868;Integrity Response Drones;32;1
+16214;2869;Nano-Factory;26;1
+16214;2870;Organic Mortar Applicators;28;1
+16214;2871;Recursive Computing Module;18;1
+16214;2876;Wetware Mainframe;12;1
+16214;2875;Sterile Conduits;28;1
+16214;2872;Self-Harmonizing Power Core;18;1
+16216;2872;Self-Harmonizing Power Core;5;1
+16216;2875;Sterile Conduits;8;1
+16216;2876;Wetware Mainframe;4;1
+16216;2871;Recursive Computing Module;5;1
+16216;2870;Organic Mortar Applicators;8;1
+16216;2869;Nano-Factory;8;1
+16216;2867;Broadcast Node;5;1
+16216;2868;Integrity Response Drones;4;1
+16216;21037;Capital Construction Parts;2;1
+16220;2867;Broadcast Node;3;1
+16220;2869;Nano-Factory;5;1
+16220;2870;Organic Mortar Applicators;5;1
+16220;2871;Recursive Computing Module;3;1
+16220;2875;Sterile Conduits;5;1
+16220;2872;Self-Harmonizing Power Core;3;1
+16220;2876;Wetware Mainframe;4;1
+16220;38;Nocxium;200;1
+16220;34;Tritanium;100000;1
+16220;40;Megacyte;50;1
+16221;2872;Self-Harmonizing Power Core;2;1
+16221;2871;Recursive Computing Module;2;1
+16221;2869;Nano-Factory;2;1
+16221;2867;Broadcast Node;4;1
+16221;21037;Capital Construction Parts;1;1
+16227;40;Megacyte;276;1
+16227;39;Zydrine;1546;1
+16227;34;Tritanium;760320;1
+16227;35;Pyerite;212920;1
+16227;38;Nocxium;7559;1
+16227;36;Mexallon;67812;1
+16227;37;Isogen;8911;1
+16229;36;Mexallon;68478;1
+16229;38;Nocxium;2560;1
+16229;35;Pyerite;208811;1
+16229;34;Tritanium;895572;1
+16229;39;Zydrine;552;1
+16229;40;Megacyte;443;1
+16231;40;Megacyte;816;1
+16231;39;Zydrine;1057;1
+16231;34;Tritanium;1276532;1
+16231;35;Pyerite;284999;1
+16231;36;Mexallon;72156;1
+16231;37;Isogen;24023;1
+16233;37;Isogen;10979;1
+16233;36;Mexallon;64947;1
+16233;35;Pyerite;210987;1
+16233;34;Tritanium;1419860;1
+16233;39;Zydrine;727;1
+16233;40;Megacyte;216;1
+16631;488;280mm Howitzer Artillery I;1;1
+16631;2872;Self-Harmonizing Power Core;1;1
+16688;2872;Self-Harmonizing Power Core;1;1
+16688;2867;Broadcast Node;1;1
+16688;493;720mm Howitzer Artillery I;1;1
+16689;498;1400mm Howitzer Artillery I;1;1
+16689;2867;Broadcast Node;2;1
+16689;2870;Organic Mortar Applicators;1;1
+16689;2872;Self-Harmonizing Power Core;2;1
+16690;2872;Self-Harmonizing Power Core;1;1
+16690;565;150mm Railgun I;1;1
+16691;570;250mm Railgun I;1;1
+16691;2872;Self-Harmonizing Power Core;1;1
+16691;2867;Broadcast Node;1;1
+16692;2867;Broadcast Node;2;1
+16692;2870;Organic Mortar Applicators;1;1
+16692;2872;Self-Harmonizing Power Core;2;1
+16692;574;425mm Railgun I;1;1
+16694;2867;Broadcast Node;2;1
+16694;464;Tachyon Beam Laser I;1;1
+16694;2872;Self-Harmonizing Power Core;2;1
+16694;2870;Organic Mortar Applicators;1;1
+16696;2872;Self-Harmonizing Power Core;1;1
+16696;501;Heavy Missile Launcher I;1;1
+16697;2867;Broadcast Node;1;1
+16697;2872;Self-Harmonizing Power Core;1;1
+16697;13320;Cruise Missile Launcher I;1;1
+16869;2876;Wetware Mainframe;1;1
+16869;2870;Organic Mortar Applicators;3;1
+16869;2871;Recursive Computing Module;1;1
+16869;2867;Broadcast Node;3;1
+16869;2869;Nano-Factory;2;1
+16869;2868;Integrity Response Drones;1;1
+16869;40;Megacyte;100;1
+16869;34;Tritanium;50000;1
+16869;38;Nocxium;100;1
+17167;454;Small Focused Beam Laser I;1;1
+17167;2872;Self-Harmonizing Power Core;1;1
+17168;2872;Self-Harmonizing Power Core;1;1
+17168;459;Heavy Beam Laser I;1;1
+17168;2867;Broadcast Node;1;1
+17174;1948;ECM - Ion Field Projector I;1;1
+17174;2876;Wetware Mainframe;1;1
+17174;2867;Broadcast Node;1;1
+17175;2867;Broadcast Node;1;1
+17175;2876;Wetware Mainframe;1;1
+17175;1958;ECM - Phase Inverter I;1;1
+17176;1955;ECM - Spatial Destabilizer I;1;1
+17176;2876;Wetware Mainframe;1;1
+17176;2867;Broadcast Node;1;1
+17177;2867;Broadcast Node;1;1
+17177;2876;Wetware Mainframe;1;1
+17177;1956;ECM - White Noise Generator I;1;1
+17178;2867;Broadcast Node;1;1
+17178;526;Stasis Webifier I;1;1
+17178;2876;Wetware Mainframe;1;1
+17180;2876;Wetware Mainframe;1;1
+17180;2867;Broadcast Node;1;1
+17180;1968;Remote Sensor Dampener I;1;1
+17181;2867;Broadcast Node;1;1
+17181;3242;Warp Disruptor I;1;1
+17181;2876;Wetware Mainframe;1;1
+17182;2876;Wetware Mainframe;1;1
+17182;2867;Broadcast Node;1;1
+17182;447;Warp Scrambler I;1;1
+17184;2291;Kinetic Deflection Field I;1;1
+17184;2867;Broadcast Node;1;1
+17184;2868;Integrity Response Drones;1;1
+17184;2869;Nano-Factory;1;1
+17185;2870;Organic Mortar Applicators;1;1
+17185;2868;Integrity Response Drones;1;1
+17185;2867;Broadcast Node;1;1
+17185;2289;Explosive Deflection Field I;1;1
+17186;2295;Thermic Dissipation Field I;1;1
+17186;2867;Broadcast Node;1;1
+17186;2868;Integrity Response Drones;1;1
+17186;2870;Organic Mortar Applicators;1;1
+17187;2870;Organic Mortar Applicators;1;1
+17187;2868;Integrity Response Drones;1;1
+17187;2867;Broadcast Node;1;1
+17187;2293;EM Ward Field I;1;1
+17363;40;Megacyte;20;1
+17363;38;Nocxium;20;1
+17363;34;Tritanium;2000;1
+17364;34;Tritanium;6000;1
+17364;38;Nocxium;50;1
+17364;40;Megacyte;50;1
+17365;40;Megacyte;100;1
+17365;38;Nocxium;100;1
+17365;34;Tritanium;12000;1
+17366;34;Tritanium;500;1
+17366;35;Pyerite;500;1
+17366;36;Mexallon;150;1
+17367;36;Mexallon;500;1
+17367;35;Pyerite;5000;1
+17367;34;Tritanium;15000;1
+17368;34;Tritanium;130000;1
+17368;35;Pyerite;70000;1
+17368;36;Mexallon;1500;1
+17402;573;Neutron Blaster Cannon I;1;1
+17402;2867;Broadcast Node;1;1
+17402;2870;Organic Mortar Applicators;1;1
+17402;2872;Self-Harmonizing Power Core;1;1
+17403;2872;Self-Harmonizing Power Core;1;1
+17403;2867;Broadcast Node;1;1
+17403;568;Heavy Neutron Blaster I;1;1
+17404;564;Light Neutron Blaster I;1;1
+17404;2872;Self-Harmonizing Power Core;1;1
+17406;2872;Self-Harmonizing Power Core;1;1
+17406;2870;Organic Mortar Applicators;1;1
+17406;2867;Broadcast Node;1;1
+17406;462;Mega Pulse Laser I;1;1
+17407;458;Heavy Pulse Laser I;1;1
+17407;2867;Broadcast Node;1;1
+17407;2872;Self-Harmonizing Power Core;1;1
+17408;2872;Self-Harmonizing Power Core;1;1
+17408;453;Small Focused Pulse Laser I;1;1
+17476;40;Megacyte;30;1
+17476;38;Nocxium;28;1
+17476;37;Isogen;22158;1
+17478;37;Isogen;26869;1
+17478;36;Mexallon;39907;1
+17478;38;Nocxium;1826;1
+17478;35;Pyerite;455721;1
+17478;34;Tritanium;1187116;1
+17478;40;Megacyte;177;1
+17478;39;Zydrine;446;1
+17480;39;Zydrine;671;1
+17480;40;Megacyte;201;1
+17480;34;Tritanium;1166524;1
+17480;35;Pyerite;405297;1
+17480;38;Nocxium;2751;1
+17480;36;Mexallon;35998;1
+17480;37;Isogen;27491;1
+17621;38;Nocxium;200;1
+17621;34;Tritanium;100000;1
+17621;40;Megacyte;50;1
+17621;2872;Self-Harmonizing Power Core;1;1
+17621;2875;Sterile Conduits;1;1
+17621;2870;Organic Mortar Applicators;1;1
+17636;40;Megacyte;576;1
+17636;39;Zydrine;1830;1
+17636;34;Tritanium;1970168;1
+17636;35;Pyerite;492598;1
+17636;38;Nocxium;7685;1
+17636;37;Isogen;30801;1
+17636;36;Mexallon;123325;1
+17666;35;Pyerite;1044;1
+17666;34;Tritanium;824;1
+17726;34;Tritanium;1970164;1
+17726;35;Pyerite;492597;1
+17726;36;Mexallon;123326;1
+17726;37;Isogen;30806;1
+17726;38;Nocxium;7698;1
+17726;39;Zydrine;1852;1
+17726;40;Megacyte;197;1
+17728;40;Megacyte;537;1
+17728;39;Zydrine;1770;1
+17728;38;Nocxium;7483;1
+17728;37;Isogen;29974;1
+17728;35;Pyerite;529406;1
+17728;36;Mexallon;120070;1
+17728;34;Tritanium;1916860;1
+17732;34;Tritanium;1916848;1
+17732;36;Mexallon;120257;1
+17732;35;Pyerite;479407;1
+17732;37;Isogen;29982;1
+17732;38;Nocxium;7472;1
+17732;39;Zydrine;1756;1
+17732;40;Megacyte;503;1
+17770;2867;Broadcast Node;1;1
+17770;496;800mm Repeating Cannon I;1;1
+17770;2870;Organic Mortar Applicators;1;1
+17770;2872;Self-Harmonizing Power Core;1;1
+17771;2872;Self-Harmonizing Power Core;1;1
+17771;2867;Broadcast Node;1;1
+17771;491;425mm AutoCannon I;1;1
+17772;486;200mm AutoCannon I;1;1
+17772;2872;Self-Harmonizing Power Core;1;1
+17773;2872;Self-Harmonizing Power Core;2;1
+17773;2870;Organic Mortar Applicators;2;1
+17773;503;Torpedo Launcher I;1;1
+17773;2867;Broadcast Node;2;1
+17912;3689;Mechanical Parts;5;1
+17912;3687;Electronic Parts;5;1
+17912;11482;R.A.M.- Energy Tech;1;0,2
+17912;12108;Deep Core Mining Laser I;1;1
+17912;11689;Laser Focusing Crystals;2;1
+17912;17482;Strip Miner I;1;1
+17912;11541;Photon Microprocessor;3;1
+17982;2875;Sterile Conduits;1;1
+17982;2870;Organic Mortar Applicators;1;1
+17982;38;Nocxium;200;1
+17982;34;Tritanium;50000;1
+18068;3689;Mechanical Parts;5;1
+18068;3687;Electronic Parts;5;1
+18068;11482;R.A.M.- Energy Tech;1;0,2
+18068;11541;Photon Microprocessor;3;1
+18068;11689;Laser Focusing Crystals;2;1
+18068;12108;Deep Core Mining Laser I;1;1
+18590;16682;Hypersynaptic Fibers;15;1
+18590;18036;Arkonor Mining Crystal I;1;1
+18590;11483;R.A.M.- Electronics;1;0,085
+18592;11483;R.A.M.- Electronics;1;0,08
+18592;18038;Bistot Mining Crystal I;1;1
+18592;16682;Hypersynaptic Fibers;14;1
+18594;16682;Hypersynaptic Fibers;13;1
+18594;18040;Crokite Mining Crystal I;1;1
+18594;11483;R.A.M.- Electronics;1;0,075
+18596;11483;R.A.M.- Electronics;1;0,07
+18596;18042;Dark Ochre Mining Crystal I;1;1
+18596;16682;Hypersynaptic Fibers;11;1
+18598;16682;Hypersynaptic Fibers;10;1
+18598;18044;Gneiss Mining Crystal I;1;1
+18598;11483;R.A.M.- Electronics;1;0,065
+18600;11483;R.A.M.- Electronics;1;0,06
+18600;18046;Hedbergite Mining Crystal I;1;1
+18600;16682;Hypersynaptic Fibers;9;1
+18602;16682;Hypersynaptic Fibers;8;1
+18602;18048;Hemorphite Mining Crystal I;1;1
+18602;11483;R.A.M.- Electronics;1;0,055
+18604;11483;R.A.M.- Electronics;1;0,05
+18604;18050;Jaspet Mining Crystal I;1;1
+18604;16682;Hypersynaptic Fibers;7;1
+18606;16682;Hypersynaptic Fibers;6;1
+18606;18052;Kernite Mining Crystal I;1;1
+18606;11483;R.A.M.- Electronics;1;0,045
+18608;11483;R.A.M.- Electronics;1;0,09
+18608;18054;Mercoxit Mining Crystal I;1;1
+18608;16682;Hypersynaptic Fibers;16;1
+18608;38;Nocxium;400;1
+18610;16682;Hypersynaptic Fibers;5;1
+18610;18056;Omber Mining Crystal I;1;1
+18610;11483;R.A.M.- Electronics;1;0,04
+18612;11483;R.A.M.- Electronics;1;0,035
+18612;18058;Plagioclase Mining Crystal I;1;1
+18612;16682;Hypersynaptic Fibers;4;1
+18614;16682;Hypersynaptic Fibers;3;1
+18614;18060;Pyroxeres Mining Crystal I;1;1
+18614;11483;R.A.M.- Electronics;1;0,03
+18616;11483;R.A.M.- Electronics;1;0,025
+18616;18062;Scordite Mining Crystal I;1;1
+18616;16682;Hypersynaptic Fibers;2;1
+18618;16682;Hypersynaptic Fibers;1;1
+18618;18066;Veldspar Mining Crystal I;1;1
+18618;11483;R.A.M.- Electronics;1;0,015
+18624;11483;R.A.M.- Electronics;1;0,02
+18624;18064;Spodumain Mining Crystal I;1;1
+18624;16682;Hypersynaptic Fibers;15;1
+19470;21037;Capital Construction Parts;3;1
+19470;2875;Sterile Conduits;4;1
+19470;2872;Self-Harmonizing Power Core;4;1
+19470;2870;Organic Mortar Applicators;6;1
+19470;2871;Recursive Computing Module;6;1
+19470;2867;Broadcast Node;4;1
+19470;2869;Nano-Factory;3;1
+19739;9848;Robotics;8;1
+19739;13320;Cruise Missile Launcher I;1;1
+19739;11486;R.A.M.- Weapon Tech;1;0,35
+19739;11540;Quantum Microprocessor;8;1
+19744;38;Nocxium;83;1
+19744;37;Isogen;41;1
+19744;34;Tritanium;9689;1
+19744;35;Pyerite;4400;1
+19744;36;Mexallon;2276;1
+19744;40;Megacyte;9;1
+19744;39;Zydrine;4;1
+19806;9842;Miniature Electronics;3;1
+19806;11540;Quantum Microprocessor;3;1
+19806;11534;Gravimetric Sensor Cluster;6;1
+19806;11483;R.A.M.- Electronics;1;0,35
+19806;12709;Target Painter I;1;1
+20059;21037;Capital Construction Parts;4;1
+20059;2869;Nano-Factory;14;1
+20059;2868;Integrity Response Drones;16;1
+20059;2867;Broadcast Node;9;1
+20059;2871;Recursive Computing Module;9;1
+20059;2870;Organic Mortar Applicators;14;1
+20059;2872;Self-Harmonizing Power Core;9;1
+20059;2875;Sterile Conduits;14;1
+20059;2876;Wetware Mainframe;6;1
+20060;2876;Wetware Mainframe;4;1
+20060;2875;Sterile Conduits;6;1
+20060;2872;Self-Harmonizing Power Core;4;1
+20060;2870;Organic Mortar Applicators;6;1
+20060;2871;Recursive Computing Module;4;1
+20060;2867;Broadcast Node;4;1
+20060;2868;Integrity Response Drones;8;1
+20060;2869;Nano-Factory;6;1
+20060;21037;Capital Construction Parts;2;1
+20061;21037;Capital Construction Parts;4;1
+20061;2869;Nano-Factory;14;1
+20061;2868;Integrity Response Drones;16;1
+20061;2867;Broadcast Node;9;1
+20061;2871;Recursive Computing Module;9;1
+20061;2870;Organic Mortar Applicators;14;1
+20061;2872;Self-Harmonizing Power Core;9;1
+20061;2875;Sterile Conduits;14;1
+20061;2876;Wetware Mainframe;6;1
+20062;2876;Wetware Mainframe;4;1
+20062;2875;Sterile Conduits;6;1
+20062;2872;Self-Harmonizing Power Core;4;1
+20062;2870;Organic Mortar Applicators;6;1
+20062;2871;Recursive Computing Module;4;1
+20062;2867;Broadcast Node;4;1
+20062;2868;Integrity Response Drones;8;1
+20062;2869;Nano-Factory;6;1
+20062;21037;Capital Construction Parts;2;1
+20063;21037;Capital Construction Parts;4;1
+20063;2869;Nano-Factory;14;1
+20063;2868;Integrity Response Drones;16;1
+20063;2867;Broadcast Node;9;1
+20063;2871;Recursive Computing Module;9;1
+20063;2870;Organic Mortar Applicators;14;1
+20063;2872;Self-Harmonizing Power Core;9;1
+20063;2875;Sterile Conduits;14;1
+20063;2876;Wetware Mainframe;6;1
+20064;2876;Wetware Mainframe;4;1
+20064;2875;Sterile Conduits;6;1
+20064;2872;Self-Harmonizing Power Core;4;1
+20064;2870;Organic Mortar Applicators;6;1
+20064;2871;Recursive Computing Module;4;1
+20064;2867;Broadcast Node;4;1
+20064;2868;Integrity Response Drones;8;1
+20064;2869;Nano-Factory;6;1
+20064;21037;Capital Construction Parts;2;1
+20065;21037;Capital Construction Parts;4;1
+20065;2869;Nano-Factory;14;1
+20065;2868;Integrity Response Drones;16;1
+20065;2867;Broadcast Node;9;1
+20065;2871;Recursive Computing Module;9;1
+20065;2870;Organic Mortar Applicators;14;1
+20065;2872;Self-Harmonizing Power Core;9;1
+20065;2875;Sterile Conduits;14;1
+20065;2876;Wetware Mainframe;6;1
+20066;2876;Wetware Mainframe;4;1
+20066;2875;Sterile Conduits;6;1
+20066;2872;Self-Harmonizing Power Core;4;1
+20066;2870;Organic Mortar Applicators;6;1
+20066;2871;Recursive Computing Module;4;1
+20066;2867;Broadcast Node;4;1
+20066;2868;Integrity Response Drones;8;1
+20066;2869;Nano-Factory;6;1
+20066;21037;Capital Construction Parts;2;1
+20069;2346;Synthetic Synapses;3;1
+20070;2346;Synthetic Synapses;3;1
+20124;2346;Synthetic Synapses;3;1
+20125;628;Arbitrator;1;1
+20125;11478;R.A.M.- Starship Tech;12;0,95
+20175;2869;Nano-Factory;1;1
+20175;2868;Integrity Response Drones;1;1
+20175;2867;Broadcast Node;1;1
+20175;40;Megacyte;50;1
+20175;34;Tritanium;50000;1
+20175;38;Nocxium;200;1
+20343;11475;R.A.M.- Armor/Hull Tech;1;0,1
+20343;11291;50mm Reinforced Steel Plates I;1;1
+20343;11543;Tungsten Carbide Armor Plate;4;1
+20345;11543;Tungsten Carbide Armor Plate;5;1
+20345;11293;100mm Reinforced Steel Plates I;1;1
+20345;11475;R.A.M.- Armor/Hull Tech;1;0,2
+20347;11475;R.A.M.- Armor/Hull Tech;1;0,3
+20347;11295;200mm Reinforced Steel Plates I;1;1
+20347;11543;Tungsten Carbide Armor Plate;7;1
+20349;11543;Tungsten Carbide Armor Plate;11;1
+20349;11297;400mm Reinforced Steel Plates I;1;1
+20349;11475;R.A.M.- Armor/Hull Tech;1;0,45
+20351;11475;R.A.M.- Armor/Hull Tech;1;0,65
+20351;11299;800mm Reinforced Steel Plates I;1;1
+20351;11543;Tungsten Carbide Armor Plate;19;1
+20353;11543;Tungsten Carbide Armor Plate;35;1
+20353;11279;1600mm Reinforced Steel Plates I;1;1
+20353;11475;R.A.M.- Armor/Hull Tech;1;0,95
+20405;2346;Synthetic Synapses;3;1
+20406;2346;Synthetic Synapses;3;1
+20408;2346;Synthetic Synapses;3;1
+20409;2346;Synthetic Synapses;3;1
+20514;2346;Synthetic Synapses;3;1
+20555;21074;Talocan Sketch Books;1;1
+20555;21078;Talocan Reflective Sheets;1;1
+20555;21082;Talocan System Interface Unit;1;1
+20555;21084;Talocan Mathematical Schematics;1;1
+20555;21086;Talocan Partition Plates;1;1
+20557;21086;Talocan Partition Plates;2;1
+20557;21084;Talocan Mathematical Schematics;2;1
+20557;21082;Talocan System Interface Unit;1;1
+20557;21080;Talocan Solid Atomizer;1;1
+20557;21078;Talocan Reflective Sheets;2;1
+20557;21074;Talocan Sketch Books;1;1
+20559;21074;Talocan Sketch Books;1;1
+20559;21078;Talocan Reflective Sheets;3;1
+20559;21080;Talocan Solid Atomizer;2;1
+20559;21082;Talocan System Interface Unit;1;1
+20559;21084;Talocan Mathematical Schematics;3;1
+20559;21086;Talocan Partition Plates;3;1
+20561;21086;Talocan Partition Plates;1;1
+20561;21087;Talocan Intricate Formulas;1;1
+20561;21088;Talocan Stasis Deflector;1;1
+20561;21080;Talocan Solid Atomizer;1;1
+20561;21075;Talocan Molecule Binder;1;1
+20561;21074;Talocan Sketch Books;1;1
+20563;21074;Talocan Sketch Books;1;1
+20563;21075;Talocan Molecule Binder;1;1
+20563;21080;Talocan Solid Atomizer;4;1
+20563;21088;Talocan Stasis Deflector;2;1
+20563;21087;Talocan Intricate Formulas;3;1
+20563;21086;Talocan Partition Plates;4;1
+20565;21086;Talocan Partition Plates;2;1
+20565;21087;Talocan Intricate Formulas;2;1
+20565;21088;Talocan Stasis Deflector;1;1
+20565;21080;Talocan Solid Atomizer;2;1
+20565;21075;Talocan Molecule Binder;1;1
+20565;21074;Talocan Sketch Books;1;1
+20567;21078;Talocan Reflective Sheets;2;1
+20567;21079;Talocan Perpetual Clock;1;1
+20567;21084;Talocan Mathematical Schematics;2;1
+20567;21576;Esoteric Augmentation;2;1
+20569;21591;Computer Chips;3;1
+20573;21591;Computer Chips;3;1
+20573;21725;Guristas Medium Weapon Console;2;1
+20573;21573;Esoteric Process;1;1
+20575;21573;Esoteric Process;1;1
+20575;21725;Guristas Medium Weapon Console;2;1
+20575;21591;Computer Chips;3;1
+20577;21591;Computer Chips;3;1
+20577;21725;Guristas Medium Weapon Console;2;1
+20577;21573;Esoteric Process;1;1
+20579;21573;Esoteric Process;1;1
+20579;21725;Guristas Medium Weapon Console;2;1
+20579;21591;Computer Chips;3;1
+20581;21591;Computer Chips;3;1
+20581;21725;Guristas Medium Weapon Console;3;1
+20581;21573;Esoteric Process;1;1
+20587;21573;Esoteric Process;1;1
+20587;21576;Esoteric Augmentation;1;1
+20587;21726;Guristas Light Weapon Console;1;1
+20587;21590;Armor Blocks;2;1
+20589;21590;Armor Blocks;2;1
+20589;21587;Electronic Link;2;1
+20589;21725;Guristas Medium Weapon Console;1;1
+20589;21576;Esoteric Augmentation;1;1
+20589;21573;Esoteric Process;1;1
+20591;21573;Esoteric Process;1;1
+20591;21575;Esoteric Symmetry;2;1
+20591;21576;Esoteric Augmentation;1;1
+20591;21724;Guristas Heavy Weapon Console;1;1
+20591;21590;Armor Blocks;4;1
+20593;21590;Armor Blocks;1;1
+20593;21726;Guristas Light Weapon Console;1;1
+20593;21575;Esoteric Symmetry;1;1
+20595;21575;Esoteric Symmetry;2;1
+20595;21726;Guristas Light Weapon Console;2;1
+20595;21590;Armor Blocks;2;1
+20597;21590;Armor Blocks;1;1
+20597;21587;Electronic Link;2;1
+20597;21725;Guristas Medium Weapon Console;1;1
+20597;21576;Esoteric Augmentation;1;1
+20599;21576;Esoteric Augmentation;2;1
+20599;21725;Guristas Medium Weapon Console;2;1
+20599;21587;Electronic Link;2;1
+20599;21590;Armor Blocks;1;1
+20601;21590;Armor Blocks;1;1
+20601;21724;Guristas Heavy Weapon Console;1;1
+20601;21574;Esoteric Accelerant;1;1
+20603;21574;Esoteric Accelerant;2;1
+20603;21724;Guristas Heavy Weapon Console;2;1
+20605;21082;Talocan System Interface Unit;4;1
+20605;21079;Talocan Perpetual Clock;1;1
+20605;21081;Talocan Mechanical Gears;2;1
+20605;21086;Talocan Partition Plates;1;1
+20605;21077;Talocan Info Shards;2;1
+20605;21074;Talocan Sketch Books;1;1
+20607;21074;Talocan Sketch Books;1;1
+20607;21077;Talocan Info Shards;2;1
+20607;21086;Talocan Partition Plates;1;1
+20607;21081;Talocan Mechanical Gears;2;1
+20607;21079;Talocan Perpetual Clock;1;1
+20607;21082;Talocan System Interface Unit;4;1
+20609;21082;Talocan System Interface Unit;4;1
+20609;21079;Talocan Perpetual Clock;1;1
+20609;21081;Talocan Mechanical Gears;2;1
+20609;21086;Talocan Partition Plates;1;1
+20609;21077;Talocan Info Shards;2;1
+20609;21074;Talocan Sketch Books;1;1
+20611;21074;Talocan Sketch Books;1;1
+20611;21077;Talocan Info Shards;2;1
+20611;21086;Talocan Partition Plates;1;1
+20611;21082;Talocan System Interface Unit;4;1
+20611;21081;Talocan Mechanical Gears;2;1
+20611;21079;Talocan Perpetual Clock;1;1
+20613;21080;Talocan Solid Atomizer;3;1
+20613;21085;Talocan Automation Accounts;3;1
+20613;21086;Talocan Partition Plates;1;1
+20613;21078;Talocan Reflective Sheets;3;1
+20613;21074;Talocan Sketch Books;2;1
+20617;21576;Esoteric Augmentation;1;1
+20617;21728;Guristas Graviton Hardening;1;1
+20617;21588;Spare Parts;1;1
+20617;21591;Computer Chips;1;1
+20619;21591;Computer Chips;2;1
+20619;21588;Spare Parts;2;1
+20619;21728;Guristas Graviton Hardening;2;1
+20619;21727;Guristas Gravity Focuser;1;1
+20619;21576;Esoteric Augmentation;2;1
+20621;21576;Esoteric Augmentation;4;1
+20621;21727;Guristas Gravity Focuser;2;1
+20621;21728;Guristas Graviton Hardening;4;1
+20621;21588;Spare Parts;2;1
+20621;21591;Computer Chips;2;1
+20623;21591;Computer Chips;3;1
+20623;21588;Spare Parts;2;1
+20623;21728;Guristas Graviton Hardening;4;1
+20623;21727;Guristas Gravity Focuser;4;1
+20623;21576;Esoteric Augmentation;4;1
+20623;21574;Esoteric Accelerant;2;1
+20625;21086;Talocan Partition Plates;1;1
+20625;21082;Talocan System Interface Unit;2;1
+20625;21081;Talocan Mechanical Gears;1;1
+20625;21077;Talocan Info Shards;3;1
+20629;21081;Talocan Mechanical Gears;2;1
+20629;21080;Talocan Solid Atomizer;1;1
+20629;21085;Talocan Automation Accounts;1;1
+20629;21086;Talocan Partition Plates;1;1
+20631;21086;Talocan Partition Plates;1;1
+20631;21087;Talocan Intricate Formulas;1;1
+20631;21088;Talocan Stasis Deflector;1;1
+20631;21089;Talocan Ignition Device;2;1
+20631;21080;Talocan Solid Atomizer;1;1
+20633;21080;Talocan Solid Atomizer;1;1
+20633;21081;Talocan Mechanical Gears;1;1
+20633;21085;Talocan Automation Accounts;2;1
+20633;21086;Talocan Partition Plates;2;1
+20633;21082;Talocan System Interface Unit;1;1
+20633;21076;Talocan Stasis Inverter;1;1
+20633;21074;Talocan Sketch Books;1;1
+20635;21074;Talocan Sketch Books;1;1
+20635;21076;Talocan Stasis Inverter;1;1
+20635;21082;Talocan System Interface Unit;1;1
+20635;21086;Talocan Partition Plates;2;1
+20635;21089;Talocan Ignition Device;1;1
+20635;21085;Talocan Automation Accounts;2;1
+20635;21080;Talocan Solid Atomizer;1;1
+20637;21080;Talocan Solid Atomizer;1;1
+20637;21085;Talocan Automation Accounts;2;1
+20637;21089;Talocan Ignition Device;1;1
+20637;21086;Talocan Partition Plates;2;1
+20637;21082;Talocan System Interface Unit;1;1
+20637;21076;Talocan Stasis Inverter;1;1
+20637;21074;Talocan Sketch Books;1;1
+20639;21074;Talocan Sketch Books;1;1
+20639;21076;Talocan Stasis Inverter;1;1
+20639;21086;Talocan Partition Plates;2;1
+20639;21089;Talocan Ignition Device;1;1
+20639;21085;Talocan Automation Accounts;2;1
+20639;21082;Talocan System Interface Unit;1;1
+20639;21080;Talocan Solid Atomizer;1;1
+20641;21080;Talocan Solid Atomizer;1;1
+20641;21082;Talocan System Interface Unit;1;1
+20641;21085;Talocan Automation Accounts;2;1
+20641;21089;Talocan Ignition Device;1;1
+20641;21086;Talocan Partition Plates;2;1
+20641;21076;Talocan Stasis Inverter;1;1
+20641;21074;Talocan Sketch Books;1;1
+21470;20110;Sleeper Foundation Block;1;1
+21470;21721;Sleeper Heat Nullifying Coil;1;1
+21470;21584;Sleeper Micro Circuits;1;1
+21472;21584;Sleeper Micro Circuits;1;1
+21472;21721;Sleeper Heat Nullifying Coil;2;1
+21472;21720;Sleeper Thermal Regulator;1;1
+21472;20110;Sleeper Foundation Block;1;1
+21472;21569;Sleeper Profound Research Notes;1;1
+21472;21571;Sleeper Technical Schematics;1;1
+21474;21571;Sleeper Technical Schematics;2;1
+21474;21569;Sleeper Profound Research Notes;1;1
+21474;20110;Sleeper Foundation Block;1;1
+21474;21720;Sleeper Thermal Regulator;2;1
+21474;21721;Sleeper Heat Nullifying Coil;2;1
+21474;21584;Sleeper Micro Circuits;1;1
+21474;21585;Sleeper Cryo Batteries;1;1
+21474;21719;Sleeper Hyperbooster;1;1
+21476;21584;Sleeper Micro Circuits;1;1
+21476;21721;Sleeper Heat Nullifying Coil;1;1
+21476;20110;Sleeper Foundation Block;1;1
+21476;21569;Sleeper Profound Research Notes;1;1
+21476;21570;Sleeper Manuscripts;1;1
+21478;21570;Sleeper Manuscripts;2;1
+21478;21569;Sleeper Profound Research Notes;2;1
+21478;20110;Sleeper Foundation Block;2;1
+21478;21721;Sleeper Heat Nullifying Coil;2;1
+21478;21720;Sleeper Thermal Regulator;1;1
+21478;21584;Sleeper Micro Circuits;1;1
+21480;21584;Sleeper Micro Circuits;1;1
+21480;21585;Sleeper Cryo Batteries;1;1
+21480;21719;Sleeper Hyperbooster;1;1
+21480;21720;Sleeper Thermal Regulator;2;1
+21480;21721;Sleeper Heat Nullifying Coil;2;1
+21480;20110;Sleeper Foundation Block;4;1
+21480;21569;Sleeper Profound Research Notes;4;1
+21480;21570;Sleeper Manuscripts;4;1
+21482;21581;Cryptic Symmetry;1;1
+21482;21732;Angel Spatial Analyzer;1;1
+21482;21595;Construction Alloy;2;1
+21482;21593;Mechanic Parts;1;1
+21482;21583;Cryptic Attainment;1;1
+21484;21583;Cryptic Attainment;1;1
+21484;21593;Mechanic Parts;1;1
+21484;21595;Construction Alloy;2;1
+21484;21596;Data Processor;2;1
+21484;21732;Angel Spatial Analyzer;1;1
+21484;21733;Angel Dynamic Calibrator;1;1
+21484;21581;Cryptic Symmetry;1;1
+21484;21579;Cryptic Process;1;1
+21486;21581;Cryptic Symmetry;3;1
+21486;21732;Angel Spatial Analyzer;1;1
+21486;21595;Construction Alloy;2;1
+21486;21593;Mechanic Parts;1;1
+21488;21593;Mechanic Parts;1;1
+21488;21595;Construction Alloy;2;1
+21488;21596;Data Processor;2;1
+21488;21732;Angel Spatial Analyzer;1;1
+21488;21733;Angel Dynamic Calibrator;1;1
+21488;21581;Cryptic Symmetry;3;1
+21488;21579;Cryptic Process;1;1
+21491;21570;Sleeper Manuscripts;3;1
+21491;21571;Sleeper Technical Schematics;1;1
+21491;20110;Sleeper Foundation Block;1;1
+21491;21722;Sleeper Nanite Cluster;2;1
+21491;21584;Sleeper Micro Circuits;2;1
+21493;21722;Sleeper Nanite Cluster;1;1
+21493;21721;Sleeper Heat Nullifying Coil;1;1
+21493;20110;Sleeper Foundation Block;1;1
+21493;21073;Sleeper Split Cables;1;1
+21493;21570;Sleeper Manuscripts;1;1
+21493;21572;Sleeper Data Crystals;1;1
+21496;21572;Sleeper Data Crystals;1;1
+21496;21570;Sleeper Manuscripts;2;1
+21496;20110;Sleeper Foundation Block;3;1
+21496;21721;Sleeper Heat Nullifying Coil;3;1
+21498;21722;Sleeper Nanite Cluster;2;1
+21498;21073;Sleeper Split Cables;1;1
+21498;21571;Sleeper Technical Schematics;1;1
+21498;21570;Sleeper Manuscripts;1;1
+21500;21570;Sleeper Manuscripts;1;1
+21500;21572;Sleeper Data Crystals;1;1
+21500;20110;Sleeper Foundation Block;1;1
+21500;21721;Sleeper Heat Nullifying Coil;2;1
+21504;21722;Sleeper Nanite Cluster;1;1
+21504;20110;Sleeper Foundation Block;1;1
+21504;21572;Sleeper Data Crystals;1;1
+21504;21570;Sleeper Manuscripts;1;1
+21506;21570;Sleeper Manuscripts;1;1
+21506;21571;Sleeper Technical Schematics;1;1
+21506;21572;Sleeper Data Crystals;1;1
+21506;20110;Sleeper Foundation Block;2;1
+21506;21073;Sleeper Split Cables;1;1
+21506;21722;Sleeper Nanite Cluster;2;1
+21506;21723;Sleeper Reintegration Control;1;1
+21508;21723;Sleeper Reintegration Control;3;1
+21508;21722;Sleeper Nanite Cluster;2;1
+21508;21584;Sleeper Micro Circuits;1;1
+21508;21073;Sleeper Split Cables;1;1
+21508;20110;Sleeper Foundation Block;2;1
+21508;21571;Sleeper Technical Schematics;1;1
+21508;21570;Sleeper Manuscripts;1;1
+21508;21568;Sleeper Data Interface Protocol;1;1
+21510;21568;Sleeper Data Interface Protocol;1;1
+21510;21570;Sleeper Manuscripts;1;1
+21510;20110;Sleeper Foundation Block;1;1
+21510;21073;Sleeper Split Cables;1;1
+21510;21586;Sleeper Virtual Energizer;3;1
+21510;21722;Sleeper Nanite Cluster;1;1
+21510;21721;Sleeper Heat Nullifying Coil;1;1
+21510;21723;Sleeper Reintegration Control;1;1
+21512;21723;Sleeper Reintegration Control;1;1
+21512;21722;Sleeper Nanite Cluster;2;1
+21512;21586;Sleeper Virtual Energizer;2;1
+21512;21585;Sleeper Cryo Batteries;1;1
+21512;21073;Sleeper Split Cables;1;1
+21512;20110;Sleeper Foundation Block;1;1
+21512;21570;Sleeper Manuscripts;1;1
+21512;21568;Sleeper Data Interface Protocol;1;1
+21521;21572;Sleeper Data Crystals;2;1
+21521;20110;Sleeper Foundation Block;1;1
+21521;21584;Sleeper Micro Circuits;1;1
+21521;21722;Sleeper Nanite Cluster;3;1
+21523;21722;Sleeper Nanite Cluster;3;1
+21523;21584;Sleeper Micro Circuits;1;1
+21523;20110;Sleeper Foundation Block;1;1
+21523;21572;Sleeper Data Crystals;2;1
+21525;21572;Sleeper Data Crystals;2;1
+21525;20110;Sleeper Foundation Block;1;1
+21525;21584;Sleeper Micro Circuits;1;1
+21525;21722;Sleeper Nanite Cluster;3;1
+21527;21722;Sleeper Nanite Cluster;3;1
+21527;21584;Sleeper Micro Circuits;1;1
+21527;21585;Sleeper Cryo Batteries;1;1
+21527;20110;Sleeper Foundation Block;1;1
+21527;21572;Sleeper Data Crystals;2;1
+21529;21572;Sleeper Data Crystals;3;1
+21529;20110;Sleeper Foundation Block;1;1
+21529;21073;Sleeper Split Cables;1;1
+21529;21585;Sleeper Cryo Batteries;1;1
+21529;21584;Sleeper Micro Circuits;1;1
+21529;21722;Sleeper Nanite Cluster;4;1
+21534;21720;Sleeper Thermal Regulator;1;1
+21534;21721;Sleeper Heat Nullifying Coil;2;1
+21534;21584;Sleeper Micro Circuits;1;1
+21534;20110;Sleeper Foundation Block;2;1
+21536;20110;Sleeper Foundation Block;2;1
+21536;21584;Sleeper Micro Circuits;1;1
+21536;21721;Sleeper Heat Nullifying Coil;2;1
+21536;21723;Sleeper Reintegration Control;1;1
+21536;21720;Sleeper Thermal Regulator;2;1
+21538;21720;Sleeper Thermal Regulator;2;1
+21538;21721;Sleeper Heat Nullifying Coil;2;1
+21538;21723;Sleeper Reintegration Control;2;1
+21538;21584;Sleeper Micro Circuits;2;1
+21538;21585;Sleeper Cryo Batteries;1;1
+21538;21586;Sleeper Virtual Energizer;2;1
+21538;21719;Sleeper Hyperbooster;1;1
+21538;20110;Sleeper Foundation Block;2;1
+21540;21568;Sleeper Data Interface Protocol;2;1
+21540;21586;Sleeper Virtual Energizer;3;1
+21540;21722;Sleeper Nanite Cluster;4;1
+21542;21731;Angel Simple Trigger Mechanism;1;1
+21542;21583;Cryptic Attainment;1;1
+21542;21593;Mechanic Parts;2;1
+21542;21581;Cryptic Symmetry;1;1
+21545;21581;Cryptic Symmetry;2;1
+21545;21595;Construction Alloy;3;1
+21545;21731;Angel Simple Trigger Mechanism;1;1
+21547;21731;Angel Simple Trigger Mechanism;1;1
+21547;21595;Construction Alloy;3;1
+21547;21581;Cryptic Symmetry;2;1
+21549;21581;Cryptic Symmetry;2;1
+21549;21595;Construction Alloy;6;1
+21549;21731;Angel Simple Trigger Mechanism;1;1
+21551;21730;Angel Standard Trigger Mechanism;1;1
+21551;21595;Construction Alloy;6;1
+21551;21592;Electric Conduit;1;1
+21551;21581;Cryptic Symmetry;1;1
+21551;21582;Cryptic Augmentation;2;1
+21553;21582;Cryptic Augmentation;2;1
+21553;21581;Cryptic Symmetry;1;1
+21553;21592;Electric Conduit;1;1
+21553;21595;Construction Alloy;6;1
+21553;21730;Angel Standard Trigger Mechanism;1;1
+21555;21730;Angel Standard Trigger Mechanism;1;1
+21555;21595;Construction Alloy;12;1
+21555;21592;Electric Conduit;1;1
+21555;21581;Cryptic Symmetry;1;1
+21555;21582;Cryptic Augmentation;2;1
+21557;21582;Cryptic Augmentation;1;1
+21557;21581;Cryptic Symmetry;1;1
+21557;21580;Cryptic Accelerant;2;1
+21557;21594;Energy Cells;1;1
+21557;21595;Construction Alloy;12;1
+21557;21729;Angel Advanced Trigger Mechanism;1;1
+21559;21729;Angel Advanced Trigger Mechanism;1;1
+21559;21595;Construction Alloy;12;1
+21559;21594;Energy Cells;2;1
+21559;21580;Cryptic Accelerant;2;1
+21559;21581;Cryptic Symmetry;1;1
+21559;21582;Cryptic Augmentation;1;1
+21561;21582;Cryptic Augmentation;1;1
+21561;21581;Cryptic Symmetry;1;1
+21561;21580;Cryptic Accelerant;2;1
+21561;21594;Energy Cells;3;1
+21561;21595;Construction Alloy;12;1
+21561;21729;Angel Advanced Trigger Mechanism;1;1
+21638;15508;Vespa I;1;1
+21638;11690;Superconductor Rails;1;1
+21638;11481;R.A.M.- Robotics;1;0,075
+21638;9848;Robotics;2;1
+21638;9834;Guidance Systems;2;1
+21640;9834;Guidance Systems;2;1
+21640;9848;Robotics;2;1
+21640;11481;R.A.M.- Robotics;1;0,075
+21640;11691;Thermonuclear Trigger Unit;1;1
+21640;15510;Valkyrie I;1;1
+21947;2875;Sterile Conduits;2;1
+21947;2868;Integrity Response Drones;1;1
+21947;2869;Nano-Factory;2;1
+21947;2871;Recursive Computing Module;1;1
+21947;2870;Organic Mortar Applicators;4;1
+21947;39;Zydrine;150;1
+21947;38;Nocxium;1500;1
+21947;34;Tritanium;1000000;1
+21949;34;Tritanium;1000000;1
+21949;38;Nocxium;1500;1
+21949;39;Zydrine;150;1
+21949;2870;Organic Mortar Applicators;8;1
+21949;2871;Recursive Computing Module;2;1
+21949;2872;Self-Harmonizing Power Core;2;1
+21949;2869;Nano-Factory;3;1
+21949;2868;Integrity Response Drones;1;1
+21949;2876;Wetware Mainframe;1;1
+21951;2876;Wetware Mainframe;1;1
+21951;2875;Sterile Conduits;4;1
+21951;2869;Nano-Factory;2;1
+21951;2870;Organic Mortar Applicators;4;1
+21951;39;Zydrine;150;1
+21951;2867;Broadcast Node;1;1
+21951;38;Nocxium;1500;1
+21951;34;Tritanium;1000000;1
+21953;34;Tritanium;2750000;1
+21953;38;Nocxium;6500;1
+21953;2867;Broadcast Node;5;1
+21953;39;Zydrine;500;1
+21953;2870;Organic Mortar Applicators;8;1
+21953;2872;Self-Harmonizing Power Core;5;1
+21953;2871;Recursive Computing Module;6;1
+21953;2869;Nano-Factory;4;1
+21953;2875;Sterile Conduits;7;1
+21953;2876;Wetware Mainframe;4;1
+21955;2876;Wetware Mainframe;3;1
+21955;2869;Nano-Factory;10;1
+21955;2868;Integrity Response Drones;3;1
+21955;2871;Recursive Computing Module;4;1
+21955;2872;Self-Harmonizing Power Core;6;1
+21955;2870;Organic Mortar Applicators;6;1
+21955;39;Zydrine;450;1
+21955;2867;Broadcast Node;4;1
+21955;38;Nocxium;6000;1
+21955;34;Tritanium;2500000;1
+21957;34;Tritanium;3000000;1
+21957;38;Nocxium;7500;1
+21957;39;Zydrine;750;1
+21957;2870;Organic Mortar Applicators;7;1
+21957;2872;Self-Harmonizing Power Core;5;1
+21957;2871;Recursive Computing Module;6;1
+21957;2868;Integrity Response Drones;5;1
+21957;2869;Nano-Factory;8;1
+21957;2876;Wetware Mainframe;3;1
+21957;2875;Sterile Conduits;7;1
+21959;2875;Sterile Conduits;8;1
+21959;2876;Wetware Mainframe;3;1
+21959;2869;Nano-Factory;7;1
+21959;2871;Recursive Computing Module;6;1
+21959;2872;Self-Harmonizing Power Core;5;1
+21959;2870;Organic Mortar Applicators;8;1
+21959;39;Zydrine;750;1
+21959;2867;Broadcast Node;6;1
+21959;38;Nocxium;7500;1
+21959;34;Tritanium;3000000;1
+21961;34;Tritanium;2500000;1
+21961;38;Nocxium;6000;1
+21961;2867;Broadcast Node;4;1
+21961;39;Zydrine;450;1
+21961;2870;Organic Mortar Applicators;10;1
+21961;2872;Self-Harmonizing Power Core;4;1
+21961;2871;Recursive Computing Module;4;1
+21961;2868;Integrity Response Drones;3;1
+21961;2876;Wetware Mainframe;4;1
+21961;2875;Sterile Conduits;6;1
+21963;2875;Sterile Conduits;11;1
+21963;2876;Wetware Mainframe;5;1
+21963;2868;Integrity Response Drones;5;1
+21963;2869;Nano-Factory;11;1
+21963;2871;Recursive Computing Module;7;1
+21963;2872;Self-Harmonizing Power Core;7;1
+21963;2870;Organic Mortar Applicators;11;1
+21963;39;Zydrine;1000;1
+21963;2867;Broadcast Node;7;1
+21963;38;Nocxium;10000;1
+21963;34;Tritanium;4000000;1
+21965;34;Tritanium;1500000;1
+21965;38;Nocxium;3000;1
+21965;2867;Broadcast Node;3;1
+21965;39;Zydrine;250;1
+21965;2870;Organic Mortar Applicators;4;1
+21965;2872;Self-Harmonizing Power Core;3;1
+21965;2871;Recursive Computing Module;3;1
+21965;2868;Integrity Response Drones;2;1
+21965;2876;Wetware Mainframe;2;1
+21965;2875;Sterile Conduits;7;1
+21967;2875;Sterile Conduits;7;1
+21967;2876;Wetware Mainframe;3;1
+21967;2868;Integrity Response Drones;3;1
+21967;2871;Recursive Computing Module;4;1
+21967;2872;Self-Harmonizing Power Core;4;1
+21967;2870;Organic Mortar Applicators;9;1
+21967;39;Zydrine;500;1
+21967;2867;Broadcast Node;8;1
+21967;38;Nocxium;6500;1
+21967;34;Tritanium;2750000;1
+21969;34;Tritanium;2000000;1
+21969;38;Nocxium;5000;1
+21969;2867;Broadcast Node;7;1
+21969;39;Zydrine;400;1
+21969;2870;Organic Mortar Applicators;5;1
+21969;2872;Self-Harmonizing Power Core;4;1
+21969;2871;Recursive Computing Module;4;1
+21969;2869;Nano-Factory;5;1
+21969;2876;Wetware Mainframe;3;1
+21969;2875;Sterile Conduits;5;1
+22227;2346;Synthetic Synapses;3;1
+22228;2346;Synthetic Synapses;3;1
+22229;3687;Electronic Parts;5;1
+22229;3689;Mechanical Parts;5;1
+22229;11482;R.A.M.- Energy Tech;1;0,2
+22229;16278;Ice Harvester I;1;1
+22229;11541;Photon Microprocessor;5;1
+22291;11540;Quantum Microprocessor;6;1
+22291;11483;R.A.M.- Electronics;1;0,15
+22291;12274;Ballistic Control System I;1;1
+22291;11399;Morphite;3;1
+22291;9842;Miniature Electronics;3;1
+22291;3689;Mechanical Parts;1;1
+22428;11478;R.A.M.- Starship Tech;20;0,95
+22428;643;Armageddon;1;1
+22430;645;Dominix;1;1
+22430;11478;R.A.M.- Starship Tech;20;0,95
+22436;11478;R.A.M.- Starship Tech;20;0,95
+22436;640;Scorpion;1;1
+22440;644;Typhoon;1;1
+22440;11478;R.A.M.- Starship Tech;20;0,95
+22442;11478;R.A.M.- Starship Tech;15;0,95
+22442;24700;Myrmidon;1;1
+22444;24702;Hurricane;1;1
+22444;11478;R.A.M.- Starship Tech;15;0,95
+22446;11478;R.A.M.- Starship Tech;15;0,95
+22446;16227;Ferox;1;1
+22448;24696;Harbinger;1;1
+22448;11478;R.A.M.- Starship Tech;15;0,95
+22452;11478;R.A.M.- Starship Tech;6;0,95
+22452;16236;Coercer;1;1
+22456;16242;Thrasher;1;1
+22456;11478;R.A.M.- Starship Tech;6;0,95
+22460;11478;R.A.M.- Starship Tech;6;0,95
+22460;16240;Catalyst;1;1
+22464;16238;Cormorant;1;1
+22464;11478;R.A.M.- Starship Tech;6;0,95
+22466;11478;R.A.M.- Starship Tech;15;0,95
+22466;16229;Brutix;1;1
+22468;16231;Cyclone;1;1
+22468;11478;R.A.M.- Starship Tech;15;0,95
+22470;11478;R.A.M.- Starship Tech;15;0,95
+22470;24698;Drake;1;1
+22474;16233;Prophecy;1;1
+22474;11478;R.A.M.- Starship Tech;15;0,95
+22544;11478;R.A.M.- Starship Tech;10;0,95
+22544;3828;Construction Blocks;50;1
+22544;17476;Covetor;1;1
+22546;17480;Procurer;1;1
+22546;11531;Ion Thruster;18;1
+22546;11535;Magnetometric Sensor Cluster;5;1
+22546;11541;Photon Microprocessor;800;1
+22546;11545;Crystalline Carbonide Armor Plate;900;1
+22546;11547;Fusion Reactor Unit;13;1
+22546;11553;Oscillator Capacitor Unit;180;1
+22546;11556;Pulse Shield Emitter;5;1
+22546;3828;Construction Blocks;20;1
+22546;11478;R.A.M.- Starship Tech;6;0,95
+22546;11399;Morphite;14;1
+22548;11399;Morphite;7;1
+22548;11478;R.A.M.- Starship Tech;8;0,95
+22548;3828;Construction Blocks;35;1
+22548;11556;Pulse Shield Emitter;3;1
+22548;11553;Oscillator Capacitor Unit;140;1
+22548;11547;Fusion Reactor Unit;11;1
+22548;11545;Crystalline Carbonide Armor Plate;700;1
+22548;11541;Photon Microprocessor;500;1
+22548;11535;Magnetometric Sensor Cluster;3;1
+22548;11531;Ion Thruster;14;1
+22548;17478;Retriever;1;1
+22553;2346;Synthetic Synapses;3;1
+22555;2346;Synthetic Synapses;3;1
+22557;2346;Synthetic Synapses;3;1
+22634;40;Megacyte;50;1
+22634;38;Nocxium;200;1
+22634;34;Tritanium;50000;1
+22634;2869;Nano-Factory;1;1
+22634;2868;Integrity Response Drones;1;1
+22634;2867;Broadcast Node;1;1
+22778;16275;Strontium Clathrates;40;1
+22875;23171;Yan Jung Semiotic Theory;1;1
+22875;23131;Yan Jung Void Machine;1;1
+22877;23131;Yan Jung Void Machine;1;1
+22877;23141;Yan Jung Silk Armor;1;1
+22877;23140;Yan Jung Plenary Wire;1;1
+22877;23142;Yan Jung Nano Fabric;1;1
+22877;23138;Yan Jung Null Shell;1;1
+22877;23139;Yan Jung Glass Scale;1;1
+22877;23128;Yan Jung Crystal Cylinder;1;1
+22877;23129;Yan Jung Paradox Box;1;1
+22877;23130;Yan Jung Thunder Kite;1;1
+22877;23132;Yan Jung Tachyon Stetoscope;1;1
+22877;23171;Yan Jung Semiotic Theory;1;1
+22877;23168;Yan Jung Info Matrix;1;1
+22877;23170;Yan Jung Trigonometric Laws;1;1
+22877;23169;Yan Jung Vellum Etch;1;1
+22877;23172;Yan Jung Singularity Fact Sheet;1;1
+22879;23172;Yan Jung Singularity Fact Sheet;1;1
+22879;23169;Yan Jung Vellum Etch;2;1
+22879;23129;Yan Jung Paradox Box;2;1
+22879;23139;Yan Jung Glass Scale;3;1
+22881;23139;Yan Jung Glass Scale;3;1
+22881;23129;Yan Jung Paradox Box;1;1
+22881;23169;Yan Jung Vellum Etch;1;1
+22883;23169;Yan Jung Vellum Etch;1;1
+22883;23129;Yan Jung Paradox Box;1;1
+22883;23139;Yan Jung Glass Scale;3;1
+22887;23138;Yan Jung Null Shell;1;1
+22887;23128;Yan Jung Crystal Cylinder;1;1
+22887;23168;Yan Jung Info Matrix;1;1
+22887;23171;Yan Jung Semiotic Theory;1;1
+22889;23170;Yan Jung Trigonometric Laws;1;1
+22889;23128;Yan Jung Crystal Cylinder;1;1
+22889;23130;Yan Jung Thunder Kite;1;1
+22889;23138;Yan Jung Null Shell;1;1
+22889;23140;Yan Jung Plenary Wire;1;1
+22891;23142;Yan Jung Nano Fabric;1;1
+22891;23132;Yan Jung Tachyon Stetoscope;2;1
+22891;23171;Yan Jung Semiotic Theory;1;1
+22891;23172;Yan Jung Singularity Fact Sheet;1;1
+22893;23169;Yan Jung Vellum Etch;1;1
+22893;23168;Yan Jung Info Matrix;1;1
+22893;23129;Yan Jung Paradox Box;1;1
+22893;23128;Yan Jung Crystal Cylinder;1;1
+22893;23138;Yan Jung Null Shell;1;1
+22893;23139;Yan Jung Glass Scale;1;1
+22895;23139;Yan Jung Glass Scale;2;1
+22895;23130;Yan Jung Thunder Kite;2;1
+22895;23170;Yan Jung Trigonometric Laws;2;1
+22897;23170;Yan Jung Trigonometric Laws;2;1
+22897;23130;Yan Jung Thunder Kite;2;1
+22897;23139;Yan Jung Glass Scale;2;1
+22899;23153;Serpentis Plain Target Guider;2;1
+22899;23163;Current Amplifier;1;1
+22899;23183;Incognito Process;1;1
+22901;23183;Incognito Process;2;1
+22901;23163;Current Amplifier;1;1
+22901;23153;Serpentis Plain Target Guider;3;1
+22905;23153;Serpentis Plain Target Guider;2;1
+22905;23163;Current Amplifier;3;1
+22905;23183;Incognito Process;2;1
+22907;23183;Incognito Process;2;1
+22907;23185;Incognito Symmetry;1;1
+22907;23166;Internal Bulkhead;1;1
+22907;23153;Serpentis Plain Target Guider;3;1
+22907;23155;Serpentis Complex Target Guider;1;1
+22907;23165;Heat Depressor;2;1
+22909;23165;Heat Depressor;3;1
+22909;23155;Serpentis Complex Target Guider;2;1
+22909;23185;Incognito Symmetry;2;1
+22911;23187;Incognito Attainment;1;1
+22911;23157;Serpentis Multi-tasking Processor;1;1
+22911;23167;Mainframe Bit;2;1
+22913;23167;Mainframe Bit;3;1
+22913;23157;Serpentis Multi-tasking Processor;2;1
+22913;23155;Serpentis Complex Target Guider;2;1
+22913;23187;Incognito Attainment;1;1
+22915;23187;Incognito Attainment;2;1
+22915;23157;Serpentis Multi-tasking Processor;3;1
+22915;23167;Mainframe Bit;4;1
+22917;23154;Serpentis Basic Target Guider;1;1
+22917;23164;Second-hand Parts;3;1
+22917;23184;Incognito Accelerant;2;1
+22919;23186;Incognito Augmentation;3;1
+22919;23166;Internal Bulkhead;4;1
+22919;23154;Serpentis Basic Target Guider;4;1
+22923;23169;Yan Jung Vellum Etch;2;1
+22923;23139;Yan Jung Glass Scale;3;1
+22923;23129;Yan Jung Paradox Box;3;1
+22923;23128;Yan Jung Crystal Cylinder;3;1
+22925;23129;Yan Jung Paradox Box;1;1
+22925;23139;Yan Jung Glass Scale;2;1
+22925;23141;Yan Jung Silk Armor;1;1
+22925;23131;Yan Jung Void Machine;2;1
+22925;23169;Yan Jung Vellum Etch;1;1
+22925;23171;Yan Jung Semiotic Theory;2;1
+22927;23154;Serpentis Basic Target Guider;3;1
+22927;23164;Second-hand Parts;1;1
+22927;23184;Incognito Accelerant;1;1
+22929;23186;Incognito Augmentation;2;1
+22929;23164;Second-hand Parts;2;1
+22929;23166;Internal Bulkhead;2;1
+22929;23154;Serpentis Basic Target Guider;2;1
+22929;23156;Serpentis 3D Scanner Gamut;2;1
+22929;23167;Mainframe Bit;1;1
+22931;23154;Serpentis Basic Target Guider;3;1
+22931;23166;Internal Bulkhead;1;1
+22931;23184;Incognito Accelerant;1;1
+22933;23186;Incognito Augmentation;2;1
+22933;23166;Internal Bulkhead;3;1
+22933;23164;Second-hand Parts;1;1
+22933;23154;Serpentis Basic Target Guider;1;1
+22933;23156;Serpentis 3D Scanner Gamut;2;1
+22935;23154;Serpentis Basic Target Guider;2;1
+22935;23164;Second-hand Parts;2;1
+22935;23184;Incognito Accelerant;2;1
+22937;23186;Incognito Augmentation;1;1
+22937;23166;Internal Bulkhead;2;1
+22937;23156;Serpentis 3D Scanner Gamut;1;1
+22939;23156;Serpentis 3D Scanner Gamut;3;1
+22939;23166;Internal Bulkhead;2;1
+22939;23184;Incognito Accelerant;1;1
+22941;23184;Incognito Accelerant;2;1
+22941;23186;Incognito Augmentation;1;1
+22941;23164;Second-hand Parts;2;1
+22941;23153;Serpentis Plain Target Guider;1;1
+22941;23154;Serpentis Basic Target Guider;2;1
+22943;23154;Serpentis Basic Target Guider;3;1
+22943;23164;Second-hand Parts;1;1
+22943;23184;Incognito Accelerant;1;1
+22945;23184;Incognito Accelerant;1;1
+22945;23186;Incognito Augmentation;2;1
+22945;23164;Second-hand Parts;2;1
+22945;23166;Internal Bulkhead;2;1
+22945;23154;Serpentis Basic Target Guider;1;1
+22945;23156;Serpentis 3D Scanner Gamut;3;1
+22947;23168;Yan Jung Info Matrix;1;1
+22947;23138;Yan Jung Null Shell;2;1
+22947;23128;Yan Jung Crystal Cylinder;2;1
+22949;23128;Yan Jung Crystal Cylinder;1;1
+22949;23130;Yan Jung Thunder Kite;3;1
+22949;23138;Yan Jung Null Shell;1;1
+22949;23140;Yan Jung Plenary Wire;2;1
+22949;23170;Yan Jung Trigonometric Laws;2;1
+22951;23172;Yan Jung Singularity Fact Sheet;2;1
+22951;23140;Yan Jung Plenary Wire;2;1
+22951;23142;Yan Jung Nano Fabric;2;1
+22951;23130;Yan Jung Thunder Kite;1;1
+22951;23132;Yan Jung Tachyon Stetoscope;2;1
+22953;23129;Yan Jung Paradox Box;2;1
+22953;23128;Yan Jung Crystal Cylinder;1;1
+22953;23138;Yan Jung Null Shell;2;1
+22953;23139;Yan Jung Glass Scale;3;1
+22953;23169;Yan Jung Vellum Etch;1;1
+22953;23168;Yan Jung Info Matrix;1;1
+23414;23168;Yan Jung Info Matrix;1;1
+23414;23138;Yan Jung Null Shell;2;1
+23414;23128;Yan Jung Crystal Cylinder;2;1
+23416;23130;Yan Jung Thunder Kite;3;1
+23416;23132;Yan Jung Tachyon Stetoscope;1;1
+23416;23138;Yan Jung Null Shell;1;1
+23416;23139;Yan Jung Glass Scale;1;1
+23416;23142;Yan Jung Nano Fabric;1;1
+23416;23140;Yan Jung Plenary Wire;1;1
+23416;23141;Yan Jung Silk Armor;1;1
+23416;23172;Yan Jung Singularity Fact Sheet;1;1
+23418;23169;Yan Jung Vellum Etch;1;1
+23418;23168;Yan Jung Info Matrix;1;1
+23418;23139;Yan Jung Glass Scale;1;1
+23418;23138;Yan Jung Null Shell;2;1
+23418;23129;Yan Jung Paradox Box;2;1
+23418;23128;Yan Jung Crystal Cylinder;2;1
+23783;23133;Takmahl Phrenic Appendix;1;1
+23783;23143;Takmahl Diamond Rod;2;1
+23783;23173;Takmahl Binary Texts;1;1
+23785;23175;Takmahl Centrifugal Primer;3;1
+23785;23177;Takmahl Astral Treatment;2;1
+23785;23145;Takmahl Solid Mox;2;1
+23785;23147;Takmahl Tri-polished Lens;4;1
+23785;23133;Takmahl Phrenic Appendix;5;1
+23785;23135;Takmahl Gyro Ballast;1;1
+23785;23137;Takmahl Quantum Sphere;2;1
+23787;23135;Takmahl Gyro Ballast;1;1
+23787;23133;Takmahl Phrenic Appendix;1;1
+23787;23145;Takmahl Solid Mox;1;1
+23787;23143;Takmahl Diamond Rod;2;1
+23787;23175;Takmahl Centrifugal Primer;2;1
+23789;23175;Takmahl Centrifugal Primer;3;1
+23789;23143;Takmahl Diamond Rod;2;1
+23789;23145;Takmahl Solid Mox;1;1
+23789;23133;Takmahl Phrenic Appendix;2;1
+23789;23134;Takmahl Dynamic Gauge;1;1
+23789;23135;Takmahl Gyro Ballast;2;1
+23791;23133;Takmahl Phrenic Appendix;1;1
+23791;23143;Takmahl Diamond Rod;1;1
+23791;23173;Takmahl Binary Texts;2;1
+23793;23175;Takmahl Centrifugal Primer;1;1
+23793;23177;Takmahl Astral Treatment;1;1
+23793;23145;Takmahl Solid Mox;1;1
+23793;23147;Takmahl Tri-polished Lens;1;1
+23793;23133;Takmahl Phrenic Appendix;3;1
+23793;23135;Takmahl Gyro Ballast;1;1
+23793;23137;Takmahl Quantum Sphere;1;1
+23795;23133;Takmahl Phrenic Appendix;2;1
+23795;23143;Takmahl Diamond Rod;1;1
+23795;23173;Takmahl Binary Texts;2;1
+23797;23175;Takmahl Centrifugal Primer;2;1
+23797;23145;Takmahl Solid Mox;2;1
+23797;23133;Takmahl Phrenic Appendix;3;1
+23797;23135;Takmahl Gyro Ballast;2;1
+23799;23135;Takmahl Gyro Ballast;1;1
+23799;23137;Takmahl Quantum Sphere;1;1
+23799;23133;Takmahl Phrenic Appendix;2;1
+23799;23145;Takmahl Solid Mox;2;1
+23799;23147;Takmahl Tri-polished Lens;1;1
+23799;23175;Takmahl Centrifugal Primer;3;1
+23799;23177;Takmahl Astral Treatment;1;1
+23801;23174;Takmahl Fractal Sheet;1;1
+23801;23144;Takmahl Cohere Cord;1;1
+23801;23134;Takmahl Dynamic Gauge;1;1
+23803;23134;Takmahl Dynamic Gauge;2;1
+23803;23145;Takmahl Solid Mox;3;1
+23803;23143;Takmahl Diamond Rod;2;1
+23803;23174;Takmahl Fractal Sheet;2;1
+23805;23174;Takmahl Fractal Sheet;2;1
+23805;23176;Takmahl Geometric Design;1;1
+23805;23144;Takmahl Cohere Cord;1;1
+23805;23146;Takmahl Magnetic Slab;2;1
+23805;23134;Takmahl Dynamic Gauge;4;1
+23805;23133;Takmahl Phrenic Appendix;1;1
+23805;23136;Takmahl Biodroid Controller;2;1
+23807;23134;Takmahl Dynamic Gauge;2;1
+23807;23174;Takmahl Fractal Sheet;2;1
+23809;23174;Takmahl Fractal Sheet;1;1
+23809;23176;Takmahl Geometric Design;1;1
+23809;23134;Takmahl Dynamic Gauge;2;1
+23809;23136;Takmahl Biodroid Controller;1;1
+23809;23146;Takmahl Magnetic Slab;1;1
+23809;23144;Takmahl Cohere Cord;1;1
+23811;23144;Takmahl Cohere Cord;2;1
+23811;23146;Takmahl Magnetic Slab;1;1
+23811;23136;Takmahl Biodroid Controller;2;1
+23811;23134;Takmahl Dynamic Gauge;2;1
+23811;23176;Takmahl Geometric Design;2;1
+23811;23174;Takmahl Fractal Sheet;2;1
+23813;23159;Auxiliary Parts;2;1
+23813;23179;Occult Accelerant;2;1
+23813;23149;Blood Raider Regular Ballistic Control;3;1
+23815;23149;Blood Raider Regular Ballistic Control;1;1
+23815;23179;Occult Accelerant;1;1
+23815;23158;Positron Cord;1;1
+23817;23159;Auxiliary Parts;1;1
+23817;23161;Elemental Crux;1;1
+23817;23179;Occult Accelerant;3;1
+23817;23149;Blood Raider Regular Ballistic Control;3;1
+23819;23149;Blood Raider Regular Ballistic Control;2;1
+23819;23179;Occult Accelerant;1;1
+23819;23181;Occult Augmentation;2;1
+23819;23161;Elemental Crux;1;1
+23819;23159;Auxiliary Parts;2;1
+23819;23151;Blood Raider Weapon Integration Unit;1;1
+23819;23152;Blood Raider Power Redistributor;1;1
+23821;23158;Positron Cord;1;1
+23821;23179;Occult Accelerant;1;1
+23821;23149;Blood Raider Regular Ballistic Control;1;1
+23824;23149;Blood Raider Regular Ballistic Control;3;1
+23824;23179;Occult Accelerant;2;1
+23824;23182;Occult Attainment;1;1
+23824;23158;Positron Cord;1;1
+23824;23159;Auxiliary Parts;3;1
+23824;23161;Elemental Crux;1;1
+23829;23161;Elemental Crux;1;1
+23829;23159;Auxiliary Parts;2;1
+23829;23151;Blood Raider Weapon Integration Unit;2;1
+23829;23179;Occult Accelerant;1;1
+23829;23181;Occult Augmentation;2;1
+23829;23149;Blood Raider Regular Ballistic Control;1;1
+23834;23148;Blood Raider Limited Ballistic Control;1;1
+23834;23158;Positron Cord;2;1
+23834;23178;Occult Process;1;1
+23836;23178;Occult Process;1;1
+23836;23158;Positron Cord;3;1
+23836;23179;Occult Accelerant;1;1
+23836;23148;Blood Raider Limited Ballistic Control;2;1
+23838;23148;Blood Raider Limited Ballistic Control;2;1
+23838;23179;Occult Accelerant;2;1
+23838;23158;Positron Cord;2;1
+23838;23178;Occult Process;2;1
+23840;23160;Force Cable;1;1
+23840;23180;Occult Symmetry;1;1
+23840;23150;Blood Raider Extreme Ballistic Control;1;1
+23842;23180;Occult Symmetry;3;1
+23842;23160;Force Cable;3;1
+23842;23150;Blood Raider Extreme Ballistic Control;2;1
+23842;23148;Blood Raider Limited Ballistic Control;1;1
+23842;23149;Blood Raider Regular Ballistic Control;1;1
+23844;23150;Blood Raider Extreme Ballistic Control;3;1
+23844;23160;Force Cable;2;1
+23844;23180;Occult Symmetry;2;1
+23846;23182;Occult Attainment;2;1
+23846;23152;Blood Raider Power Redistributor;2;1
+23846;23162;Analog Panel;2;1
+23848;23162;Analog Panel;1;1
+23848;23152;Blood Raider Power Redistributor;1;1
+23848;23182;Occult Attainment;1;1
+23850;23182;Occult Attainment;3;1
+23850;23152;Blood Raider Power Redistributor;3;1
+23850;23162;Analog Panel;3;1
+23852;23175;Takmahl Centrifugal Primer;1;1
+23852;23145;Takmahl Solid Mox;1;1
+23852;23135;Takmahl Gyro Ballast;1;1
+23854;23135;Takmahl Gyro Ballast;3;1
+23854;23133;Takmahl Phrenic Appendix;1;1
+23854;23145;Takmahl Solid Mox;2;1
+23854;23144;Takmahl Cohere Cord;1;1
+23854;23175;Takmahl Centrifugal Primer;3;1
+23856;23177;Takmahl Astral Treatment;2;1
+23856;23147;Takmahl Tri-polished Lens;2;1
+23856;23137;Takmahl Quantum Sphere;2;1
+23864;23148;Blood Raider Limited Ballistic Control;1;1
+23864;23158;Positron Cord;1;1
+23864;23182;Occult Attainment;1;1
+23864;23179;Occult Accelerant;1;1
+23866;23179;Occult Accelerant;1;1
+23866;23180;Occult Symmetry;2;1
+23866;23150;Blood Raider Extreme Ballistic Control;1;1
+23866;23160;Force Cable;2;1
+23866;23149;Blood Raider Regular Ballistic Control;1;1
+23868;23152;Blood Raider Power Redistributor;2;1
+23868;23162;Analog Panel;2;1
+23868;23182;Occult Attainment;2;1
+23894;23174;Takmahl Fractal Sheet;2;1
+23894;23144;Takmahl Cohere Cord;1;1
+23894;23143;Takmahl Diamond Rod;1;1
+23894;23134;Takmahl Dynamic Gauge;1;1
+23896;23134;Takmahl Dynamic Gauge;2;1
+23896;23144;Takmahl Cohere Cord;1;1
+23896;23147;Takmahl Tri-polished Lens;1;1
+23896;23174;Takmahl Fractal Sheet;2;1
+23898;23176;Takmahl Geometric Design;2;1
+23898;23146;Takmahl Magnetic Slab;2;1
+23898;23136;Takmahl Biodroid Controller;2;1
+23900;23149;Blood Raider Regular Ballistic Control;1;1
+23900;23158;Positron Cord;2;1
+23900;23182;Occult Attainment;1;1
+23900;23179;Occult Accelerant;2;1
+23902;23181;Occult Augmentation;2;1
+23902;23152;Blood Raider Power Redistributor;1;1
+23902;23151;Blood Raider Weapon Integration Unit;3;1
+23902;23161;Elemental Crux;2;1
+24305;17482;Strip Miner I;1;1
+24305;12108;Deep Core Mining Laser I;1;1
+24305;11689;Laser Focusing Crystals;2;1
+24305;11541;Photon Microprocessor;3;1
+24305;3689;Mechanical Parts;5;1
+24305;3687;Electronic Parts;5;1
+24305;11482;R.A.M.- Energy Tech;1;0,2
+24417;9840;Transmitter;8;1
+24417;11483;R.A.M.- Electronics;1;0,5
+24417;11688;Particle Accelerator Unit;8;1
+24417;24395;Drone Navigation Computer I;1;1
+24427;23527;Drone Link Augmentor I;1;1
+24427;11688;Particle Accelerator Unit;8;1
+24427;11483;R.A.M.- Electronics;1;0,5
+24427;9840;Transmitter;8;1
+24438;9840;Transmitter;8;1
+24438;11483;R.A.M.- Electronics;1;0,5
+24438;11688;Particle Accelerator Unit;8;1
+24438;23533;Omnidirectional Tracking Link I;1;1
+24443;11484;R.A.M.- Shield Tech;1;0,2
+24443;11561;Shield Boost Amplifier I;1;1
+24443;11558;Sustained Shield Emitter;4;1
+24443;9838;Superconductors;2;1
+24445;34;Tritanium;15000;1
+24445;35;Pyerite;10000;1
+24471;11476;R.A.M.- Ammunition Tech;1;0,05
+24473;11476;R.A.M.- Ammunition Tech;1;0,05
+24475;11476;R.A.M.- Ammunition Tech;1;0,05
+24477;11476;R.A.M.- Ammunition Tech;1;0,05
+24478;11476;R.A.M.- Ammunition Tech;1;0,05
+24479;11476;R.A.M.- Ammunition Tech;1;0,05
+24486;11476;R.A.M.- Ammunition Tech;1;0,05
+24488;11476;R.A.M.- Ammunition Tech;1;0,05
+24490;11476;R.A.M.- Ammunition Tech;1;0,05
+24492;11476;R.A.M.- Ammunition Tech;1;0,05
+24493;11476;R.A.M.- Ammunition Tech;1;0,05
+24494;11476;R.A.M.- Ammunition Tech;1;0,05
+24495;11476;R.A.M.- Ammunition Tech;1;0,05
+24497;11476;R.A.M.- Ammunition Tech;1;0,05
+24499;11476;R.A.M.- Ammunition Tech;1;0,05
+24501;11476;R.A.M.- Ammunition Tech;1;0,05
+24503;11476;R.A.M.- Ammunition Tech;1;0,05
+24505;11476;R.A.M.- Ammunition Tech;1;0,05
+24507;11476;R.A.M.- Ammunition Tech;1;0,075
+24507;9830;Rocket Fuel;4;1
+24509;9830;Rocket Fuel;4;1
+24509;11476;R.A.M.- Ammunition Tech;1;0,075
+24511;11476;R.A.M.- Ammunition Tech;1;0,075
+24511;9830;Rocket Fuel;4;1
+24513;9830;Rocket Fuel;4;1
+24513;11476;R.A.M.- Ammunition Tech;1;0,075
+24515;11476;R.A.M.- Ammunition Tech;1;0,075
+24515;9830;Rocket Fuel;4;1
+24517;9830;Rocket Fuel;4;1
+24517;11476;R.A.M.- Ammunition Tech;1;0,075
+24519;11476;R.A.M.- Ammunition Tech;1;0,1
+24519;9830;Rocket Fuel;6;1
+24521;9830;Rocket Fuel;6;1
+24521;11476;R.A.M.- Ammunition Tech;1;0,1
+24523;11476;R.A.M.- Ammunition Tech;1;0,1
+24523;9830;Rocket Fuel;6;1
+24525;9830;Rocket Fuel;6;1
+24525;11476;R.A.M.- Ammunition Tech;1;0,125
+24527;11476;R.A.M.- Ammunition Tech;1;0,125
+24527;9830;Rocket Fuel;6;1
+24529;9830;Rocket Fuel;6;1
+24529;11476;R.A.M.- Ammunition Tech;1;0,125
+24531;11476;R.A.M.- Ammunition Tech;1;0,1
+24531;9830;Rocket Fuel;6;1
+24533;9830;Rocket Fuel;6;1
+24533;11476;R.A.M.- Ammunition Tech;1;0,1
+24535;11476;R.A.M.- Ammunition Tech;1;0,1
+24535;9830;Rocket Fuel;6;1
+24537;9830;Rocket Fuel;6;1
+24537;11476;R.A.M.- Ammunition Tech;1;0,1
+24539;11476;R.A.M.- Ammunition Tech;1;0,1
+24539;9830;Rocket Fuel;6;1
+24541;9830;Rocket Fuel;6;1
+24541;11476;R.A.M.- Ammunition Tech;1;0,1
+24567;2872;Self-Harmonizing Power Core;5;1
+24567;2876;Wetware Mainframe;4;1
+24567;2875;Sterile Conduits;8;1
+24567;2867;Broadcast Node;5;1
+24567;2868;Integrity Response Drones;4;1
+24567;2869;Nano-Factory;8;1
+24567;2871;Recursive Computing Module;5;1
+24567;2870;Organic Mortar Applicators;8;1
+24567;21037;Capital Construction Parts;2;1
+24574;21037;Capital Construction Parts;2;1
+24574;2870;Organic Mortar Applicators;8;1
+24574;2871;Recursive Computing Module;5;1
+24574;2869;Nano-Factory;8;1
+24574;2868;Integrity Response Drones;4;1
+24574;2867;Broadcast Node;5;1
+24574;2875;Sterile Conduits;8;1
+24574;2872;Self-Harmonizing Power Core;5;1
+24574;2876;Wetware Mainframe;4;1
+24575;2876;Wetware Mainframe;70;1
+24575;2872;Self-Harmonizing Power Core;100;1
+24575;2875;Sterile Conduits;150;1
+24575;2867;Broadcast Node;100;1
+24575;2868;Integrity Response Drones;70;1
+24575;2871;Recursive Computing Module;100;1
+24575;2870;Organic Mortar Applicators;150;1
+24575;2869;Nano-Factory;150;1
+24575;21037;Capital Construction Parts;40;1
+24646;21037;Capital Construction Parts;20;1
+24646;2871;Recursive Computing Module;50;1
+24646;2872;Self-Harmonizing Power Core;50;1
+24646;2870;Organic Mortar Applicators;75;1
+24646;2869;Nano-Factory;75;1
+24646;2867;Broadcast Node;50;1
+24646;2868;Integrity Response Drones;35;1
+24646;2875;Sterile Conduits;75;1
+24646;2876;Wetware Mainframe;35;1
+24653;2876;Wetware Mainframe;4;1
+24653;2875;Sterile Conduits;8;1
+24653;2872;Self-Harmonizing Power Core;5;1
+24653;2871;Recursive Computing Module;5;1
+24653;2867;Broadcast Node;5;1
+24653;2868;Integrity Response Drones;4;1
+24653;2869;Nano-Factory;8;1
+24653;2870;Organic Mortar Applicators;8;1
+24653;21037;Capital Construction Parts;1;1
+24654;21037;Capital Construction Parts;2;1
+24654;2870;Organic Mortar Applicators;8;1
+24654;2871;Recursive Computing Module;5;1
+24654;2868;Integrity Response Drones;4;1
+24654;2869;Nano-Factory;8;1
+24654;2867;Broadcast Node;5;1
+24654;2872;Self-Harmonizing Power Core;5;1
+24654;2875;Sterile Conduits;8;1
+24654;2876;Wetware Mainframe;4;1
+24655;2876;Wetware Mainframe;4;1
+24655;2875;Sterile Conduits;8;1
+24655;2868;Integrity Response Drones;4;1
+24655;2867;Broadcast Node;5;1
+24655;2869;Nano-Factory;8;1
+24655;2872;Self-Harmonizing Power Core;5;1
+24655;2871;Recursive Computing Module;5;1
+24655;2870;Organic Mortar Applicators;8;1
+24655;21037;Capital Construction Parts;2;1
+24656;21037;Capital Construction Parts;10;1
+24656;2871;Recursive Computing Module;5;1
+24656;2870;Organic Mortar Applicators;8;1
+24656;2868;Integrity Response Drones;4;1
+24656;2869;Nano-Factory;8;1
+24656;2867;Broadcast Node;5;1
+24656;2875;Sterile Conduits;8;1
+24656;2872;Self-Harmonizing Power Core;5;1
+24656;2876;Wetware Mainframe;4;1
+24657;2876;Wetware Mainframe;4;1
+24657;2872;Self-Harmonizing Power Core;5;1
+24657;2875;Sterile Conduits;8;1
+24657;2867;Broadcast Node;5;1
+24657;2868;Integrity Response Drones;4;1
+24657;2869;Nano-Factory;8;1
+24657;2870;Organic Mortar Applicators;8;1
+24657;2871;Recursive Computing Module;5;1
+24657;21037;Capital Construction Parts;4;1
+24658;2869;Nano-Factory;1;1
+24658;2867;Broadcast Node;1;1
+24658;2876;Wetware Mainframe;1;1
+24658;34;Tritanium;100000;1
+24658;38;Nocxium;200;1
+24658;40;Megacyte;50;1
+24658;39;Zydrine;100;1
+24659;39;Zydrine;100;1
+24659;38;Nocxium;200;1
+24659;40;Megacyte;50;1
+24659;34;Tritanium;100000;1
+24659;2876;Wetware Mainframe;1;1
+24659;2867;Broadcast Node;1;1
+24659;2869;Nano-Factory;1;1
+24660;2869;Nano-Factory;1;1
+24660;2870;Organic Mortar Applicators;1;1
+24660;2867;Broadcast Node;1;1
+24660;2876;Wetware Mainframe;1;1
+24660;34;Tritanium;100000;1
+24660;38;Nocxium;200;1
+24660;40;Megacyte;50;1
+24660;39;Zydrine;100;1
+24684;40;Megacyte;100;1
+24684;38;Nocxium;100;1
+24684;34;Tritanium;50000;1
+24684;2876;Wetware Mainframe;1;1
+24684;2867;Broadcast Node;2;1
+24684;2868;Integrity Response Drones;1;1
+24684;2869;Nano-Factory;4;1
+24684;2870;Organic Mortar Applicators;2;1
+24684;2871;Recursive Computing Module;1;1
+24688;34;Tritanium;899052;1
+24694;34;Tritanium;1061740;1
+24694;38;Nocxium;4301;1
+24696;34;Tritanium;6164;1
+24696;35;Pyerite;2799;1
+24696;40;Megacyte;30;1
+24696;39;Zydrine;46;1
+24698;40;Megacyte;11;1
+24698;36;Mexallon;1355;1
+24698;34;Tritanium;55688;1
+24698;38;Nocxium;2636;1
+24698;37;Isogen;533;1
+24702;37;Isogen;3051;1
+24702;34;Tritanium;69980;1
+24702;36;Mexallon;31493;1
+24702;35;Pyerite;23897;1
+24702;40;Megacyte;192;1
+24702;39;Zydrine;352;1
+25266;35;Pyerite;7000;1
+25266;36;Mexallon;3000;1
+25266;34;Tritanium;10000;1
+25270;34;Tritanium;50000;1
+25270;38;Nocxium;200;1
+25270;40;Megacyte;50;1
+25270;2871;Recursive Computing Module;3;1
+25270;2870;Organic Mortar Applicators;3;1
+25271;2870;Organic Mortar Applicators;1;1
+25271;2871;Recursive Computing Module;1;1
+25271;40;Megacyte;50;1
+25271;38;Nocxium;200;1
+25271;34;Tritanium;50000;1
+25280;34;Tritanium;50000;1
+25280;38;Nocxium;200;1
+25280;40;Megacyte;50;1
+25280;2870;Organic Mortar Applicators;4;1
+25280;2871;Recursive Computing Module;4;1
+25305;2871;Recursive Computing Module;4;1
+25305;2870;Organic Mortar Applicators;4;1
+25305;2869;Nano-Factory;6;1
+25305;2868;Integrity Response Drones;3;1
+25305;2876;Wetware Mainframe;4;1
+25305;2875;Sterile Conduits;7;1
+25305;2872;Self-Harmonizing Power Core;4;1
+25305;21037;Capital Construction Parts;1;1
+25563;25561;Signal Distortion Amplifier I;1;1
+25563;11483;R.A.M.- Electronics;1;0,45
+25563;11541;Photon Microprocessor;3;1
+25563;11534;Gravimetric Sensor Cluster;2;1
+25563;11535;Magnetometric Sensor Cluster;2;1
+25563;11537;Radar Sensor Cluster;2;1
+25563;11536;Ladar Sensor Cluster;2;1
+25563;9840;Transmitter;9;1
+25563;9842;Miniature Electronics;13;1
+25715;9848;Robotics;4;1
+25715;11540;Quantum Microprocessor;2;1
+25715;11486;R.A.M.- Weapon Tech;1;0,25
+25715;20138;Heavy Assault Missile Launcher I;1;1
+25812;11689;Laser Focusing Crystals;3;1
+25812;11541;Photon Microprocessor;3;1
+25812;25266;Gas Cloud Harvester I;1;1
+25812;11482;R.A.M.- Energy Tech;1;0,2
+25812;3689;Mechanical Parts;5;1
+25821;2870;Organic Mortar Applicators;1;1
+25821;2871;Recursive Computing Module;1;1
+25821;40;Megacyte;50;1
+25821;38;Nocxium;200;1
+25821;34;Tritanium;50000;1
+26286;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26288;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26290;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26292;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26294;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26296;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26298;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26300;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26302;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26304;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26306;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26308;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26310;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26312;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26318;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26320;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26322;11475;R.A.M.- Armor/Hull Tech;1;0,15
+26324;11481;R.A.M.- Robotics;1;0,05
+26326;11481;R.A.M.- Robotics;1;0,05
+26328;11481;R.A.M.- Robotics;1;0,05
+26330;11481;R.A.M.- Robotics;1;0,05
+26332;11481;R.A.M.- Robotics;1;0,05
+26334;11481;R.A.M.- Robotics;1;0,05
+26338;11481;R.A.M.- Robotics;1;0,05
+26340;11481;R.A.M.- Robotics;1;0,05
+26342;11483;R.A.M.- Electronics;1;0,1
+26344;11483;R.A.M.- Electronics;1;0,1
+26346;11483;R.A.M.- Electronics;1;0,1
+26348;11483;R.A.M.- Electronics;1;0,1
+26350;11483;R.A.M.- Electronics;1;0,1
+26352;11483;R.A.M.- Electronics;1;0,2
+26352;9842;Miniature Electronics;16;1
+26354;9842;Miniature Electronics;16;1
+26354;11483;R.A.M.- Electronics;1;0,2
+26356;11483;R.A.M.- Electronics;1;0,2
+26356;9842;Miniature Electronics;16;1
+26358;9842;Miniature Electronics;16;1
+26358;11483;R.A.M.- Electronics;1;0,2
+26360;11483;R.A.M.- Electronics;1;0,2
+26360;9842;Miniature Electronics;16;1
+26362;9842;Miniature Electronics;16;1
+26362;11483;R.A.M.- Electronics;1;0,2
+26364;11483;R.A.M.- Electronics;1;0,2
+26364;9842;Miniature Electronics;16;1
+26366;9842;Miniature Electronics;16;1
+26366;11483;R.A.M.- Electronics;1;0,2
+26368;11482;R.A.M.- Energy Tech;1;0,15
+26370;11482;R.A.M.- Energy Tech;1;0,15
+26372;11482;R.A.M.- Energy Tech;1;0,15
+26374;11482;R.A.M.- Energy Tech;1;0,15
+26376;11482;R.A.M.- Energy Tech;1;0,15
+26378;11486;R.A.M.- Weapon Tech;1;0,28
+26380;11486;R.A.M.- Weapon Tech;1;0,28
+26382;11486;R.A.M.- Weapon Tech;1;0,28
+26384;11486;R.A.M.- Weapon Tech;1;0,28
+26386;11486;R.A.M.- Weapon Tech;1;0,28
+26388;11486;R.A.M.- Weapon Tech;1;0,28
+26390;11486;R.A.M.- Weapon Tech;1;0,28
+26392;11486;R.A.M.- Weapon Tech;1;0,28
+26394;11486;R.A.M.- Weapon Tech;1;0,28
+26396;11486;R.A.M.- Weapon Tech;1;0,28
+26398;11486;R.A.M.- Weapon Tech;1;0,28
+26400;11486;R.A.M.- Weapon Tech;1;0,28
+26402;11486;R.A.M.- Weapon Tech;1;0,28
+26404;11486;R.A.M.- Weapon Tech;1;0,28
+26406;11486;R.A.M.- Weapon Tech;1;0,15
+26412;11486;R.A.M.- Weapon Tech;1;0,15
+26414;11486;R.A.M.- Weapon Tech;1;0,15
+26416;11486;R.A.M.- Weapon Tech;1;0,15
+26418;11486;R.A.M.- Weapon Tech;1;0,15
+26420;11486;R.A.M.- Weapon Tech;1;0,15
+26424;11486;R.A.M.- Weapon Tech;1;0,28
+26428;11486;R.A.M.- Weapon Tech;1;0,28
+26430;11486;R.A.M.- Weapon Tech;1;0,28
+26432;11486;R.A.M.- Weapon Tech;1;0,28
+26434;11486;R.A.M.- Weapon Tech;1;0,28
+26436;11484;R.A.M.- Shield Tech;1;0,1
+26438;11484;R.A.M.- Shield Tech;1;0,1
+26440;11484;R.A.M.- Shield Tech;1;0,1
+26442;11484;R.A.M.- Shield Tech;1;0,1
+26444;11484;R.A.M.- Shield Tech;1;0,1
+26446;11484;R.A.M.- Shield Tech;1;0,1
+26448;11484;R.A.M.- Shield Tech;1;0,1
+26450;11484;R.A.M.- Shield Tech;1;0,1
+26452;11484;R.A.M.- Shield Tech;1;0,1
+26888;11483;R.A.M.- Electronics;2;0,75
+26888;11550;Graviton Reactor Unit;16;1
+26888;11538;Nanomechanical Microprocessor;24;1
+26888;11693;Graviton Pulse Generator;30;1
+26888;12200;Mobile Large Warp Disruptor I;1;1
+26888;11482;R.A.M.- Energy Tech;2;0,55
+26888;3687;Electronic Parts;20;1
+26890;3687;Electronic Parts;15;1
+26890;11482;R.A.M.- Energy Tech;2;0,55
+26890;12199;Mobile Medium Warp Disruptor I;1;1
+26890;11693;Graviton Pulse Generator;20;1
+26890;11538;Nanomechanical Microprocessor;16;1
+26890;11550;Graviton Reactor Unit;8;1
+26890;11483;R.A.M.- Electronics;2;0,55
+26892;11483;R.A.M.- Electronics;2;0,35
+26892;11550;Graviton Reactor Unit;4;1
+26892;11538;Nanomechanical Microprocessor;10;1
+26892;11693;Graviton Pulse Generator;10;1
+26892;12198;Mobile Small Warp Disruptor I;1;1
+26892;11482;R.A.M.- Energy Tech;2;0,25
+26892;3687;Electronic Parts;10;1
+26912;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26912;9848;Robotics;8;1
+26912;11355;Small Remote Armor Repairer I;1;1
+26913;11357;Medium Remote Armor Repairer I;1;1
+26913;9848;Robotics;8;1
+26913;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26914;11475;R.A.M.- Armor/Hull Tech;1;0,2
+26914;9848;Robotics;8;1
+26914;11359;Large Remote Armor Repairer I;1;1
+26931;11483;R.A.M.- Electronics;1;0,1
+27066;11475;R.A.M.- Armor/Hull Tech;1;0,4
+27530;34;Tritanium;3000000;1
+27530;35;Pyerite;500000;1
+27530;38;Nocxium;25000;1
+27530;37;Isogen;50000;1
+27530;36;Mexallon;150000;1
+27530;40;Megacyte;7500;1
+27530;39;Zydrine;20000;1
+27530;12235;Amarr Control Tower;1;1
+27532;12235;Amarr Control Tower;1;1
+27532;39;Zydrine;21000;1
+27532;40;Megacyte;7875;1
+27532;37;Isogen;52500;1
+27532;38;Nocxium;26250;1
+27532;35;Pyerite;525000;1
+27532;36;Mexallon;157500;1
+27532;34;Tritanium;3150000;1
+27533;34;Tritanium;3000000;1
+27533;36;Mexallon;150000;1
+27533;35;Pyerite;500000;1
+27533;38;Nocxium;25000;1
+27533;37;Isogen;50000;1
+27533;40;Megacyte;7500;1
+27533;39;Zydrine;20000;1
+27533;16213;Caldari Control Tower;1;1
+27535;16213;Caldari Control Tower;1;1
+27535;39;Zydrine;21000;1
+27535;40;Megacyte;7875;1
+27535;37;Isogen;52500;1
+27535;38;Nocxium;26250;1
+27535;36;Mexallon;157500;1
+27535;35;Pyerite;525000;1
+27535;34;Tritanium;3150000;1
+27536;34;Tritanium;3000000;1
+27536;36;Mexallon;150000;1
+27536;35;Pyerite;500000;1
+27536;38;Nocxium;25000;1
+27536;37;Isogen;50000;1
+27536;40;Megacyte;7500;1
+27536;39;Zydrine;20000;1
+27536;12236;Gallente Control Tower;1;1
+27538;12236;Gallente Control Tower;1;1
+27538;39;Zydrine;21000;1
+27538;40;Megacyte;7875;1
+27538;37;Isogen;52500;1
+27538;38;Nocxium;26250;1
+27538;35;Pyerite;525000;1
+27538;36;Mexallon;157500;1
+27538;34;Tritanium;3150000;1
+27539;34;Tritanium;3000000;1
+27539;36;Mexallon;150000;1
+27539;35;Pyerite;500000;1
+27539;38;Nocxium;25000;1
+27539;37;Isogen;50000;1
+27539;40;Megacyte;7500;1
+27539;39;Zydrine;20000;1
+27539;16214;Minmatar Control Tower;1;1
+27540;16214;Minmatar Control Tower;1;1
+27540;39;Zydrine;21000;1
+27540;40;Megacyte;7875;1
+27540;37;Isogen;52500;1
+27540;38;Nocxium;26250;1
+27540;35;Pyerite;525000;1
+27540;36;Mexallon;157500;1
+27540;34;Tritanium;3150000;1
+27542;37;Isogen;100;1
+27542;40;Megacyte;5;1
+27542;17402;Large Blaster Battery;1;1
+27544;17402;Large Blaster Battery;1;1
+27544;40;Megacyte;5;1
+27544;37;Isogen;100;1
+27545;37;Isogen;100;1
+27545;40;Megacyte;5;1
+27545;16692;Large Railgun Battery;1;1
+27547;16692;Large Railgun Battery;1;1
+27547;40;Megacyte;5;1
+27547;37;Isogen;100;1
+27548;40;Megacyte;10;1
+27548;17406;Large Pulse Laser Battery;1;1
+27550;17406;Large Pulse Laser Battery;1;1
+27550;40;Megacyte;10;1
+27551;40;Megacyte;10;1
+27551;16694;Large Beam Laser Battery;1;1
+27553;16694;Large Beam Laser Battery;1;1
+27553;40;Megacyte;10;1
+27554;40;Megacyte;5;1
+27554;37;Isogen;1000;1
+27554;17770;Large AutoCannon Battery;1;1
+27556;17770;Large AutoCannon Battery;1;1
+27556;37;Isogen;1000;1
+27556;40;Megacyte;5;1
+27557;40;Megacyte;5;1
+27557;37;Isogen;1000;1
+27557;16689;Large Artillery Battery;1;1
+27559;16689;Large Artillery Battery;1;1
+27559;37;Isogen;1000;1
+27559;40;Megacyte;5;1
+27560;37;Isogen;1000;1
+27560;17773;Citadel Torpedo Battery;1;1
+27562;17773;Citadel Torpedo Battery;1;1
+27562;37;Isogen;1000;1
+27563;17181;Warp Disruption Battery;1;1
+27565;17181;Warp Disruption Battery;1;1
+27567;17182;Warp Scrambling Battery;1;1
+27569;17182;Warp Scrambling Battery;1;1
+27570;17178;Stasis Webification Battery;1;1
+27570;37;Isogen;100;1
+27573;37;Isogen;100;1
+27573;17178;Stasis Webification Battery;1;1
+27574;17174;Ion Field Projection Battery;1;1
+27574;37;Isogen;100;1
+27576;37;Isogen;100;1
+27576;17174;Ion Field Projection Battery;1;1
+27577;17175;Phase Inversion Battery;1;1
+27577;37;Isogen;100;1
+27579;37;Isogen;100;1
+27579;17175;Phase Inversion Battery;1;1
+27580;17176;Spatial Destabilization Battery;1;1
+27580;37;Isogen;100;1
+27582;37;Isogen;100;1
+27582;17176;Spatial Destabilization Battery;1;1
+27583;17177;White Noise Generation Battery;1;1
+27583;37;Isogen;100;1
+27585;37;Isogen;100;1
+27585;17177;White Noise Generation Battery;1;1
+27589;20059;Amarr Control Tower Medium;1;1
+27589;37;Isogen;25000;1
+27589;36;Mexallon;75000;1
+27589;38;Nocxium;12500;1
+27589;34;Tritanium;1500000;1
+27589;35;Pyerite;250000;1
+27589;39;Zydrine;10000;1
+27589;40;Megacyte;3750;1
+27591;40;Megacyte;3937;1
+27591;39;Zydrine;10500;1
+27591;35;Pyerite;262500;1
+27591;36;Mexallon;78750;1
+27591;34;Tritanium;1575000;1
+27591;38;Nocxium;13125;1
+27591;37;Isogen;26250;1
+27591;20059;Amarr Control Tower Medium;1;1
+27592;20060;Amarr Control Tower Small;1;1
+27592;37;Isogen;12500;1
+27592;38;Nocxium;6250;1
+27592;34;Tritanium;750000;1
+27592;36;Mexallon;37500;1
+27592;35;Pyerite;125000;1
+27592;39;Zydrine;5000;1
+27592;40;Megacyte;1875;1
+27594;40;Megacyte;1968;1
+27594;39;Zydrine;5250;1
+27594;35;Pyerite;131250;1
+27594;36;Mexallon;39375;1
+27594;34;Tritanium;787500;1
+27594;38;Nocxium;6562;1
+27594;37;Isogen;13125;1
+27594;20060;Amarr Control Tower Small;1;1
+27595;20061;Caldari Control Tower Medium;1;1
+27595;37;Isogen;25000;1
+27595;38;Nocxium;12500;1
+27595;34;Tritanium;1500000;1
+27595;36;Mexallon;75000;1
+27595;35;Pyerite;250000;1
+27595;39;Zydrine;10000;1
+27595;40;Megacyte;3750;1
+27597;40;Megacyte;3937;1
+27597;39;Zydrine;10500;1
+27597;35;Pyerite;262500;1
+27597;36;Mexallon;78750;1
+27597;34;Tritanium;1575000;1
+27597;38;Nocxium;13125;1
+27597;37;Isogen;26250;1
+27597;20061;Caldari Control Tower Medium;1;1
+27598;20062;Caldari Control Tower Small;1;1
+27598;37;Isogen;12500;1
+27598;38;Nocxium;6250;1
+27598;34;Tritanium;750000;1
+27598;36;Mexallon;37500;1
+27598;35;Pyerite;125000;1
+27598;39;Zydrine;5000;1
+27598;40;Megacyte;1875;1
+27600;40;Megacyte;1968;1
+27600;39;Zydrine;5250;1
+27600;35;Pyerite;131250;1
+27600;36;Mexallon;39375;1
+27600;34;Tritanium;787500;1
+27600;38;Nocxium;6562;1
+27600;37;Isogen;13125;1
+27600;20062;Caldari Control Tower Small;1;1
+27601;20063;Gallente Control Tower Medium;1;1
+27601;37;Isogen;25000;1
+27601;38;Nocxium;12500;1
+27601;34;Tritanium;1500000;1
+27601;36;Mexallon;75000;1
+27601;35;Pyerite;250000;1
+27601;39;Zydrine;10000;1
+27601;40;Megacyte;3750;1
+27603;40;Megacyte;3937;1
+27603;39;Zydrine;10500;1
+27603;35;Pyerite;262500;1
+27603;36;Mexallon;78750;1
+27603;34;Tritanium;1575000;1
+27603;38;Nocxium;13125;1
+27603;37;Isogen;26250;1
+27603;20063;Gallente Control Tower Medium;1;1
+27604;20064;Gallente Control Tower Small;1;1
+27604;37;Isogen;12500;1
+27604;38;Nocxium;6250;1
+27604;34;Tritanium;750000;1
+27604;36;Mexallon;37500;1
+27604;35;Pyerite;125000;1
+27604;39;Zydrine;5000;1
+27604;40;Megacyte;1875;1
+27606;40;Megacyte;1968;1
+27606;39;Zydrine;5250;1
+27606;35;Pyerite;131250;1
+27606;36;Mexallon;39375;1
+27606;34;Tritanium;787500;1
+27606;38;Nocxium;6562;1
+27606;37;Isogen;13125;1
+27606;20064;Gallente Control Tower Small;1;1
+27607;20065;Minmatar Control Tower Medium;1;1
+27607;37;Isogen;25000;1
+27607;38;Nocxium;12500;1
+27607;34;Tritanium;1500000;1
+27607;36;Mexallon;75000;1
+27607;35;Pyerite;250000;1
+27607;39;Zydrine;10000;1
+27607;40;Megacyte;3750;1
+27609;40;Megacyte;3937;1
+27609;39;Zydrine;10500;1
+27609;35;Pyerite;262500;1
+27609;36;Mexallon;78750;1
+27609;34;Tritanium;1575000;1
+27609;38;Nocxium;13125;1
+27609;37;Isogen;26250;1
+27609;20065;Minmatar Control Tower Medium;1;1
+27610;20066;Minmatar Control Tower Small;1;1
+27610;37;Isogen;12500;1
+27610;38;Nocxium;6250;1
+27610;34;Tritanium;750000;1
+27610;36;Mexallon;37500;1
+27610;35;Pyerite;125000;1
+27610;39;Zydrine;5000;1
+27610;40;Megacyte;1875;1
+27612;40;Megacyte;1968;1
+27612;39;Zydrine;5250;1
+27612;35;Pyerite;131250;1
+27612;36;Mexallon;39375;1
+27612;34;Tritanium;787500;1
+27612;38;Nocxium;6562;1
+27612;37;Isogen;13125;1
+27612;20066;Minmatar Control Tower Small;1;1
+27613;17403;Medium Blaster Battery;1;1
+27613;37;Isogen;100;1
+27613;40;Megacyte;5;1
+27615;40;Megacyte;5;1
+27615;37;Isogen;100;1
+27615;17403;Medium Blaster Battery;1;1
+27616;16691;Medium Railgun Battery;1;1
+27616;37;Isogen;100;1
+27616;40;Megacyte;5;1
+27618;40;Megacyte;5;1
+27618;37;Isogen;100;1
+27618;16691;Medium Railgun Battery;1;1
+27619;17404;Small Blaster Battery;1;1
+27619;37;Isogen;100;1
+27619;40;Megacyte;5;1
+27621;40;Megacyte;5;1
+27621;37;Isogen;100;1
+27621;17404;Small Blaster Battery;1;1
+27622;16690;Small Railgun Battery;1;1
+27622;37;Isogen;100;1
+27622;40;Megacyte;5;1
+27624;40;Megacyte;5;1
+27624;37;Isogen;100;1
+27624;16690;Small Railgun Battery;1;1
+27625;17168;Medium Beam Laser Battery;1;1
+27625;40;Megacyte;10;1
+27627;40;Megacyte;10;1
+27627;17168;Medium Beam Laser Battery;1;1
+27628;17407;Medium Pulse Laser Battery;1;1
+27628;40;Megacyte;10;1
+27630;40;Megacyte;10;1
+27630;17407;Medium Pulse Laser Battery;1;1
+27631;17167;Small Beam Laser Battery;1;1
+27631;40;Megacyte;10;1
+27633;40;Megacyte;10;1
+27633;17167;Small Beam Laser Battery;1;1
+27634;17408;Small Pulse Laser Battery;1;1
+27634;40;Megacyte;10;1
+27636;40;Megacyte;10;1
+27636;17408;Small Pulse Laser Battery;1;1
+27638;16696;Cruise Missile Battery;1;1
+27638;37;Isogen;1000;1
+27640;37;Isogen;1000;1
+27640;16696;Cruise Missile Battery;1;1
+27641;16697;Torpedo Battery;1;1
+27641;37;Isogen;1000;1
+27643;37;Isogen;1000;1
+27643;16697;Torpedo Battery;1;1
+27644;16688;Medium Artillery Battery;1;1
+27644;37;Isogen;1000;1
+27644;40;Megacyte;5;1
+27646;40;Megacyte;5;1
+27646;37;Isogen;1000;1
+27646;16688;Medium Artillery Battery;1;1
+27647;17771;Medium AutoCannon Battery;1;1
+27647;37;Isogen;1000;1
+27647;40;Megacyte;5;1
+27649;40;Megacyte;5;1
+27649;37;Isogen;1000;1
+27649;17771;Medium AutoCannon Battery;1;1
+27650;16631;Small Artillery Battery;1;1
+27650;37;Isogen;1000;1
+27650;40;Megacyte;5;1
+27652;40;Megacyte;5;1
+27652;37;Isogen;1000;1
+27652;16631;Small Artillery Battery;1;1
+27653;17772;Small AutoCannon Battery;1;1
+27653;37;Isogen;1000;1
+27653;40;Megacyte;5;1
+27655;40;Megacyte;5;1
+27655;37;Isogen;1000;1
+27655;17772;Small AutoCannon Battery;1;1
+27672;12269;Heavy Energy Neutralizer I;1;1
+27672;2870;Organic Mortar Applicators;1;1
+27672;2867;Broadcast Node;1;1
+27673;2867;Broadcast Node;10;1
+27673;2870;Organic Mortar Applicators;8;1
+27673;2871;Recursive Computing Module;6;1
+27673;2875;Sterile Conduits;4;1
+27673;2872;Self-Harmonizing Power Core;6;1
+27673;2876;Wetware Mainframe;2;1
+27673;21037;Capital Construction Parts;2;1
+27674;21037;Capital Construction Parts;4;1
+27674;2876;Wetware Mainframe;4;1
+27674;2872;Self-Harmonizing Power Core;10;1
+27674;2871;Recursive Computing Module;5;1
+27674;2870;Organic Mortar Applicators;6;1
+27674;2867;Broadcast Node;10;1
+27674;2868;Integrity Response Drones;6;1
+27766;40;Megacyte;10;1
+27766;16694;Large Beam Laser Battery;1;1
+27767;17406;Large Pulse Laser Battery;1;1
+27767;40;Megacyte;10;1
+27768;40;Megacyte;10;1
+27768;17168;Medium Beam Laser Battery;1;1
+27769;17407;Medium Pulse Laser Battery;1;1
+27769;40;Megacyte;10;1
+27770;40;Megacyte;10;1
+27770;17167;Small Beam Laser Battery;1;1
+27771;17408;Small Pulse Laser Battery;1;1
+27771;40;Megacyte;10;1
+27772;40;Megacyte;10;1
+27772;16694;Large Beam Laser Battery;1;1
+27773;17406;Large Pulse Laser Battery;1;1
+27773;40;Megacyte;10;1
+27774;40;Megacyte;10;1
+27774;17168;Medium Beam Laser Battery;1;1
+27775;17407;Medium Pulse Laser Battery;1;1
+27775;40;Megacyte;10;1
+27776;40;Megacyte;10;1
+27776;17167;Small Beam Laser Battery;1;1
+27777;17408;Small Pulse Laser Battery;1;1
+27777;40;Megacyte;10;1
+27778;37;Isogen;100;1
+27778;17180;Sensor Dampening Battery;1;1
+27779;17180;Sensor Dampening Battery;1;1
+27779;37;Isogen;100;1
+27780;37;Isogen;50000;1
+27780;38;Nocxium;25000;1
+27780;34;Tritanium;3000000;1
+27780;36;Mexallon;150000;1
+27780;35;Pyerite;500000;1
+27780;40;Megacyte;7500;1
+27780;39;Zydrine;20000;1
+27780;12235;Amarr Control Tower;1;1
+27782;20059;Amarr Control Tower Medium;1;1
+27782;39;Zydrine;10000;1
+27782;40;Megacyte;3750;1
+27782;35;Pyerite;250000;1
+27782;36;Mexallon;75000;1
+27782;34;Tritanium;1500000;1
+27782;38;Nocxium;12500;1
+27782;37;Isogen;25000;1
+27784;37;Isogen;12500;1
+27784;38;Nocxium;6250;1
+27784;34;Tritanium;750000;1
+27784;36;Mexallon;37500;1
+27784;35;Pyerite;125000;1
+27784;40;Megacyte;1875;1
+27784;39;Zydrine;5000;1
+27784;20060;Amarr Control Tower Small;1;1
+27786;12235;Amarr Control Tower;1;1
+27786;39;Zydrine;21000;1
+27786;40;Megacyte;7875;1
+27786;35;Pyerite;525000;1
+27786;36;Mexallon;157500;1
+27786;34;Tritanium;3150000;1
+27786;38;Nocxium;26250;1
+27786;37;Isogen;52500;1
+27788;37;Isogen;26250;1
+27788;38;Nocxium;13125;1
+27788;34;Tritanium;1575000;1
+27788;36;Mexallon;78750;1
+27788;35;Pyerite;262500;1
+27788;40;Megacyte;3937;1
+27788;39;Zydrine;10500;1
+27788;20059;Amarr Control Tower Medium;1;1
+27790;20060;Amarr Control Tower Small;1;1
+27790;39;Zydrine;5250;1
+27790;40;Megacyte;1968;1
+27790;35;Pyerite;131250;1
+27790;36;Mexallon;39375;1
+27790;34;Tritanium;787500;1
+27790;38;Nocxium;6562;1
+27790;37;Isogen;13125;1
+27855;37;Isogen;100;1
+27855;27672;Energy Neutralizing Battery;1;1
+27856;27672;Energy Neutralizing Battery;1;1
+27856;37;Isogen;100;1
+27857;37;Isogen;100;1
+27857;27672;Energy Neutralizing Battery;1;1
+27858;27672;Energy Neutralizing Battery;1;1
+27858;37;Isogen;100;1
+27897;2869;Nano-Factory;8;1
+27897;2867;Broadcast Node;5;1
+27897;2868;Integrity Response Drones;4;1
+27897;2870;Organic Mortar Applicators;8;1
+27897;2871;Recursive Computing Module;5;1
+27897;2872;Self-Harmonizing Power Core;5;1
+27897;2875;Sterile Conduits;8;1
+27897;2876;Wetware Mainframe;4;1
+27897;21037;Capital Construction Parts;4;1
+28197;11688;Particle Accelerator Unit;1;1
+28197;11530;Plasma Thruster;1;1
+28197;23523;Heavy Armor Maintenance Bot I;1;1
+28197;9834;Guidance Systems;4;1
+28197;11481;R.A.M.- Robotics;1;0,1
+28197;11399;Morphite;4;1
+28197;9848;Robotics;4;1
+28199;9848;Robotics;4;1
+28199;11399;Morphite;4;1
+28199;11481;R.A.M.- Robotics;1;0,1
+28199;9834;Guidance Systems;4;1
+28199;22765;Heavy Shield Maintenance Bot I;1;1
+28199;11557;Linear Shield Emitter;1;1
+28199;11556;Pulse Shield Emitter;1;1
+28201;11530;Plasma Thruster;1;1
+28201;11688;Particle Accelerator Unit;1;1
+28201;23711;Light Armor Maintenance Bot I;1;1
+28201;9834;Guidance Systems;1;1
+28201;11481;R.A.M.- Robotics;1;0,05
+28201;11399;Morphite;1;1
+28201;9848;Robotics;1;1
+28203;11399;Morphite;2;1
+28203;9848;Robotics;1;1
+28203;11481;R.A.M.- Robotics;1;0,05
+28203;9834;Guidance Systems;1;1
+28203;23719;Light Shield Maintenance Bot I;1;1
+28203;11556;Pulse Shield Emitter;1;1
+28203;11557;Linear Shield Emitter;1;1
+28205;11530;Plasma Thruster;1;1
+28205;11688;Particle Accelerator Unit;1;1
+28205;23709;Medium Armor Maintenance Bot I;1;1
+28205;9834;Guidance Systems;3;1
+28205;11481;R.A.M.- Robotics;1;0,1
+28205;9848;Robotics;3;1
+28205;11399;Morphite;3;1
+28207;11399;Morphite;3;1
+28207;9848;Robotics;3;1
+28207;11481;R.A.M.- Robotics;1;0,1
+28207;9834;Guidance Systems;3;1
+28207;23717;Medium Shield Maintenance Bot I;1;1
+28207;11557;Linear Shield Emitter;1;1
+28207;11556;Pulse Shield Emitter;1;1
+28209;11690;Superconductor Rails;2;1
+28209;23559;Warden I;1;1
+28209;9834;Guidance Systems;3;1
+28209;11481;R.A.M.- Robotics;1;0,1
+28209;9848;Robotics;3;1
+28209;11399;Morphite;3;1
+28211;11399;Morphite;3;1
+28211;9848;Robotics;3;1
+28211;11481;R.A.M.- Robotics;1;0,1
+28211;9834;Guidance Systems;3;1
+28211;23561;Garde I;1;1
+28211;11688;Particle Accelerator Unit;2;1
+28213;11689;Laser Focusing Crystals;2;1
+28213;23525;Curator I;1;1
+28213;9834;Guidance Systems;3;1
+28213;11481;R.A.M.- Robotics;1;0,1
+28213;9848;Robotics;3;1
+28213;11399;Morphite;3;1
+28215;11399;Morphite;3;1
+28215;9848;Robotics;3;1
+28215;11481;R.A.M.- Robotics;1;0,1
+28215;9834;Guidance Systems;3;1
+28215;23563;Bouncer I;1;1
+28215;11691;Thermonuclear Trigger Unit;2;1
+28262;2203;Acolyte I;1;1
+28264;2205;Acolyte II;1;1
+28264;21815;Elite Drone AI;1;1
+28266;2476;Berserker I;1;1
+28268;2478;Berserker II;1;1
+28268;21815;Elite Drone AI;3;1
+28270;2183;Hammerhead I;1;1
+28272;2185;Hammerhead II;1;1
+28272;21815;Elite Drone AI;2;1
+28274;2454;Hobgoblin I;1;1
+28276;2456;Hobgoblin II;1;1
+28276;21815;Elite Drone AI;1;1
+28278;2464;Hornet I;1;1
+28280;2466;Hornet II;1;1
+28280;21815;Elite Drone AI;1;1
+28282;2173;Infiltrator I;1;1
+28284;2175;Infiltrator II;1;1
+28284;21815;Elite Drone AI;2;1
+28286;2444;Ogre I;1;1
+28288;2446;Ogre II;1;1
+28288;21815;Elite Drone AI;3;1
+28290;2193;Praetor I;1;1
+28292;2195;Praetor II;1;1
+28292;21815;Elite Drone AI;3;1
+28294;15510;Valkyrie I;1;1
+28296;21815;Elite Drone AI;2;1
+28296;21640;Valkyrie II;1;1
+28298;15508;Vespa I;1;1
+28300;21815;Elite Drone AI;2;1
+28300;21638;Vespa II;1;1
+28302;2486;Warrior I;1;1
+28304;2488;Warrior II;1;1
+28304;21815;Elite Drone AI;1;1
+28306;1201;Wasp I;1;1
+28308;2436;Wasp II;1;1
+28308;21815;Elite Drone AI;3;1
+28351;21037;Capital Construction Parts;3;1
+28351;2867;Broadcast Node;8;1
+28351;2876;Wetware Mainframe;5;1
+28351;2875;Sterile Conduits;11;1
+28351;2871;Recursive Computing Module;8;1
+28351;2872;Self-Harmonizing Power Core;8;1
+28351;2870;Organic Mortar Applicators;11;1
+28351;2868;Integrity Response Drones;5;1
+28351;2869;Nano-Factory;11;1
+28367;22;Arkonor;1000;1
+28385;17425;Crimson Arkonor;1000;1
+28387;17426;Prime Arkonor;1000;1
+28388;1223;Bistot;1000;1
+28389;17429;Monoclinic Bistot;1000;1
+28390;17428;Triclinic Bistot;1000;1
+28391;1225;Crokite;1250;1
+28392;17433;Crystalline Crokite;1250;1
+28393;17432;Sharp Crokite;1250;1
+28394;1232;Dark Ochre;2000;1
+28395;17437;Obsidian Ochre;2000;1
+28396;17436;Onyx Ochre;2000;1
+28397;1229;Gneiss;4000;1
+28398;17865;Iridescent Gneiss;4000;1
+28399;17866;Prismatic Gneiss;4000;1
+28400;17441;Glazed Hedbergite;5000;1
+28401;21;Hedbergite;5000;1
+28402;17440;Vitric Hedbergite;5000;1
+28403;1231;Hemorphite;5000;1
+28404;17445;Radiant Hemorphite;5000;1
+28405;17444;Vivid Hemorphite;5000;1
+28406;1226;Jaspet;7500;1
+28407;17449;Pristine Jaspet;7500;1
+28408;17448;Pure Jaspet;7500;1
+28409;17453;Fiery Kernite;12000;1
+28410;20;Kernite;12000;1
+28411;17452;Luminous Kernite;12000;1
+28412;17869;Magma Mercoxit;500;1
+28413;11396;Mercoxit;500;1
+28414;17870;Vitreous Mercoxit;500;1
+28415;17868;Golden Omber;25000;1
+28416;1227;Omber;25000;1
+28417;17867;Silvery Omber;25000;1
+28418;17466;Bright Spodumain;1250;1
+28419;17467;Gleaming Spodumain;1250;1
+28420;19;Spodumain;1250;1
+28421;17455;Azure Plagioclase;33300;1
+28422;18;Plagioclase;33300;1
+28423;17456;Rich Plagioclase;33300;1
+28424;1224;Pyroxeres;49950;1
+28425;17459;Solid Pyroxeres;49950;1
+28426;17460;Viscous Pyroxeres;49950;1
+28427;17463;Condensed Scordite;99900;1
+28428;17464;Massive Scordite;99900;1
+28429;1228;Scordite;99900;1
+28430;17470;Concentrated Veldspar;166500;1
+28431;17471;Dense Veldspar;166500;1
+28432;1230;Veldspar;166500;1
+28433;16264;Blue Ice;1;1
+28434;16262;Clear Icicle;1;1
+28435;16267;Dark Glitter;1;1
+28436;17978;Enriched Clear Icicle;1;1
+28437;16268;Gelidus;1;1
+28438;16263;Glacial Mass;1;1
+28439;16266;Glare Crust;1;1
+28440;16269;Krystallos;1;1
+28441;17976;Pristine White Glaze;1;1
+28442;17977;Smooth Glacial Mass;1;1
+28443;17975;Thick Blue Ice;1;1
+28444;16265;White Glaze;1;1
+28576;11689;Laser Focusing Crystals;5;1
+28576;11483;R.A.M.- Electronics;1;0,1
+28576;22542;Mining Laser Upgrade I;1;1
+28576;9842;Miniature Electronics;2;1
+28576;3689;Mechanical Parts;5;1
+28578;3689;Mechanical Parts;5;1
+28578;9842;Miniature Electronics;2;1
+28578;22576;Ice Harvester Upgrade I;1;1
+28578;11483;R.A.M.- Electronics;1;0,15
+28578;11689;Laser Focusing Crystals;5;1
+28659;11478;R.A.M.- Starship Tech;20;0,95
+28659;642;Apocalypse;1;1
+28661;641;Megathron;1;1
+28661;11478;R.A.M.- Starship Tech;20;0,95
+28665;11478;R.A.M.- Starship Tech;20;0,95
+28665;639;Tempest;1;1
+28668;2348;Gel-Matrix Biopaste;1;1
+28668;2463;Nanites;4;1
+28668;17392;Data Chips;1;1
+28710;638;Raven;1;1
+28710;11478;R.A.M.- Starship Tech;20;0,95
+28844;11478;R.A.M.- Starship Tech;40;0,95
+28844;20185;Charon;1;1
+28846;20189;Fenrir;1;1
+28846;11478;R.A.M.- Starship Tech;40;0,95
+28848;11478;R.A.M.- Starship Tech;40;0,95
+28848;20187;Obelisk;1;1
+28850;20183;Providence;1;1
+28850;11478;R.A.M.- Starship Tech;40;0,95
+29039;17317;Fermionic Condensates;20;1
+29045;33361;Plasmonic Metamaterials;20;1
+29051;17317;Fermionic Condensates;20;1
+29059;17317;Fermionic Condensates;20;1
+29073;33360;Terahertz Metamaterials;20;1
+29075;33361;Plasmonic Metamaterials;20;1
+29079;17317;Fermionic Condensates;20;1
+29081;33359;Photonic Metamaterials;20;1
+29085;33359;Photonic Metamaterials;20;1
+29093;33362;Nonlinear Metamaterials;20;1
+29097;33362;Nonlinear Metamaterials;20;1
+29103;33360;Terahertz Metamaterials;20;1
+29248;34;Tritanium;44;1
+29248;36;Mexallon;3001;1
+29248;35;Pyerite;4612;1
+29248;37;Isogen;98;1
+29248;38;Nocxium;60;1
+29613;2872;Self-Harmonizing Power Core;5;1
+29613;2876;Wetware Mainframe;4;1
+29613;2875;Sterile Conduits;8;1
+29613;2868;Integrity Response Drones;4;1
+29613;2869;Nano-Factory;8;1
+29613;2867;Broadcast Node;5;1
+29613;2870;Organic Mortar Applicators;8;1
+29613;2871;Recursive Computing Module;5;1
+29613;21037;Capital Construction Parts;2;1
+29964;30008;Reinforced Metallofullerene Alloys;1;1
+29964;30464;Metallofullerene Plating;1;1
+29964;30470;Neurovisual Output Analyzer;1;1
+29964;30474;Nanowire Composites;1;1
+29964;30002;Fullerene Intercalated Sheets;1;1
+29965;30002;Fullerene Intercalated Sheets;1;1
+29965;30474;Nanowire Composites;1;1
+29965;30470;Neurovisual Output Analyzer;1;1
+29965;30464;Metallofullerene Plating;1;1
+29965;30008;Reinforced Metallofullerene Alloys;1;1
+29966;30008;Reinforced Metallofullerene Alloys;1;1
+29966;30464;Metallofullerene Plating;1;1
+29966;30470;Neurovisual Output Analyzer;1;1
+29966;30474;Nanowire Composites;1;1
+29966;30002;Fullerene Intercalated Sheets;1;1
+29967;30002;Fullerene Intercalated Sheets;1;1
+29967;30474;Nanowire Composites;1;1
+29967;30470;Neurovisual Output Analyzer;1;1
+29967;30464;Metallofullerene Plating;1;1
+29967;30008;Reinforced Metallofullerene Alloys;1;1
+29969;30008;Reinforced Metallofullerene Alloys;1;1
+29969;30464;Metallofullerene Plating;1;1
+29969;30470;Neurovisual Output Analyzer;1;1
+29969;30474;Nanowire Composites;1;1
+29969;30002;Fullerene Intercalated Sheets;1;1
+29970;30002;Fullerene Intercalated Sheets;1;1
+29970;30474;Nanowire Composites;1;1
+29970;30470;Neurovisual Output Analyzer;1;1
+29970;30464;Metallofullerene Plating;1;1
+29970;30008;Reinforced Metallofullerene Alloys;1;1
+29971;30008;Reinforced Metallofullerene Alloys;1;1
+29971;30464;Metallofullerene Plating;1;1
+29971;30470;Neurovisual Output Analyzer;1;1
+29971;30474;Nanowire Composites;1;1
+29971;30002;Fullerene Intercalated Sheets;1;1
+29972;30002;Fullerene Intercalated Sheets;1;1
+29972;30474;Nanowire Composites;1;1
+29972;30470;Neurovisual Output Analyzer;1;1
+29972;30464;Metallofullerene Plating;1;1
+29972;30008;Reinforced Metallofullerene Alloys;1;1
+29974;30008;Reinforced Metallofullerene Alloys;1;1
+29974;30464;Metallofullerene Plating;1;1
+29974;30474;Nanowire Composites;1;1
+29974;30470;Neurovisual Output Analyzer;1;1
+29974;30002;Fullerene Intercalated Sheets;1;1
+29975;30002;Fullerene Intercalated Sheets;1;1
+29975;30470;Neurovisual Output Analyzer;1;1
+29975;30474;Nanowire Composites;1;1
+29975;30464;Metallofullerene Plating;1;1
+29975;30008;Reinforced Metallofullerene Alloys;1;1
+29976;30008;Reinforced Metallofullerene Alloys;1;1
+29976;30464;Metallofullerene Plating;1;1
+29976;30474;Nanowire Composites;1;1
+29976;30470;Neurovisual Output Analyzer;1;1
+29976;30002;Fullerene Intercalated Sheets;1;1
+29977;30002;Fullerene Intercalated Sheets;1;1
+29977;30470;Neurovisual Output Analyzer;1;1
+29977;30474;Nanowire Composites;1;1
+29977;30464;Metallofullerene Plating;1;1
+29977;30008;Reinforced Metallofullerene Alloys;1;1
+29979;30008;Reinforced Metallofullerene Alloys;1;1
+29979;30464;Metallofullerene Plating;1;1
+29979;30470;Neurovisual Output Analyzer;1;1
+29979;30474;Nanowire Composites;1;1
+29979;30002;Fullerene Intercalated Sheets;1;1
+29980;30002;Fullerene Intercalated Sheets;1;1
+29980;30474;Nanowire Composites;1;1
+29980;30470;Neurovisual Output Analyzer;1;1
+29980;30464;Metallofullerene Plating;1;1
+29980;30008;Reinforced Metallofullerene Alloys;1;1
+29981;30008;Reinforced Metallofullerene Alloys;1;1
+29981;30464;Metallofullerene Plating;1;1
+29981;30470;Neurovisual Output Analyzer;1;1
+29981;30474;Nanowire Composites;1;1
+29981;30002;Fullerene Intercalated Sheets;1;1
+29982;30002;Fullerene Intercalated Sheets;1;1
+29982;30474;Nanowire Composites;1;1
+29982;30464;Metallofullerene Plating;1;1
+29982;30008;Reinforced Metallofullerene Alloys;1;1
+29982;30470;Neurovisual Output Analyzer;1;1
+29984;29996;Emergent Neurovisual Interface;1;1
+29984;11478;R.A.M.- Starship Tech;15;0,95
+29986;11478;R.A.M.- Starship Tech;15;0,95
+29986;29996;Emergent Neurovisual Interface;1;1
+29988;29996;Emergent Neurovisual Interface;1;1
+29988;11478;R.A.M.- Starship Tech;15;0,95
+29990;11478;R.A.M.- Starship Tech;15;0,95
+29990;29996;Emergent Neurovisual Interface;1;1
+29992;30018;Fused Nanomechanical Engines;1;1
+29992;30019;Powdered C-540 Graphite;1;1
+29992;30021;Modified Fluid Router;3;1
+29992;30254;Electromechanical Hull Sheeting;5;1
+29992;30304;PPD Fullerene Fibers;10;1
+29992;30307;Lanthanum Metallofullerene;20;1
+29992;30309;Graphene Nanoribbons;20;1
+29994;30309;Graphene Nanoribbons;20;1
+29994;30308;Scandium Metallofullerene;40;1
+29994;30305;Fullerene Intercalated Graphite;10;1
+29994;30254;Electromechanical Hull Sheeting;5;1
+29994;30021;Modified Fluid Router;3;1
+29994;30248;Emergent Combat Analyzer;1;1
+29994;30019;Powdered C-540 Graphite;1;1
+29996;30252;Thermoelectric Catalysts;1;1
+29996;30268;Jump Drive Control Nexus;1;1
+29996;30269;Defensive Control Node;1;1
+29996;30270;Central System Controller;1;1
+29996;30271;Emergent Combat Intelligence;1;1
+29996;30304;PPD Fullerene Fibers;5;1
+29996;30307;Lanthanum Metallofullerene;10;1
+29996;30311;C3-FTM Acid;250;1
+30002;30259;Melted Nanoribbons;2;1
+30002;30304;PPD Fullerene Fibers;5;1
+30002;30305;Fullerene Intercalated Graphite;2;1
+30002;30303;Fulleroferrocene;30;1
+30002;30251;Neurovisual Input Matrix;2;1
+30002;30021;Modified Fluid Router;5;1
+30002;30019;Powdered C-540 Graphite;4;1
+30008;30019;Powdered C-540 Graphite;1;1
+30008;30021;Modified Fluid Router;3;1
+30008;30022;Heuristic Selfassemblers;1;1
+30008;30254;Electromechanical Hull Sheeting;5;1
+30008;30305;Fullerene Intercalated Graphite;10;1
+30008;30308;Scandium Metallofullerene;40;1
+30008;30309;Graphene Nanoribbons;20;1
+30036;30476;Fulleroferrocene Power Conduits;1;1
+30036;30474;Nanowire Composites;1;1
+30036;30466;Electromechanical Interface Nexus;1;1
+30036;30464;Metallofullerene Plating;1;1
+30036;30002;Fullerene Intercalated Sheets;1;1
+30038;30002;Fullerene Intercalated Sheets;1;1
+30038;30464;Metallofullerene Plating;1;1
+30038;30466;Electromechanical Interface Nexus;1;1
+30038;30474;Nanowire Composites;1;1
+30038;30476;Fulleroferrocene Power Conduits;1;1
+30040;30476;Fulleroferrocene Power Conduits;1;1
+30040;30474;Nanowire Composites;1;1
+30040;30466;Electromechanical Interface Nexus;1;1
+30040;30464;Metallofullerene Plating;1;1
+30040;30002;Fullerene Intercalated Sheets;1;1
+30042;30002;Fullerene Intercalated Sheets;1;1
+30042;30464;Metallofullerene Plating;1;1
+30042;30466;Electromechanical Interface Nexus;1;1
+30042;30474;Nanowire Composites;1;1
+30042;30476;Fulleroferrocene Power Conduits;1;1
+30046;30476;Fulleroferrocene Power Conduits;1;1
+30046;30474;Nanowire Composites;1;1
+30046;30466;Electromechanical Interface Nexus;1;1
+30046;30464;Metallofullerene Plating;1;1
+30046;30002;Fullerene Intercalated Sheets;1;1
+30048;30002;Fullerene Intercalated Sheets;1;1
+30048;30464;Metallofullerene Plating;1;1
+30048;30466;Electromechanical Interface Nexus;1;1
+30048;30474;Nanowire Composites;1;1
+30048;30476;Fulleroferrocene Power Conduits;1;1
+30050;30474;Nanowire Composites;1;1
+30050;30464;Metallofullerene Plating;1;1
+30050;30466;Electromechanical Interface Nexus;1;1
+30050;30002;Fullerene Intercalated Sheets;1;1
+30050;30476;Fulleroferrocene Power Conduits;1;1
+30052;30476;Fulleroferrocene Power Conduits;1;1
+30052;30002;Fullerene Intercalated Sheets;1;1
+30052;30466;Electromechanical Interface Nexus;1;1
+30052;30464;Metallofullerene Plating;1;1
+30052;30474;Nanowire Composites;1;1
+30056;30474;Nanowire Composites;1;1
+30056;30464;Metallofullerene Plating;1;1
+30056;30466;Electromechanical Interface Nexus;1;1
+30056;30002;Fullerene Intercalated Sheets;1;1
+30056;30476;Fulleroferrocene Power Conduits;1;1
+30058;30476;Fulleroferrocene Power Conduits;1;1
+30058;30002;Fullerene Intercalated Sheets;1;1
+30058;30466;Electromechanical Interface Nexus;1;1
+30058;30464;Metallofullerene Plating;1;1
+30058;30474;Nanowire Composites;1;1
+30060;30474;Nanowire Composites;1;1
+30060;30464;Metallofullerene Plating;1;1
+30060;30466;Electromechanical Interface Nexus;1;1
+30060;30002;Fullerene Intercalated Sheets;1;1
+30060;30476;Fulleroferrocene Power Conduits;1;1
+30062;30476;Fulleroferrocene Power Conduits;1;1
+30062;30002;Fullerene Intercalated Sheets;1;1
+30062;30466;Electromechanical Interface Nexus;1;1
+30062;30464;Metallofullerene Plating;1;1
+30062;30474;Nanowire Composites;1;1
+30066;30474;Nanowire Composites;1;1
+30066;30464;Metallofullerene Plating;1;1
+30066;30466;Electromechanical Interface Nexus;1;1
+30066;30002;Fullerene Intercalated Sheets;1;1
+30066;30476;Fulleroferrocene Power Conduits;1;1
+30068;30476;Fulleroferrocene Power Conduits;1;1
+30068;30002;Fullerene Intercalated Sheets;1;1
+30068;30466;Electromechanical Interface Nexus;1;1
+30068;30464;Metallofullerene Plating;1;1
+30068;30474;Nanowire Composites;1;1
+30070;30474;Nanowire Composites;1;1
+30070;30464;Metallofullerene Plating;1;1
+30070;30466;Electromechanical Interface Nexus;1;1
+30070;30002;Fullerene Intercalated Sheets;1;1
+30070;30476;Fulleroferrocene Power Conduits;1;1
+30072;30476;Fulleroferrocene Power Conduits;1;1
+30072;30002;Fullerene Intercalated Sheets;1;1
+30072;30466;Electromechanical Interface Nexus;1;1
+30072;30464;Metallofullerene Plating;1;1
+30072;30474;Nanowire Composites;1;1
+30076;30474;Nanowire Composites;1;1
+30076;30464;Metallofullerene Plating;1;1
+30076;30002;Fullerene Intercalated Sheets;1;1
+30076;30476;Fulleroferrocene Power Conduits;1;1
+30076;30478;Reconfigured Subspace Calibrator;1;1
+30078;30478;Reconfigured Subspace Calibrator;1;1
+30078;30476;Fulleroferrocene Power Conduits;1;1
+30078;30002;Fullerene Intercalated Sheets;1;1
+30078;30464;Metallofullerene Plating;1;1
+30078;30474;Nanowire Composites;1;1
+30080;30474;Nanowire Composites;1;1
+30080;30476;Fulleroferrocene Power Conduits;1;1
+30080;30002;Fullerene Intercalated Sheets;1;1
+30080;30464;Metallofullerene Plating;1;1
+30080;30478;Reconfigured Subspace Calibrator;1;1
+30082;30478;Reconfigured Subspace Calibrator;1;1
+30082;30464;Metallofullerene Plating;1;1
+30082;30002;Fullerene Intercalated Sheets;1;1
+30082;30476;Fulleroferrocene Power Conduits;1;1
+30082;30474;Nanowire Composites;1;1
+30086;30474;Nanowire Composites;1;1
+30086;30476;Fulleroferrocene Power Conduits;1;1
+30086;30002;Fullerene Intercalated Sheets;1;1
+30086;30464;Metallofullerene Plating;1;1
+30086;30478;Reconfigured Subspace Calibrator;1;1
+30088;30478;Reconfigured Subspace Calibrator;1;1
+30088;30464;Metallofullerene Plating;1;1
+30088;30002;Fullerene Intercalated Sheets;1;1
+30088;30476;Fulleroferrocene Power Conduits;1;1
+30088;30474;Nanowire Composites;1;1
+30090;30474;Nanowire Composites;1;1
+30090;30476;Fulleroferrocene Power Conduits;1;1
+30090;30002;Fullerene Intercalated Sheets;1;1
+30090;30464;Metallofullerene Plating;1;1
+30090;30478;Reconfigured Subspace Calibrator;1;1
+30092;30478;Reconfigured Subspace Calibrator;1;1
+30092;30464;Metallofullerene Plating;1;1
+30092;30002;Fullerene Intercalated Sheets;1;1
+30092;30476;Fulleroferrocene Power Conduits;1;1
+30092;30474;Nanowire Composites;1;1
+30096;30474;Nanowire Composites;1;1
+30096;30476;Fulleroferrocene Power Conduits;1;1
+30096;30002;Fullerene Intercalated Sheets;1;1
+30096;30464;Metallofullerene Plating;1;1
+30096;30478;Reconfigured Subspace Calibrator;1;1
+30098;30478;Reconfigured Subspace Calibrator;1;1
+30098;30464;Metallofullerene Plating;1;1
+30098;30002;Fullerene Intercalated Sheets;1;1
+30098;30476;Fulleroferrocene Power Conduits;1;1
+30098;30474;Nanowire Composites;1;1
+30100;30474;Nanowire Composites;1;1
+30100;30476;Fulleroferrocene Power Conduits;1;1
+30100;30002;Fullerene Intercalated Sheets;1;1
+30100;30464;Metallofullerene Plating;1;1
+30100;30478;Reconfigured Subspace Calibrator;1;1
+30102;30478;Reconfigured Subspace Calibrator;1;1
+30102;30464;Metallofullerene Plating;1;1
+30102;30002;Fullerene Intercalated Sheets;1;1
+30102;30476;Fulleroferrocene Power Conduits;1;1
+30102;30474;Nanowire Composites;1;1
+30106;30474;Nanowire Composites;1;1
+30106;30476;Fulleroferrocene Power Conduits;1;1
+30106;30002;Fullerene Intercalated Sheets;1;1
+30106;30464;Metallofullerene Plating;1;1
+30106;30478;Reconfigured Subspace Calibrator;1;1
+30108;30478;Reconfigured Subspace Calibrator;1;1
+30108;30464;Metallofullerene Plating;1;1
+30108;30002;Fullerene Intercalated Sheets;1;1
+30108;30476;Fulleroferrocene Power Conduits;1;1
+30108;30474;Nanowire Composites;1;1
+30110;30474;Nanowire Composites;1;1
+30110;30476;Fulleroferrocene Power Conduits;1;1
+30110;30464;Metallofullerene Plating;1;1
+30110;30478;Reconfigured Subspace Calibrator;1;1
+30110;30002;Fullerene Intercalated Sheets;1;1
+30112;30002;Fullerene Intercalated Sheets;1;1
+30112;30478;Reconfigured Subspace Calibrator;1;1
+30112;30464;Metallofullerene Plating;1;1
+30112;30476;Fulleroferrocene Power Conduits;1;1
+30112;30474;Nanowire Composites;1;1
+30117;30476;Fulleroferrocene Power Conduits;1;1
+30117;30470;Neurovisual Output Analyzer;1;1
+30117;30464;Metallofullerene Plating;1;1
+30117;30002;Fullerene Intercalated Sheets;1;1
+30117;29994;Warfare Computation Core;1;1
+30118;29994;Warfare Computation Core;1;1
+30118;30002;Fullerene Intercalated Sheets;1;1
+30118;30464;Metallofullerene Plating;1;1
+30118;30470;Neurovisual Output Analyzer;1;1
+30118;30476;Fulleroferrocene Power Conduits;1;1
+30119;30476;Fulleroferrocene Power Conduits;1;1
+30119;30470;Neurovisual Output Analyzer;1;1
+30119;30464;Metallofullerene Plating;1;1
+30119;30002;Fullerene Intercalated Sheets;1;1
+30119;29994;Warfare Computation Core;1;1
+30120;29994;Warfare Computation Core;1;1
+30120;30002;Fullerene Intercalated Sheets;1;1
+30120;30464;Metallofullerene Plating;1;1
+30120;30470;Neurovisual Output Analyzer;1;1
+30120;30476;Fulleroferrocene Power Conduits;1;1
+30122;30476;Fulleroferrocene Power Conduits;1;1
+30122;30470;Neurovisual Output Analyzer;1;1
+30122;30464;Metallofullerene Plating;1;1
+30122;30002;Fullerene Intercalated Sheets;1;1
+30122;29994;Warfare Computation Core;1;1
+30123;29994;Warfare Computation Core;1;1
+30123;30002;Fullerene Intercalated Sheets;1;1
+30123;30464;Metallofullerene Plating;1;1
+30123;30470;Neurovisual Output Analyzer;1;1
+30123;30476;Fulleroferrocene Power Conduits;1;1
+30124;30476;Fulleroferrocene Power Conduits;1;1
+30124;30470;Neurovisual Output Analyzer;1;1
+30124;30464;Metallofullerene Plating;1;1
+30124;30002;Fullerene Intercalated Sheets;1;1
+30124;29994;Warfare Computation Core;1;1
+30125;29994;Warfare Computation Core;1;1
+30125;30002;Fullerene Intercalated Sheets;1;1
+30125;30464;Metallofullerene Plating;1;1
+30125;30470;Neurovisual Output Analyzer;1;1
+30125;30476;Fulleroferrocene Power Conduits;1;1
+30127;30476;Fulleroferrocene Power Conduits;1;1
+30127;30470;Neurovisual Output Analyzer;1;1
+30127;30464;Metallofullerene Plating;1;1
+30127;30002;Fullerene Intercalated Sheets;1;1
+30127;29994;Warfare Computation Core;1;1
+30128;29994;Warfare Computation Core;1;1
+30128;30002;Fullerene Intercalated Sheets;1;1
+30128;30464;Metallofullerene Plating;1;1
+30128;30470;Neurovisual Output Analyzer;1;1
+30128;30476;Fulleroferrocene Power Conduits;1;1
+30129;30476;Fulleroferrocene Power Conduits;1;1
+30129;30470;Neurovisual Output Analyzer;1;1
+30129;30464;Metallofullerene Plating;1;1
+30129;30002;Fullerene Intercalated Sheets;1;1
+30129;29994;Warfare Computation Core;1;1
+30130;29994;Warfare Computation Core;1;1
+30130;30002;Fullerene Intercalated Sheets;1;1
+30130;30464;Metallofullerene Plating;1;1
+30130;30470;Neurovisual Output Analyzer;1;1
+30130;30476;Fulleroferrocene Power Conduits;1;1
+30132;30476;Fulleroferrocene Power Conduits;1;1
+30132;30470;Neurovisual Output Analyzer;1;1
+30132;30464;Metallofullerene Plating;1;1
+30132;30002;Fullerene Intercalated Sheets;1;1
+30132;29994;Warfare Computation Core;1;1
+30133;29994;Warfare Computation Core;1;1
+30133;30002;Fullerene Intercalated Sheets;1;1
+30133;30464;Metallofullerene Plating;1;1
+30133;30470;Neurovisual Output Analyzer;1;1
+30133;30476;Fulleroferrocene Power Conduits;1;1
+30134;30476;Fulleroferrocene Power Conduits;1;1
+30134;30470;Neurovisual Output Analyzer;1;1
+30134;30464;Metallofullerene Plating;1;1
+30134;29994;Warfare Computation Core;1;1
+30134;30002;Fullerene Intercalated Sheets;1;1
+30135;30002;Fullerene Intercalated Sheets;1;1
+30135;29994;Warfare Computation Core;1;1
+30135;30464;Metallofullerene Plating;1;1
+30135;30470;Neurovisual Output Analyzer;1;1
+30135;30476;Fulleroferrocene Power Conduits;1;1
+30139;30474;Nanowire Composites;1;1
+30139;30476;Fulleroferrocene Power Conduits;1;1
+30139;30464;Metallofullerene Plating;1;1
+30139;29992;Optimized Nano-engines;1;1
+30139;30002;Fullerene Intercalated Sheets;1;1
+30141;30002;Fullerene Intercalated Sheets;1;1
+30141;29992;Optimized Nano-engines;1;1
+30141;30464;Metallofullerene Plating;1;1
+30141;30476;Fulleroferrocene Power Conduits;1;1
+30141;30474;Nanowire Composites;1;1
+30143;30474;Nanowire Composites;1;1
+30143;30476;Fulleroferrocene Power Conduits;1;1
+30143;30464;Metallofullerene Plating;1;1
+30143;29992;Optimized Nano-engines;1;1
+30143;30002;Fullerene Intercalated Sheets;1;1
+30145;30002;Fullerene Intercalated Sheets;1;1
+30145;29992;Optimized Nano-engines;1;1
+30145;30464;Metallofullerene Plating;1;1
+30145;30476;Fulleroferrocene Power Conduits;1;1
+30145;30474;Nanowire Composites;1;1
+30149;30474;Nanowire Composites;1;1
+30149;30476;Fulleroferrocene Power Conduits;1;1
+30149;30464;Metallofullerene Plating;1;1
+30149;29992;Optimized Nano-engines;1;1
+30149;30002;Fullerene Intercalated Sheets;1;1
+30151;30002;Fullerene Intercalated Sheets;1;1
+30151;29992;Optimized Nano-engines;1;1
+30151;30464;Metallofullerene Plating;1;1
+30151;30476;Fulleroferrocene Power Conduits;1;1
+30151;30474;Nanowire Composites;1;1
+30153;30474;Nanowire Composites;1;1
+30153;30476;Fulleroferrocene Power Conduits;1;1
+30153;30464;Metallofullerene Plating;1;1
+30153;29992;Optimized Nano-engines;1;1
+30153;30002;Fullerene Intercalated Sheets;1;1
+30155;30002;Fullerene Intercalated Sheets;1;1
+30155;29992;Optimized Nano-engines;1;1
+30155;30464;Metallofullerene Plating;1;1
+30155;30476;Fulleroferrocene Power Conduits;1;1
+30155;30474;Nanowire Composites;1;1
+30159;30474;Nanowire Composites;1;1
+30159;30476;Fulleroferrocene Power Conduits;1;1
+30159;30464;Metallofullerene Plating;1;1
+30159;29992;Optimized Nano-engines;1;1
+30159;30002;Fullerene Intercalated Sheets;1;1
+30161;30002;Fullerene Intercalated Sheets;1;1
+30161;29992;Optimized Nano-engines;1;1
+30161;30464;Metallofullerene Plating;1;1
+30161;30476;Fulleroferrocene Power Conduits;1;1
+30161;30474;Nanowire Composites;1;1
+30163;30476;Fulleroferrocene Power Conduits;1;1
+30163;30474;Nanowire Composites;1;1
+30163;30464;Metallofullerene Plating;1;1
+30163;29992;Optimized Nano-engines;1;1
+30163;30002;Fullerene Intercalated Sheets;1;1
+30165;30002;Fullerene Intercalated Sheets;1;1
+30165;29992;Optimized Nano-engines;1;1
+30165;30464;Metallofullerene Plating;1;1
+30165;30474;Nanowire Composites;1;1
+30165;30476;Fulleroferrocene Power Conduits;1;1
+30169;30476;Fulleroferrocene Power Conduits;1;1
+30169;30474;Nanowire Composites;1;1
+30169;30464;Metallofullerene Plating;1;1
+30169;29992;Optimized Nano-engines;1;1
+30169;30002;Fullerene Intercalated Sheets;1;1
+30171;30002;Fullerene Intercalated Sheets;1;1
+30171;29992;Optimized Nano-engines;1;1
+30171;30464;Metallofullerene Plating;1;1
+30171;30474;Nanowire Composites;1;1
+30171;30476;Fulleroferrocene Power Conduits;1;1
+30173;30476;Fulleroferrocene Power Conduits;1;1
+30173;30474;Nanowire Composites;1;1
+30173;30464;Metallofullerene Plating;1;1
+30173;29992;Optimized Nano-engines;1;1
+30173;30002;Fullerene Intercalated Sheets;1;1
+30175;30002;Fullerene Intercalated Sheets;1;1
+30175;29992;Optimized Nano-engines;1;1
+30175;30464;Metallofullerene Plating;1;1
+30175;30474;Nanowire Composites;1;1
+30175;30476;Fulleroferrocene Power Conduits;1;1
+30389;21037;Capital Construction Parts;2;1
+30389;2871;Recursive Computing Module;5;1
+30389;2870;Organic Mortar Applicators;8;1
+30389;2867;Broadcast Node;5;1
+30389;2869;Nano-Factory;8;1
+30389;2868;Integrity Response Drones;4;1
+30389;2875;Sterile Conduits;8;1
+30389;2872;Self-Harmonizing Power Core;5;1
+30389;2876;Wetware Mainframe;4;1
+30464;30304;PPD Fullerene Fibers;4;1
+30464;30254;Electromechanical Hull Sheeting;5;1
+30464;30303;Fulleroferrocene;15;1
+30464;30021;Modified Fluid Router;4;1
+30466;30021;Modified Fluid Router;3;1
+30466;30024;Cartesian Temporal Coordinator;1;1
+30466;30254;Electromechanical Hull Sheeting;5;1
+30466;30019;Powdered C-540 Graphite;1;1
+30466;30304;PPD Fullerene Fibers;10;1
+30466;30307;Lanthanum Metallofullerene;20;1
+30466;30309;Graphene Nanoribbons;20;1
+30470;30259;Melted Nanoribbons;4;1
+30470;30308;Scandium Metallofullerene;40;1
+30470;30019;Powdered C-540 Graphite;4;1
+30470;30254;Electromechanical Hull Sheeting;10;1
+30470;30303;Fulleroferrocene;50;1
+30470;30021;Modified Fluid Router;4;1
+30470;30310;Carbon-86 Epoxy Resin;200;1
+30474;30021;Modified Fluid Router;3;1
+30474;30303;Fulleroferrocene;10;1
+30474;30254;Electromechanical Hull Sheeting;3;1
+30474;30304;PPD Fullerene Fibers;2;1
+30476;30304;PPD Fullerene Fibers;10;1
+30476;30306;Methanofullerene;30;1
+30476;30308;Scandium Metallofullerene;40;1
+30476;30254;Electromechanical Hull Sheeting;5;1
+30476;30303;Fulleroferrocene;25;1
+30476;30021;Modified Fluid Router;4;1
+30476;30251;Neurovisual Input Matrix;4;1
+30476;30019;Powdered C-540 Graphite;3;1
+30478;30019;Powdered C-540 Graphite;1;1
+30478;30021;Modified Fluid Router;3;1
+30478;30303;Fulleroferrocene;10;1
+30478;30254;Electromechanical Hull Sheeting;5;1
+30478;30258;Resonance Calibration Matrix;1;1
+30478;30307;Lanthanum Metallofullerene;20;1
+30478;30309;Graphene Nanoribbons;20;1
+30655;2871;Recursive Computing Module;1;1
+30655;2870;Organic Mortar Applicators;1;1
+30655;38;Nocxium;200;1
+30655;34;Tritanium;50000;1
+30655;40;Megacyte;50;1
+30656;40;Megacyte;50;1
+30656;34;Tritanium;50000;1
+30656;38;Nocxium;200;1
+30656;2868;Integrity Response Drones;1;1
+30656;2869;Nano-Factory;1;1
+30656;2867;Broadcast Node;1;1
+30832;9842;Miniature Electronics;6;1
+30832;9840;Transmitter;8;1
+30832;22177;Relic Analyzer I;1;1
+30832;11483;R.A.M.- Electronics;1;0,45
+30832;11536;Ladar Sensor Cluster;3;1
+30832;11539;Nanoelectrical Microprocessor;3;1
+30834;11540;Quantum Microprocessor;3;1
+30834;11536;Ladar Sensor Cluster;3;1
+30834;11483;R.A.M.- Electronics;1;0,45
+30834;22175;Data Analyzer I;1;1
+30834;9840;Transmitter;8;1
+30834;9842;Miniature Electronics;6;1
+30836;9842;Miniature Electronics;6;1
+30836;9840;Transmitter;8;1
+30836;25861;Salvager I;1;1
+30836;11483;R.A.M.- Electronics;1;0,45
+30836;11536;Ladar Sensor Cluster;3;1
+30836;11538;Nanomechanical Microprocessor;3;1
+31003;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31005;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31007;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31015;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31017;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31019;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31027;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31029;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31031;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31039;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31041;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31043;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31049;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31051;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31053;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31057;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31059;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31061;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31069;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31071;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31077;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31079;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31081;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31089;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31091;11475;R.A.M.- Armor/Hull Tech;1;0,2
+31093;11475;R.A.M.- Armor/Hull Tech;1;0,4
+31111;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31113;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31115;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31123;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31125;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31127;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31135;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31137;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31139;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31147;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31149;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31151;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31165;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31167;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31169;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31171;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31173;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31175;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31183;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31185;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31187;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31195;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31197;11475;R.A.M.- Armor/Hull Tech;1;0,15
+31199;11475;R.A.M.- Armor/Hull Tech;1;0,3
+31207;11483;R.A.M.- Electronics;1;0,1
+31209;11483;R.A.M.- Electronics;1;0,1
+31211;11483;R.A.M.- Electronics;1;0,2
+31220;11483;R.A.M.- Electronics;1;0,1
+31222;11483;R.A.M.- Electronics;1;0,1
+31224;11483;R.A.M.- Electronics;1;0,2
+31232;11483;R.A.M.- Electronics;1;0,1
+31234;11483;R.A.M.- Electronics;1;0,1
+31236;11483;R.A.M.- Electronics;1;0,2
+31244;11483;R.A.M.- Electronics;1;0,1
+31246;11483;R.A.M.- Electronics;1;0,1
+31248;11483;R.A.M.- Electronics;1;0,2
+31256;11483;R.A.M.- Electronics;1;0,1
+31258;11483;R.A.M.- Electronics;1;0,1
+31260;11483;R.A.M.- Electronics;1;0,2
+31268;11483;R.A.M.- Electronics;1;0,2
+31268;9842;Miniature Electronics;4;1
+31270;9842;Miniature Electronics;8;1
+31270;11483;R.A.M.- Electronics;1;0,2
+31272;11483;R.A.M.- Electronics;1;0,4
+31272;9842;Miniature Electronics;32;1
+31280;9842;Miniature Electronics;4;1
+31280;11483;R.A.M.- Electronics;1;0,2
+31282;11483;R.A.M.- Electronics;1;0,2
+31282;9842;Miniature Electronics;8;1
+31284;9842;Miniature Electronics;32;1
+31284;11483;R.A.M.- Electronics;1;0,4
+31292;11483;R.A.M.- Electronics;1;0,2
+31292;9842;Miniature Electronics;4;1
+31294;9842;Miniature Electronics;8;1
+31294;11483;R.A.M.- Electronics;1;0,2
+31296;11483;R.A.M.- Electronics;1;0,4
+31296;9842;Miniature Electronics;32;1
+31304;9842;Miniature Electronics;4;1
+31304;11483;R.A.M.- Electronics;1;0,2
+31306;11483;R.A.M.- Electronics;1;0,2
+31306;9842;Miniature Electronics;8;1
+31308;9842;Miniature Electronics;32;1
+31308;11483;R.A.M.- Electronics;1;0,4
+31316;11483;R.A.M.- Electronics;1;0,2
+31316;9842;Miniature Electronics;4;1
+31318;9842;Miniature Electronics;8;1
+31318;11483;R.A.M.- Electronics;1;0,2
+31320;11483;R.A.M.- Electronics;1;0,4
+31320;9842;Miniature Electronics;32;1
+31328;9842;Miniature Electronics;4;1
+31328;11483;R.A.M.- Electronics;1;0,2
+31330;11483;R.A.M.- Electronics;1;0,2
+31330;9842;Miniature Electronics;8;1
+31332;9842;Miniature Electronics;32;1
+31332;11483;R.A.M.- Electronics;1;0,4
+31340;11483;R.A.M.- Electronics;1;0,2
+31340;9842;Miniature Electronics;4;1
+31342;9842;Miniature Electronics;8;1
+31342;11483;R.A.M.- Electronics;1;0,2
+31344;11483;R.A.M.- Electronics;1;0,4
+31344;9842;Miniature Electronics;32;1
+31352;9842;Miniature Electronics;4;1
+31352;11483;R.A.M.- Electronics;1;0,2
+31354;11483;R.A.M.- Electronics;1;0,2
+31354;9842;Miniature Electronics;8;1
+31356;9842;Miniature Electronics;32;1
+31356;11483;R.A.M.- Electronics;1;0,4
+31364;11482;R.A.M.- Energy Tech;1;0,15
+31366;11482;R.A.M.- Energy Tech;1;0,15
+31368;11482;R.A.M.- Energy Tech;1;0,3
+31376;11482;R.A.M.- Energy Tech;1;0,15
+31378;11482;R.A.M.- Energy Tech;1;0,15
+31380;11482;R.A.M.- Energy Tech;1;0,3
+31388;11482;R.A.M.- Energy Tech;1;0,15
+31390;11482;R.A.M.- Energy Tech;1;0,15
+31392;11482;R.A.M.- Energy Tech;1;0,3
+31400;11482;R.A.M.- Energy Tech;1;0,15
+31402;11482;R.A.M.- Energy Tech;1;0,15
+31404;11482;R.A.M.- Energy Tech;1;0,3
+31412;11482;R.A.M.- Energy Tech;1;0,15
+31414;11482;R.A.M.- Energy Tech;1;0,15
+31416;11482;R.A.M.- Energy Tech;1;0,3
+31424;11486;R.A.M.- Weapon Tech;1;0,28
+31426;11486;R.A.M.- Weapon Tech;1;0,28
+31428;11486;R.A.M.- Weapon Tech;1;0,56
+31436;11486;R.A.M.- Weapon Tech;1;0,28
+31438;11486;R.A.M.- Weapon Tech;1;0,28
+31440;11486;R.A.M.- Weapon Tech;1;0,56
+31448;11486;R.A.M.- Weapon Tech;1;0,28
+31450;11486;R.A.M.- Weapon Tech;1;0,28
+31452;11486;R.A.M.- Weapon Tech;1;0,56
+31460;11486;R.A.M.- Weapon Tech;1;0,28
+31462;11486;R.A.M.- Weapon Tech;1;0,28
+31464;11486;R.A.M.- Weapon Tech;1;0,56
+31472;11486;R.A.M.- Weapon Tech;1;0,28
+31474;11486;R.A.M.- Weapon Tech;1;0,28
+31476;11486;R.A.M.- Weapon Tech;1;0,56
+31484;11486;R.A.M.- Weapon Tech;1;0,28
+31486;11486;R.A.M.- Weapon Tech;1;0,28
+31488;11486;R.A.M.- Weapon Tech;1;0,56
+31496;11486;R.A.M.- Weapon Tech;1;0,28
+31498;11486;R.A.M.- Weapon Tech;1;0,28
+31500;11486;R.A.M.- Weapon Tech;1;0,56
+31508;11486;R.A.M.- Weapon Tech;1;0,28
+31510;11486;R.A.M.- Weapon Tech;1;0,28
+31512;11486;R.A.M.- Weapon Tech;1;0,56
+31520;11486;R.A.M.- Weapon Tech;1;0,28
+31522;11486;R.A.M.- Weapon Tech;1;0,28
+31524;11486;R.A.M.- Weapon Tech;1;0,56
+31532;11486;R.A.M.- Weapon Tech;1;0,28
+31534;11486;R.A.M.- Weapon Tech;1;0,28
+31536;11486;R.A.M.- Weapon Tech;1;0,56
+31544;11486;R.A.M.- Weapon Tech;1;0,28
+31546;11486;R.A.M.- Weapon Tech;1;0,28
+31548;11486;R.A.M.- Weapon Tech;1;0,56
+31556;11486;R.A.M.- Weapon Tech;1;0,28
+31558;11486;R.A.M.- Weapon Tech;1;0,28
+31560;11486;R.A.M.- Weapon Tech;1;0,56
+31568;11486;R.A.M.- Weapon Tech;1;0,28
+31570;11486;R.A.M.- Weapon Tech;1;0,28
+31572;11486;R.A.M.- Weapon Tech;1;0,56
+31580;11486;R.A.M.- Weapon Tech;1;0,28
+31582;11486;R.A.M.- Weapon Tech;1;0,28
+31584;11486;R.A.M.- Weapon Tech;1;0,56
+31592;11486;R.A.M.- Weapon Tech;1;0,15
+31594;11486;R.A.M.- Weapon Tech;1;0,15
+31596;11486;R.A.M.- Weapon Tech;1;0,3
+31604;11486;R.A.M.- Weapon Tech;1;0,15
+31606;11486;R.A.M.- Weapon Tech;1;0,15
+31614;11486;R.A.M.- Weapon Tech;1;0,15
+31616;11486;R.A.M.- Weapon Tech;1;0,15
+31618;11486;R.A.M.- Weapon Tech;1;0,3
+31626;11486;R.A.M.- Weapon Tech;1;0,15
+31628;11486;R.A.M.- Weapon Tech;1;0,15
+31630;11486;R.A.M.- Weapon Tech;1;0,3
+31638;11486;R.A.M.- Weapon Tech;1;0,15
+31640;11486;R.A.M.- Weapon Tech;1;0,15
+31642;11486;R.A.M.- Weapon Tech;1;0,3
+31650;11486;R.A.M.- Weapon Tech;1;0,15
+31652;11486;R.A.M.- Weapon Tech;1;0,15
+31654;11486;R.A.M.- Weapon Tech;1;0,3
+31662;11486;R.A.M.- Weapon Tech;1;0,28
+31664;11486;R.A.M.- Weapon Tech;1;0,28
+31666;11486;R.A.M.- Weapon Tech;1;0,56
+31674;11486;R.A.M.- Weapon Tech;1;0,28
+31676;11486;R.A.M.- Weapon Tech;1;0,28
+31678;11486;R.A.M.- Weapon Tech;1;0,56
+31686;11486;R.A.M.- Weapon Tech;1;0,28
+31688;11486;R.A.M.- Weapon Tech;1;0,28
+31690;11486;R.A.M.- Weapon Tech;1;0,56
+31698;11486;R.A.M.- Weapon Tech;1;0,28
+31700;11486;R.A.M.- Weapon Tech;1;0,28
+31702;11486;R.A.M.- Weapon Tech;1;0,56
+31710;11486;R.A.M.- Weapon Tech;1;0,28
+31712;11486;R.A.M.- Weapon Tech;1;0,28
+31714;11486;R.A.M.- Weapon Tech;1;0,56
+31722;11484;R.A.M.- Shield Tech;1;0,1
+31724;11484;R.A.M.- Shield Tech;1;0,1
+31726;11484;R.A.M.- Shield Tech;1;0,2
+31734;11484;R.A.M.- Shield Tech;1;0,1
+31736;11484;R.A.M.- Shield Tech;1;0,1
+31738;11484;R.A.M.- Shield Tech;1;0,2
+31746;11484;R.A.M.- Shield Tech;1;0,1
+31748;11484;R.A.M.- Shield Tech;1;0,1
+31750;11484;R.A.M.- Shield Tech;1;0,2
+31758;11484;R.A.M.- Shield Tech;1;0,1
+31760;11484;R.A.M.- Shield Tech;1;0,1
+31762;11484;R.A.M.- Shield Tech;1;0,2
+31770;11484;R.A.M.- Shield Tech;1;0,1
+31772;11484;R.A.M.- Shield Tech;1;0,1
+31774;11484;R.A.M.- Shield Tech;1;0,2
+31782;11484;R.A.M.- Shield Tech;1;0,1
+31784;11484;R.A.M.- Shield Tech;1;0,1
+31786;11484;R.A.M.- Shield Tech;1;0,2
+31794;11484;R.A.M.- Shield Tech;1;0,1
+31796;11484;R.A.M.- Shield Tech;1;0,1
+31798;11484;R.A.M.- Shield Tech;1;0,2
+31810;11484;R.A.M.- Shield Tech;1;0,1
+31812;11484;R.A.M.- Shield Tech;1;0,1
+31814;11484;R.A.M.- Shield Tech;1;0,2
+31822;11484;R.A.M.- Shield Tech;1;0,1
+31824;11484;R.A.M.- Shield Tech;1;0,1
+31826;11484;R.A.M.- Shield Tech;1;0,2
+32029;11481;R.A.M.- Robotics;1;0,05
+32031;11481;R.A.M.- Robotics;1;0,05
+32037;11481;R.A.M.- Robotics;1;0,05
+32039;11481;R.A.M.- Robotics;1;0,05
+32045;11481;R.A.M.- Robotics;1;0,05
+32047;11481;R.A.M.- Robotics;1;0,05
+32053;11481;R.A.M.- Robotics;1;0,05
+32055;11481;R.A.M.- Robotics;1;0,05
+32061;11481;R.A.M.- Robotics;1;0,05
+32063;11481;R.A.M.- Robotics;1;0,05
+32073;11481;R.A.M.- Robotics;1;0,05
+32075;11481;R.A.M.- Robotics;1;0,05
+32077;11481;R.A.M.- Robotics;1;0,05
+32085;11481;R.A.M.- Robotics;1;0,05
+32087;11481;R.A.M.- Robotics;1;0,05
+32093;11481;R.A.M.- Robotics;1;0,05
+32095;11481;R.A.M.- Robotics;1;0,05
+32226;2868;Integrity Response Drones;4;1
+32226;2869;Nano-Factory;8;1
+32226;2871;Recursive Computing Module;5;1
+32226;2872;Self-Harmonizing Power Core;5;1
+32226;2870;Organic Mortar Applicators;8;1
+32226;2875;Sterile Conduits;8;1
+32226;2876;Wetware Mainframe;4;1
+32226;2867;Broadcast Node;5;1
+32226;21037;Capital Construction Parts;2;1
+32250;21037;Capital Construction Parts;5;1
+32250;2867;Broadcast Node;13;1
+32250;2876;Wetware Mainframe;9;1
+32250;2875;Sterile Conduits;19;1
+32250;2870;Organic Mortar Applicators;19;1
+32250;2872;Self-Harmonizing Power Core;13;1
+32250;2871;Recursive Computing Module;13;1
+32250;2869;Nano-Factory;19;1
+32250;2868;Integrity Response Drones;9;1
+32305;39;Zydrine;6028;1
+32305;40;Megacyte;2805;1
+32305;38;Nocxium;25714;1
+32305;37;Isogen;103125;1
+32305;34;Tritanium;6580260;1
+32305;35;Pyerite;1646104;1
+32305;36;Mexallon;414828;1
+32307;36;Mexallon;384595;1
+32307;35;Pyerite;1527706;1
+32307;34;Tritanium;6107160;1
+32307;37;Isogen;95691;1
+32307;38;Nocxium;23830;1
+32307;40;Megacyte;1993;1
+32307;39;Zydrine;5446;1
+32309;39;Zydrine;3208;1
+32309;40;Megacyte;1333;1
+32309;38;Nocxium;14397;1
+32309;37;Isogen;66480;1
+32309;34;Tritanium;4259868;1
+32309;35;Pyerite;905190;1
+32309;36;Mexallon;242770;1
+32311;36;Mexallon;240030;1
+32311;35;Pyerite;1232906;1
+32311;34;Tritanium;4131160;1
+32311;37;Isogen;67865;1
+32311;38;Nocxium;11195;1
+32311;40;Megacyte;438;1
+32311;39;Zydrine;3532;1
+32458;2867;Broadcast Node;25;1
+32458;2868;Integrity Response Drones;18;1
+32458;2869;Nano-Factory;38;1
+32458;2871;Recursive Computing Module;25;1
+32458;2872;Self-Harmonizing Power Core;25;1
+32458;2870;Organic Mortar Applicators;38;1
+32458;2875;Sterile Conduits;38;1
+32458;2876;Wetware Mainframe;18;1
+32458;21037;Capital Construction Parts;10;1
+33003;34;Tritanium;30000;1
+33003;35;Pyerite;20000;1
+33005;35;Pyerite;6000;1
+33005;34;Tritanium;10000;1
+33007;34;Tritanium;5000;1
+33007;35;Pyerite;5000;1
+33009;35;Pyerite;2000;1
+33009;34;Tritanium;2000;1
+33011;34;Tritanium;1000;1
+33011;35;Pyerite;1000;1
+33149;34;Tritanium;300000;1
+33149;38;Nocxium;600;1
+33149;40;Megacyte;150;1
+33149;2875;Sterile Conduits;3;1
+33149;2870;Organic Mortar Applicators;3;1
+33149;2872;Self-Harmonizing Power Core;3;1
+33197;9842;Miniature Electronics;4;1
+33197;9840;Transmitter;6;1
+33197;11483;R.A.M.- Electronics;1;0,2
+33197;11540;Quantum Microprocessor;2;1
+33197;33176;Scan Acquisition Array I;1;1
+33197;33195;Spatial Attunement Unit;5;1
+33199;33195;Spatial Attunement Unit;5;1
+33199;33178;Scan Pinpointing Array I;1;1
+33199;11540;Quantum Microprocessor;2;1
+33199;11483;R.A.M.- Electronics;1;0,2
+33199;9840;Transmitter;6;1
+33199;9842;Miniature Electronics;4;1
+33201;9842;Miniature Electronics;4;1
+33201;9840;Transmitter;6;1
+33201;11483;R.A.M.- Electronics;1;0,2
+33201;11540;Quantum Microprocessor;2;1
+33201;33180;Scan Rangefinding Array I;1;1
+33201;33195;Spatial Attunement Unit;5;1
+33272;33270;Survey Probe Launcher I;1;1
+33272;11540;Quantum Microprocessor;4;1
+33272;11483;R.A.M.- Electronics;1;0,25
+33272;9834;Guidance Systems;4;1
+33279;11481;R.A.M.- Robotics;1;0,1
+33283;11481;R.A.M.- Robotics;1;0,1
+33287;11481;R.A.M.- Robotics;1;0,1
+33291;11481;R.A.M.- Robotics;1;0,1
+33295;11481;R.A.M.- Robotics;1;0,1
+33298;11481;R.A.M.- Robotics;1;0,1
+33301;11486;R.A.M.- Weapon Tech;1;0,3
+33305;11483;R.A.M.- Electronics;1;0,2
+33309;11481;R.A.M.- Robotics;1;0,1
+33313;11481;R.A.M.- Robotics;1;0,1
+33450;9848;Robotics;10;1
+33450;11486;R.A.M.- Weapon Tech;1;0,35
+33450;11540;Quantum Microprocessor;12;1
+33450;33448;Rapid Heavy Missile Launcher I;1;1
+33474;17898;High-Tech Transmitters;1;1
+33474;9834;Guidance Systems;3;1
+33474;2352;Nuclear Reactors;1;1
+33474;2351;Smartfab Units;3;1
+33475;2876;Wetware Mainframe;1;1
+33475;2870;Organic Mortar Applicators;2;1
+33475;17136;Ukomi Superconductors;2;1
+33475;24348;Small Tractor Beam I;1;1
+33476;2870;Organic Mortar Applicators;8;1
+33476;2872;Self-Harmonizing Power Core;2;1
+33476;2876;Wetware Mainframe;2;1
+33476;2875;Sterile Conduits;4;1
+33476;9834;Guidance Systems;20;1
+33476;2867;Broadcast Node;4;1
+33477;9834;Guidance Systems;100;1
+33477;9842;Miniature Electronics;100;1
+33477;17392;Data Chips;12;1
+33516;2367;Cryoprotectant Solution;535;1
+33516;2346;Synthetic Synapses;488;1
+33520;2351;Smartfab Units;3;1
+33520;2352;Nuclear Reactors;1;1
+33520;9834;Guidance Systems;3;1
+33520;17898;High-Tech Transmitters;1;1
+33522;17898;High-Tech Transmitters;1;1
+33522;9834;Guidance Systems;3;1
+33522;2352;Nuclear Reactors;1;1
+33522;2351;Smartfab Units;3;1
+33525;2348;Gel-Matrix Biopaste;558;1
+33525;2367;Cryoprotectant Solution;488;1
+33526;2367;Cryoprotectant Solution;799;1
+33526;12836;Transcranial Microcontrollers;815;1
+33527;12836;Transcranial Microcontrollers;1135;1
+33527;2346;Synthetic Synapses;963;1
+33528;2348;Gel-Matrix Biopaste;798;1
+33528;12836;Transcranial Microcontrollers;622;1
+33529;2348;Gel-Matrix Biopaste;548;1
+33529;2367;Cryoprotectant Solution;589;1
+33529;2346;Synthetic Synapses;618;1
+33555;2346;Synthetic Synapses;293;1
+33555;2367;Cryoprotectant Solution;321;1
+33557;2367;Cryoprotectant Solution;293;1
+33557;2348;Gel-Matrix Biopaste;335;1
+33559;2367;Cryoprotectant Solution;479;1
+33559;12836;Transcranial Microcontrollers;489;1
+33561;12836;Transcranial Microcontrollers;681;1
+33561;2346;Synthetic Synapses;578;1
+33563;2348;Gel-Matrix Biopaste;479;1
+33563;12836;Transcranial Microcontrollers;373;1
+33565;2348;Gel-Matrix Biopaste;329;1
+33565;2346;Synthetic Synapses;371;1
+33565;2367;Cryoprotectant Solution;353;1
+33581;9834;Guidance Systems;100;1
+33581;9842;Miniature Electronics;100;1
+33581;17392;Data Chips;12;1
+33583;17392;Data Chips;12;1
+33583;9842;Miniature Electronics;100;1
+33583;9834;Guidance Systems;100;1
+33587;2876;Wetware Mainframe;2;1
+33587;2872;Self-Harmonizing Power Core;1;1
+33587;2870;Organic Mortar Applicators;2;1
+33587;2351;Smartfab Units;1;1
+33587;2867;Broadcast Node;1;1
+33589;2867;Broadcast Node;6;1
+33589;2351;Smartfab Units;10;1
+33589;2876;Wetware Mainframe;3;1
+33591;9834;Guidance Systems;4;1
+33591;2351;Smartfab Units;3;1
+33591;2352;Nuclear Reactors;2;1
+33591;17898;High-Tech Transmitters;2;1
