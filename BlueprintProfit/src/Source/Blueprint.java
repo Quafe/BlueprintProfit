@@ -68,16 +68,39 @@ public class Blueprint {
     /*******************
     * MEMBER FUNCTIONS *
     *******************/
+    public void printBlueprint(){
+        printAttributes();
+        printMaterials();
+        printExtraMaterials();
+        System.out.println();
+    }
     public void printAttributes() {
-        System.out.println("###[BLUEPRINT]###");
-        System.out.println("# BID:" + BlueprintID + "\t BName:" + BlueprintName);
-        System.out.println("# PID:" + ProductID + "\t PName:" + ProductName);
-        System.out.println("# PTime:" + ProductionTime + "\t PSize:" + PortionSize);
-        System.out.println("# RPE:" + ResearchTimePE + "\t RME:" + ResearchTimeME + "\t RCP:" + ResearchTimeCopy);
-        System.out.println("# PMod:" + ProductivityModifier + "\t MMod:" + MaterialModifier);
-        System.out.println("# Waste:" + WasteFactor + "\t PLimit:" + ProductionLimit);
-        // TODO add print materials
-        // TODO add print extra materials
+        System.out.println("##### ["+BlueprintID+"] "+BlueprintName+" #####");
+        System.out.println("# Product: [" + ProductID + "] " + ProductName);
+        System.out.println("# ProductionTime:" + ProductionTime + "\t PortionSize:" + PortionSize);
+        System.out.println("# Research: PE[" + ResearchTimePE + "] ME[" + ResearchTimeME + "] Copy[" + ResearchTimeCopy+"]");
+        System.out.println("# ProdMod:" + ProductivityModifier + "\t MatMod:" + MaterialModifier);
+        System.out.println("# Wasteage:" + WasteFactor + "\t ProdLimit:" + ProductionLimit);
+    }
+    public void printMaterials(){
+        System.out.println("##### MATERIALS #####");
+        if(Materials.size() == 0) {
+            System.out.println("# none");
+            return;
+        }
+        for (int i = 0; i < Materials.size(); i++) {
+            Materials.get(i).printMaterials();
+        }
+    }
+    public void printExtraMaterials(){
+        System.out.println("##### EXTRAMATERIALS #####");
+        if(ExtraMaterials.size() == 0) {
+            System.out.println("# none");
+            return;
+        }
+        for (int i = 0; i < ExtraMaterials.size(); i++) {
+            ExtraMaterials.get(i).printExtraMaterials();
+        }
     }
     public boolean hasMaterials(){
         return Materials.size() == 0 ? false : true;

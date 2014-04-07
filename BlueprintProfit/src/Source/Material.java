@@ -29,8 +29,8 @@ public class Material {
     /*******************
     * MEMBER FUNCTIONS *
     *******************/
-    void printExtraMaterials() {
-        System.out.println("# MatID:" + MaterialID + "\t MatName:" + MaterialName);
+    void printMaterials() {
+        System.out.println("# Material: [" + MaterialID + "] " + MaterialName);
         System.out.println("# Quantity:" + Quantity);
     }
 }
