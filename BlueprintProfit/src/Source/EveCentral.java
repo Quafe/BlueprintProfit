@@ -4,18 +4,52 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.Queue;
+import java.util.Map;
 
 /**
  * Organizes prices from eve central
  */
 public class EveCentral {
-    
+    // struct for single price stats
+    private class Stats{
+        // max price is 9.223.372.036.854,00
+        long volume;
+        long avg;
+        long max;
+        long min;
+        int stddev;
+        long median;
+        int percentile;
+        // parse data line from xml
+        private void parse(String s){
+            volume = Long.parseLong(substr(s, "<volume>", "</volume>"));
+            avg = Long.parseLong(substr(s, "<avg>", "</avg>").replace(".", ""));
+            max = Long.parseLong(substr(s, "<max>", "</max>").replace(".", ""));
+            min = Long.parseLong(substr(s, "<min>", "</min>").replace(".", ""));
+            stddev = Integer.parseInt(substr(s, "<stddev>", "</stddev>").replace(".", ""));
+            median = Long.parseLong(substr(s, "<median>", "</median>").replace(".", ""));
+            percentile = Integer.parseInt(substr(s, "<percentile>", "</percentile>").replace(".", ""));
+        }
+    }
+    // struct for XML data
+    private class Price{
+        int itemID;
+        Stats buy;
+        Stats sell;
+        Stats all;
+        public Price(){
+            buy = new Stats();
+            sell = new Stats();
+            all = new Stats();
+        }
+    }
     /*************
     * ATTRIBUTES *
     *************/
     LinkedList<String> DownloadQueue;
+    Map<Integer, Price> Data;
     
     /***************
     * CONSTRUCTORS *
@@ -25,6 +59,7 @@ public class EveCentral {
         DownloadQueue.add("34");
         DownloadQueue.add("35");
         DownloadQueue.add("36");
+        Data = new HashMap<>();
     }
     
     /*******************
@@ -41,18 +76,44 @@ public class EveCentral {
             URLName += "&typeid="+DownloadQueue.poll();
         }
         try{
-            System.err.println(URLName);
             URL url = new URL(URLName);
             BufferedReader br = new BufferedReader( new InputStreamReader(url.openStream()));
             String xmlfile = "";
             String line;
             while ((line = br.readLine()) != null) {                
-                xmlfile += line;
+                xmlfile += line+"\n";
+            }
+            
+            // STRIP EVE CENTRAL HEADER
+            String ohneheader;
+            ohneheader = substr(xmlfile, "<marketstat>", "</marketstat>");
+            
+            // BREAK DOWN INTO SINGLE ITEMS
+            String[] items;
+            String splitat = "</type>";
+            items = ohneheader.split(splitat);
+            
+            // for each item in query
+            for (String item : items) {
+                // temporary data struct
+                Price tmp = new Price();
+                // item ID
+                tmp.itemID = Integer.parseInt(substr(item, "<type id=\"", "\">"));
+                // buy values
+                String buy = substr(item, "<buy>", "</buy>");
+                tmp.buy.parse(buy);
+                // sell values
+                String sell = substr(item, "<sell>", "</sell>");
+                tmp.buy.parse(sell);
+                // all values
+                String all = substr(item, "<all>", "</all>");
+                tmp.buy.parse(all);
+                // add to HashMap
+                Data.put(tmp.itemID, tmp);
             }
         }catch(IOException e){
             e.printStackTrace();
         }
-        
     }
     public void addID(){
         // adds ID to download queue
@@ -62,5 +123,9 @@ public class EveCentral {
     }
     public void Sell(int ID){
         // returns sell price for given id
+    }
+    
+    private String substr(String s, String b, String e){
+        return s.substring(s.indexOf(b)+b.length(), s.indexOf(e));
     }
 }
