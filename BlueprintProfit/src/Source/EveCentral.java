@@ -12,8 +12,10 @@ import java.util.Map;
  * Organizes prices from eve central
  */
 public class EveCentral {
+
     // struct for single price stats
-    private class Stats{
+    private class Stats {
+
         // max price is 9.223.372.036.854,00
         long volume;
         long avg;
@@ -22,8 +24,9 @@ public class EveCentral {
         int stddev;
         long median;
         int percentile;
+
         // parse data line from xml
-        private void parse(String s){
+        private void parse(String s) {
             volume = Long.parseLong(substr(s, "<volume>", "</volume>"));
             avg = Long.parseLong(substr(s, "<avg>", "</avg>").replace(".", ""));
             max = Long.parseLong(substr(s, "<max>", "</max>").replace(".", ""));
@@ -33,66 +36,67 @@ public class EveCentral {
             percentile = Integer.parseInt(substr(s, "<percentile>", "</percentile>").replace(".", ""));
         }
     }
+
     // struct for XML data
-    private class Price{
+    private class Price {
+
         int itemID;
         Stats buy;
         Stats sell;
         Stats all;
-        public Price(){
+
+        public Price() {
             buy = new Stats();
             sell = new Stats();
             all = new Stats();
         }
     }
-    /*************
-    * ATTRIBUTES *
-    *************/
+    /**
+     * ATTRIBUTES
+     */
     LinkedList<String> DownloadQueue;
     Map<Integer, Price> Data;
-    
-    /***************
-    * CONSTRUCTORS *
-    ***************/
-    public EveCentral(){
+
+    /**
+     * CONSTRUCTORS
+     */
+    public EveCentral() {
         DownloadQueue = new LinkedList();
-        DownloadQueue.add("34");
-        DownloadQueue.add("35");
-        DownloadQueue.add("36");
         Data = new HashMap<>();
     }
-    
-    /*******************
-    * MEMBER FUNCTIONS *
-    *******************/
-    public void Download(){
+
+    /**
+     * MEMBER FUNCTIONS
+     */
+    public void Download() {
         // abort if nothing in queue
-        if(DownloadQueue.size() == 0)
+        if (DownloadQueue.size() == 0) {
             return;
+        }
 
         // construct download url string
         String URLName = "http://api.eve-central.com/api/marketstat?usesystem=30000142";
-        while(!DownloadQueue.isEmpty()){
-            URLName += "&typeid="+DownloadQueue.poll();
+        while (!DownloadQueue.isEmpty()) {
+            URLName += "&typeid=" + DownloadQueue.poll();
         }
-        try{
+        try {
             URL url = new URL(URLName);
-            BufferedReader br = new BufferedReader( new InputStreamReader(url.openStream()));
+            BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
             String xmlfile = "";
             String line;
-            while ((line = br.readLine()) != null) {                
-                xmlfile += line+"\n";
+            while ((line = br.readLine()) != null) {
+                xmlfile += line + "\n";
             }
-            
+
             // STRIP EVE CENTRAL HEADER
             String ohneheader;
             ohneheader = substr(xmlfile, "<marketstat>", "</marketstat>");
-            
+
             // BREAK DOWN INTO SINGLE ITEMS
             String[] items;
             String splitat = "</type>";
             items = ohneheader.split(splitat);
-            
+
             // for each item in query
             for (String item : items) {
                 // temporary data struct
@@ -111,21 +115,24 @@ public class EveCentral {
                 // add to HashMap
                 Data.put(tmp.itemID, tmp);
             }
-        }catch(IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
-    public void addID(){
+
+    public void addID() {
         // adds ID to download queue
     }
-    public void Buy(int ID){
+
+    public void Buy(int ID) {
         // returns buy price for given id
     }
-    public void Sell(int ID){
+
+    public void Sell(int ID) {
         // returns sell price for given id
     }
-    
-    private String substr(String s, String b, String e){
-        return s.substring(s.indexOf(b)+b.length(), s.indexOf(e));
+
+    private String substr(String s, String b, String e) {
+        return s.substring(s.indexOf(b) + b.length(), s.indexOf(e));
     }
 }

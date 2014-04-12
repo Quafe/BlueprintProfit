@@ -11,31 +11,32 @@ import java.util.ArrayList;
  * holds a list of all blueprints
  */
 public class Blueprints {
-    
-    /*************
-    * ATTRIBUTES *
-    *************/
+
+    /**
+     * ATTRIBUTES
+     */
     public ArrayList<Blueprint> BPL;
-    
-    /**************
-    * CONSTRUCTOR *
-    **************/
+
+    /**
+     * CONSTRUCTOR
+     */
     public Blueprints() {
         BPL = new ArrayList<>();
     }
-    
-    /*******************
-    * MEMBER FUNCTIONS *
-    *******************/
-    public void Load(){
+
+    /**
+     * MEMBER FUNCTIONS
+     */
+    public void Load() {
         LoadBlueprints();
         LoadMaterials();
         LoadExtraMaterials();
     }
-    private void LoadBlueprints(){
+
+    private void LoadBlueprints() {
         String Path = "Data/";
         String Filename = "Blueprints.csv";
-        try{
+        try {
             // iostream
             BufferedReader br;
             // csv lies in data folder, charset is utf-8 without bom
@@ -74,10 +75,11 @@ public class Blueprints {
             System.err.format("IOException: %s%n", e);
         }
     }
-    private void LoadMaterials(){
+
+    private void LoadMaterials() {
         String Path = "Data/";
         String Filename = "Materials.csv";
-        try{
+        try {
             // iostream
             BufferedReader br;
             // csv lies in data folder, charset is utf-8 without bom
@@ -97,11 +99,11 @@ public class Blueprints {
                 m.Quantity = Integer.parseInt(split[3]);
 
                 int index = SearchProductID(ProductID);
-                
+
                 // this should NEVER happen
-                if(index == -1)
-                    System.err.println("CSV DATA ERROR! PRODUCTID("+ProductID+") NOT FOUND! MATERIAL WITHOUT BLUEPRINT!");
-                else{
+                if (index == -1) {
+                    System.err.println("CSV DATA ERROR! PRODUCTID(" + ProductID + ") NOT FOUND! MATERIAL WITHOUT BLUEPRINT!");
+                } else {
                     BPL.get(index).Materials.add(m);
                 }
             }
@@ -112,10 +114,11 @@ public class Blueprints {
             System.err.format("IOException: %s%n", e);
         }
     }
-    private void LoadExtraMaterials(){
+
+    private void LoadExtraMaterials() {
         String Path = "Data/";
         String Filename = "ExtraMaterials.csv";
-        try{
+        try {
             // iostream
             BufferedReader br;
             // csv lies in data folder, charset is utf-8 without bom
@@ -135,13 +138,13 @@ public class Blueprints {
                 m.Quantity = Integer.parseInt(split[3]);
                 split[4] = split[4].replace(",", ".");
                 m.DamagePerJob = Float.parseFloat(split[4]);
-                        
+
                 int index = SearchProductID(ProductID);
-                
+
                 // this should NEVER happen
-                if(index == -1)
-                    System.err.println("CSV DATA ERROR! PRODUCTID("+ProductID+") NOT FOUND! EXTRAMATERIAL WITHOUT BLUEPRINT!");
-                else{
+                if (index == -1) {
+                    System.err.println("CSV DATA ERROR! PRODUCTID(" + ProductID + ") NOT FOUND! EXTRAMATERIAL WITHOUT BLUEPRINT!");
+                } else {
                     BPL.get(index).ExtraMaterials.add(m);
                 }
             }
@@ -152,9 +155,10 @@ public class Blueprints {
             System.err.format("IOException: %s%n", e);
         }
     }
+
     // returns index of Blueprint in BPL with searched ProductID
     // if ProductID wasnt found return value is -1
-    public int SearchProductID(int ProductID){
+    public int SearchProductID(int ProductID) {
         for (int i = 0; i < BPL.size(); i++) {
             if (ProductID == BPL.get(i).ProductID) {
                 return i;
@@ -162,10 +166,11 @@ public class Blueprints {
         }
         return -1;
     }
+
     // returns true if all Blueprints have Materials or ExtraMaterials
-    public boolean AllBlueprintsHaveMaterials(){
+    public boolean AllBlueprintsHaveMaterials() {
         for (int i = 0; i < BPL.size(); i++) {
-            if(!BPL.get(i).hasMaterials() & !BPL.get(i).hasExtraMaterials()){
+            if (!BPL.get(i).hasMaterials() & !BPL.get(i).hasExtraMaterials()) {
                 return false;
             }
         }

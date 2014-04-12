@@ -6,10 +6,10 @@ import java.util.ArrayList;
  * Datastructure for a single Blueprint
  */
 public class Blueprint {
-    
-    /*************
-    * ATTRIBUTES *
-    *************/
+
+    /**
+     * ATTRIBUTES
+     */
     int BlueprintID;            // typeID of the blueprint
     String BlueprintName;       // blueprint name
     int ProductID;              // typeID of produced item
@@ -26,10 +26,10 @@ public class Blueprint {
     int ProductionLimit;        // maximum number of runs per blueprintcopy
     ArrayList<Material> Materials;  // vector of blueprint materials
     ArrayList<ExtraMaterial> ExtraMaterials;   // vector of blueprint extra materials
-    
-    /***************
-    * CONSTRUCTORS *
-    ***************/
+
+    /**
+     * CONSTRUCTORS
+     */
     public Blueprint() {
         this.BlueprintID = 0;
         this.BlueprintName = "";
@@ -47,6 +47,7 @@ public class Blueprint {
         Materials = new ArrayList<>();
         ExtraMaterials = new ArrayList<>();
     }
+
     public Blueprint(int BlueprintID, String BlueprintName, int ProductID, String ProductName, int ProductionTime, int PortionSize, int ResearchTimePE, int ResearchTimeME, int ResearchTimeCopy, int ProductivityModifier, int MaterialModifier, float WasteFactor, int ProductionLimit, ArrayList<Material> Materials, ArrayList<ExtraMaterial> ExtraMaterials) {
         this.BlueprintID = BlueprintID;
         this.BlueprintName = BlueprintName;
@@ -64,27 +65,29 @@ public class Blueprint {
         this.Materials = Materials;
         this.ExtraMaterials = ExtraMaterials;
     }
-    
-    /*******************
-    * MEMBER FUNCTIONS *
-    *******************/
-    public void printBlueprint(){
+
+    /**
+     * MEMBER FUNCTIONS
+     */
+    public void printBlueprint() {
         printAttributes();
         printMaterials();
         printExtraMaterials();
         System.out.println();
     }
+
     public void printAttributes() {
-        System.out.println("##### ["+BlueprintID+"] "+BlueprintName+" #####");
+        System.out.println("##### [" + BlueprintID + "] " + BlueprintName + " #####");
         System.out.println("# Product: [" + ProductID + "] " + ProductName);
         System.out.println("# ProductionTime:" + ProductionTime + "\t PortionSize:" + PortionSize);
-        System.out.println("# Research: PE[" + ResearchTimePE + "] ME[" + ResearchTimeME + "] Copy[" + ResearchTimeCopy+"]");
+        System.out.println("# Research: PE[" + ResearchTimePE + "] ME[" + ResearchTimeME + "] Copy[" + ResearchTimeCopy + "]");
         System.out.println("# ProdMod:" + ProductivityModifier + "\t MatMod:" + MaterialModifier);
         System.out.println("# Wasteage:" + WasteFactor + "\t ProdLimit:" + ProductionLimit);
     }
-    public void printMaterials(){
+
+    public void printMaterials() {
         System.out.println("##### MATERIALS #####");
-        if(Materials.size() == 0) {
+        if (Materials.isEmpty()) {
             System.out.println("# none");
             return;
         }
@@ -92,9 +95,10 @@ public class Blueprint {
             Materials.get(i).printMaterials();
         }
     }
-    public void printExtraMaterials(){
+
+    public void printExtraMaterials() {
         System.out.println("##### EXTRAMATERIALS #####");
-        if(ExtraMaterials.size() == 0) {
+        if (ExtraMaterials.isEmpty()) {
             System.out.println("# none");
             return;
         }
@@ -102,10 +106,12 @@ public class Blueprint {
             ExtraMaterials.get(i).printExtraMaterials();
         }
     }
-    public boolean hasMaterials(){
-        return Materials.size() == 0 ? false : true;
+
+    public boolean hasMaterials() {
+        return !Materials.isEmpty();
     }
-    public boolean hasExtraMaterials(){
-        return ExtraMaterials.size() == 0 ? false : true;
+
+    public boolean hasExtraMaterials() {
+        return !ExtraMaterials.isEmpty();
     }
 }
