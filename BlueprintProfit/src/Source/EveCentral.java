@@ -14,7 +14,7 @@ import java.util.Map;
 public class EveCentral {
 
     // struct for single price stats
-    private class Stats {
+    public class Stats {
 
         // max price is 9.223.372.036.854,00
         long volume;
@@ -38,9 +38,8 @@ public class EveCentral {
     }
 
     // struct for XML data
-    private class Price {
+    public class Price {
 
-        int itemID;
         Stats buy;
         Stats sell;
         Stats all;
@@ -54,8 +53,8 @@ public class EveCentral {
     /**
      * ATTRIBUTES
      */
-    LinkedList<String> DownloadQueue;
-    Map<Integer, Price> Data;
+    public static LinkedList<String> DownloadQueue;
+    public static Map<Integer, Price> Data;
 
     /**
      * CONSTRUCTORS
@@ -102,7 +101,7 @@ public class EveCentral {
                 // temporary data struct
                 Price tmp = new Price();
                 // item ID
-                tmp.itemID = Integer.parseInt(substr(item, "<type id=\"", "\">"));
+                int itemID = Integer.parseInt(substr(item, "<type id=\"", "\">"));
                 // buy values
                 String buy = substr(item, "<buy>", "</buy>");
                 tmp.buy.parse(buy);
@@ -113,23 +112,17 @@ public class EveCentral {
                 String all = substr(item, "<all>", "</all>");
                 tmp.buy.parse(all);
                 // add to HashMap
-                Data.put(tmp.itemID, tmp);
+                Data.put(itemID, tmp);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public void addID() {
-        // adds ID to download queue
-    }
-
-    public void Buy(int ID) {
-        // returns buy price for given id
-    }
-
-    public void Sell(int ID) {
-        // returns sell price for given id
+    public void addID(int id) {
+        if (!Data.containsKey(id)) {
+            DownloadQueue.add(String.valueOf(id));
+        }
     }
 
     private String substr(String s, String b, String e) {

@@ -11,7 +11,7 @@ public class ExtraMaterial {
     int MaterialID;         // typeID of material
     String MaterialName;    // typeName of material
     int Quantity;           // quantity needed for single run
-    float DamagePerJob;     // damage of material per run in percentage
+    int DamagePerJob;     // damage of material per run in percentage
 
     /**
      * CONSTRUCTOR
@@ -20,10 +20,10 @@ public class ExtraMaterial {
         this.MaterialID = 0;
         this.MaterialName = "";
         this.Quantity = 0;
-        this.DamagePerJob = 0.0f;
+        this.DamagePerJob = 0;
     }
 
-    public ExtraMaterial(int MaterialID, String MaterialName, int Quantity, float DamagePerJob) {
+    public ExtraMaterial(int MaterialID, String MaterialName, int Quantity, int DamagePerJob) {
         this.MaterialID = MaterialID;
         this.MaterialName = MaterialName;
         this.Quantity = Quantity;

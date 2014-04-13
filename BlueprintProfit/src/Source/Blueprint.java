@@ -22,7 +22,7 @@ public class Blueprint {
     int ResearchTimeCopy;       // base copy time, equal to half maxProductionLimit runs?
     int ProductivityModifier;   // used for manufacturing time (time+(1-PE)*modifier)
     int MaterialModifier;       // used at all? base mineral modifier?
-    float WasteFactor;          // wastage factor for materials
+    int WasteFactor;            // wastage factor for materials
     int ProductionLimit;        // maximum number of runs per blueprintcopy
     ArrayList<Material> Materials;  // vector of blueprint materials
     ArrayList<ExtraMaterial> ExtraMaterials;   // vector of blueprint extra materials
@@ -42,13 +42,13 @@ public class Blueprint {
         this.ResearchTimeCopy = 0;
         this.ProductivityModifier = 0;
         this.MaterialModifier = 0;
-        this.WasteFactor = 0.0f;
+        this.WasteFactor = 0;
         this.ProductionLimit = 0;
         Materials = new ArrayList<>();
         ExtraMaterials = new ArrayList<>();
     }
 
-    public Blueprint(int BlueprintID, String BlueprintName, int ProductID, String ProductName, int ProductionTime, int PortionSize, int ResearchTimePE, int ResearchTimeME, int ResearchTimeCopy, int ProductivityModifier, int MaterialModifier, float WasteFactor, int ProductionLimit, ArrayList<Material> Materials, ArrayList<ExtraMaterial> ExtraMaterials) {
+    public Blueprint(int BlueprintID, String BlueprintName, int ProductID, String ProductName, int ProductionTime, int PortionSize, int ResearchTimePE, int ResearchTimeME, int ResearchTimeCopy, int ProductivityModifier, int MaterialModifier, int WasteFactor, int ProductionLimit, ArrayList<Material> Materials, ArrayList<ExtraMaterial> ExtraMaterials) {
         this.BlueprintID = BlueprintID;
         this.BlueprintName = BlueprintName;
         this.ProductID = ProductID;
@@ -105,6 +105,17 @@ public class Blueprint {
         for (int i = 0; i < ExtraMaterials.size(); i++) {
             ExtraMaterials.get(i).printExtraMaterials();
         }
+    }
+
+    // returns highes amount of needed materials (used for perfect ME calculation)
+    public int highestMaterialQuantity() {
+        int highestAmount = 0;
+        for (Material m : Materials) {
+            if (highestAmount < m.Quantity) {
+                highestAmount = m.Quantity;
+            }
+        }
+        return highestAmount;
     }
 
     public boolean hasMaterials() {

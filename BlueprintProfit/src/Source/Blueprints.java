@@ -62,7 +62,7 @@ public class Blueprints {
                 b.ResearchTimeCopy = Integer.parseInt(split[9]);
                 b.ProductivityModifier = Integer.parseInt(split[10]);
                 b.MaterialModifier = Integer.parseInt(split[11]);
-                b.WasteFactor = Float.parseFloat(split[12]);
+                b.WasteFactor = Integer.parseInt(split[12]);
                 b.ProductionLimit = Integer.parseInt(split[13]);
 
                 // push into main data structure list from class
@@ -136,8 +136,9 @@ public class Blueprints {
                 m.MaterialID = Integer.parseInt(split[1]);
                 m.MaterialName = split[2];
                 m.Quantity = Integer.parseInt(split[3]);
-                split[4] = split[4].replace(",", ".");
-                m.DamagePerJob = Float.parseFloat(split[4]);
+                split[4] = split[4].replace(",", "");
+                split[4] = split[4].replace("0", "");
+                m.DamagePerJob = Integer.parseInt(split[4]);
 
                 int index = SearchProductID(ProductID);
 
